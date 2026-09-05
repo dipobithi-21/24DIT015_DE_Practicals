@@ -1,0 +1,4 @@
+Database=SQLite
+Environment=Development
+Version=1.0
+Author=Marketing Team

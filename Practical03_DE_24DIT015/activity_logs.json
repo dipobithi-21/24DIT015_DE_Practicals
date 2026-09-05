@@ -1,0 +1,8002 @@
+[
+  {
+    "event_id": 1,
+    "user_id": "U012",
+    "action": "login",
+    "server_cpu": 52.05,
+    "server_memory": 41.86,
+    "timestamp": "2026-08-22T11:04:15.272593"
+  },
+  {
+    "event_id": 2,
+    "user_id": "U010",
+    "action": "checkout",
+    "server_cpu": 20.68,
+    "server_memory": 64.22,
+    "timestamp": "2026-08-22T11:04:15.272617"
+  },
+  {
+    "event_id": 3,
+    "user_id": "U008",
+    "action": "page_view",
+    "server_cpu": 25.76,
+    "server_memory": 82.5,
+    "timestamp": "2026-08-22T11:04:15.272621"
+  },
+  {
+    "event_id": 4,
+    "user_id": "U011",
+    "action": "checkout",
+    "server_cpu": 43.1,
+    "server_memory": 63.56,
+    "timestamp": "2026-08-22T11:04:15.272624"
+  },
+  {
+    "event_id": 5,
+    "user_id": "U011",
+    "action": "search",
+    "server_cpu": 34.05,
+    "server_memory": 73.9,
+    "timestamp": "2026-08-22T11:04:15.272626"
+  },
+  {
+    "event_id": 6,
+    "user_id": "U002",
+    "action": "login",
+    "server_cpu": 86.18,
+    "server_memory": 76.0,
+    "timestamp": "2026-08-22T11:04:15.272630"
+  },
+  {
+    "event_id": 7,
+    "user_id": "U013",
+    "action": "search",
+    "server_cpu": 78.99,
+    "server_memory": 32.71,
+    "timestamp": "2026-08-22T11:04:15.272632"
+  },
+  {
+    "event_id": 8,
+    "user_id": "U013",
+    "action": "add_to_cart",
+    "server_cpu": 91.11,
+    "server_memory": 77.92,
+    "timestamp": "2026-08-22T11:04:15.272635"
+  },
+  {
+    "event_id": 9,
+    "user_id": "U001",
+    "action": "checkout",
+    "server_cpu": 75.92,
+    "server_memory": 36.98,
+    "timestamp": "2026-08-22T11:04:15.272637"
+  },
+  {
+    "event_id": 10,
+    "user_id": "U019",
+    "action": "page_view",
+    "server_cpu": 56.86,
+    "server_memory": 78.71,
+    "timestamp": "2026-08-22T11:04:15.272642"
+  },
+  {
+    "event_id": 11,
+    "user_id": "U006",
+    "action": "logout",
+    "server_cpu": 44.85,
+    "server_memory": 77.23,
+    "timestamp": "2026-08-22T11:04:15.272644"
+  },
+  {
+    "event_id": 12,
+    "user_id": "U004",
+    "action": "add_to_cart",
+    "server_cpu": 80.63,
+    "server_memory": 58.02,
+    "timestamp": "2026-08-22T11:04:15.272647"
+  },
+  {
+    "event_id": 13,
+    "user_id": "U018",
+    "action": "logout",
+    "server_cpu": 61.59,
+    "server_memory": 86.9,
+    "timestamp": "2026-08-22T11:04:15.272651"
+  },
+  {
+    "event_id": 14,
+    "user_id": "U012",
+    "action": "login",
+    "server_cpu": 94.91,
+    "server_memory": 84.98,
+    "timestamp": "2026-08-22T11:04:15.272653"
+  },
+  {
+    "event_id": 15,
+    "user_id": "U010",
+    "action": "checkout",
+    "server_cpu": 46.3,
+    "server_memory": 66.1,
+    "timestamp": "2026-08-22T11:04:15.272655"
+  },
+  {
+    "event_id": 16,
+    "user_id": "U018",
+    "action": "page_view",
+    "server_cpu": 38.89,
+    "server_memory": 33.58,
+    "timestamp": "2026-08-22T11:04:15.272658"
+  },
+  {
+    "event_id": 17,
+    "user_id": "U013",
+    "action": "login",
+    "server_cpu": 71.68,
+    "server_memory": 42.4,
+    "timestamp": "2026-08-22T11:04:15.272660"
+  },
+  {
+    "event_id": 18,
+    "user_id": "U004",
+    "action": "add_to_cart",
+    "server_cpu": 47.83,
+    "server_memory": 71.07,
+    "timestamp": "2026-08-22T11:04:15.272663"
+  },
+  {
+    "event_id": 19,
+    "user_id": "U019",
+    "action": "login",
+    "server_cpu": 89.19,
+    "server_memory": 51.08,
+    "timestamp": "2026-08-22T11:04:15.272665"
+  },
+  {
+    "event_id": 20,
+    "user_id": "U004",
+    "action": "login",
+    "server_cpu": 86.22,
+    "server_memory": 47.74,
+    "timestamp": "2026-08-22T11:04:15.272667"
+  },
+  {
+    "event_id": 21,
+    "user_id": "U014",
+    "action": "add_to_cart",
+    "server_cpu": 21.01,
+    "server_memory": 38.56,
+    "timestamp": "2026-08-22T11:04:15.272670"
+  },
+  {
+    "event_id": 22,
+    "user_id": "U007",
+    "action": "page_view",
+    "server_cpu": 59.93,
+    "server_memory": 74.04,
+    "timestamp": "2026-08-22T11:04:15.272672"
+  },
+  {
+    "event_id": 23,
+    "user_id": "U018",
+    "action": "checkout",
+    "server_cpu": 40.36,
+    "server_memory": 44.05,
+    "timestamp": "2026-08-22T11:04:15.272674"
+  },
+  {
+    "event_id": 24,
+    "user_id": "U018",
+    "action": "search",
+    "server_cpu": 54.81,
+    "server_memory": 31.26,
+    "timestamp": "2026-08-22T11:04:15.272677"
+  },
+  {
+    "event_id": 25,
+    "user_id": "U015",
+    "action": "page_view",
+    "server_cpu": 46.33,
+    "server_memory": 49.83,
+    "timestamp": "2026-08-22T11:04:15.272679"
+  },
+  {
+    "event_id": 26,
+    "user_id": "U014",
+    "action": "checkout",
+    "server_cpu": 37.08,
+    "server_memory": 53.76,
+    "timestamp": "2026-08-22T11:04:15.272682"
+  },
+  {
+    "event_id": 27,
+    "user_id": "U014",
+    "action": "logout",
+    "server_cpu": 60.1,
+    "server_memory": 75.0,
+    "timestamp": "2026-08-22T11:04:15.272684"
+  },
+  {
+    "event_id": 28,
+    "user_id": "U012",
+    "action": "logout",
+    "server_cpu": 47.97,
+    "server_memory": 57.66,
+    "timestamp": "2026-08-22T11:04:15.272687"
+  },
+  {
+    "event_id": 29,
+    "user_id": "U016",
+    "action": "add_to_cart",
+    "server_cpu": 62.43,
+    "server_memory": 55.27,
+    "timestamp": "2026-08-22T11:04:15.272690"
+  },
+  {
+    "event_id": 30,
+    "user_id": "U019",
+    "action": "page_view",
+    "server_cpu": 85.25,
+    "server_memory": 79.88,
+    "timestamp": "2026-08-22T11:04:15.272693"
+  },
+  {
+    "event_id": 31,
+    "user_id": "U015",
+    "action": "add_to_cart",
+    "server_cpu": 46.5,
+    "server_memory": 60.1,
+    "timestamp": "2026-08-22T11:04:15.272695"
+  },
+  {
+    "event_id": 32,
+    "user_id": "U018",
+    "action": "page_view",
+    "server_cpu": 49.84,
+    "server_memory": 53.59,
+    "timestamp": "2026-08-22T11:04:15.272698"
+  },
+  {
+    "event_id": 33,
+    "user_id": "U013",
+    "action": "page_view",
+    "server_cpu": 58.58,
+    "server_memory": 89.52,
+    "timestamp": "2026-08-22T11:04:15.272700"
+  },
+  {
+    "event_id": 34,
+    "user_id": "U006",
+    "action": "logout",
+    "server_cpu": 37.96,
+    "server_memory": 82.06,
+    "timestamp": "2026-08-22T11:04:15.272702"
+  },
+  {
+    "event_id": 35,
+    "user_id": "U020",
+    "action": "add_to_cart",
+    "server_cpu": 56.35,
+    "server_memory": 50.16,
+    "timestamp": "2026-08-22T11:04:15.272705"
+  },
+  {
+    "event_id": 36,
+    "user_id": "U002",
+    "action": "checkout",
+    "server_cpu": 58.2,
+    "server_memory": 47.18,
+    "timestamp": "2026-08-22T11:04:15.272709"
+  },
+  {
+    "event_id": 37,
+    "user_id": "U015",
+    "action": "checkout",
+    "server_cpu": 68.99,
+    "server_memory": 79.34,
+    "timestamp": "2026-08-22T11:04:15.272711"
+  },
+  {
+    "event_id": 38,
+    "user_id": "U006",
+    "action": "login",
+    "server_cpu": 24.93,
+    "server_memory": 40.43,
+    "timestamp": "2026-08-22T11:04:15.272714"
+  },
+  {
+    "event_id": 39,
+    "user_id": "U009",
+    "action": "add_to_cart",
+    "server_cpu": 90.44,
+    "server_memory": 38.65,
+    "timestamp": "2026-08-22T11:04:15.272716"
+  },
+  {
+    "event_id": 40,
+    "user_id": "U011",
+    "action": "logout",
+    "server_cpu": 54.99,
+    "server_memory": 40.75,
+    "timestamp": "2026-08-22T11:04:15.272718"
+  },
+  {
+    "event_id": 41,
+    "user_id": "U013",
+    "action": "logout",
+    "server_cpu": 37.13,
+    "server_memory": 89.38,
+    "timestamp": "2026-08-22T11:04:15.272721"
+  },
+  {
+    "event_id": 42,
+    "user_id": "U008",
+    "action": "search",
+    "server_cpu": 68.34,
+    "server_memory": 88.13,
+    "timestamp": "2026-08-22T11:04:15.272723"
+  },
+  {
+    "event_id": 43,
+    "user_id": "U010",
+    "action": "checkout",
+    "server_cpu": 31.05,
+    "server_memory": 48.35,
+    "timestamp": "2026-08-22T11:04:15.272726"
+  },
+  {
+    "event_id": 44,
+    "user_id": "U010",
+    "action": "page_view",
+    "server_cpu": 68.36,
+    "server_memory": 73.23,
+    "timestamp": "2026-08-22T11:04:15.272728"
+  },
+  {
+    "event_id": 45,
+    "user_id": "U008",
+    "action": "add_to_cart",
+    "server_cpu": 75.77,
+    "server_memory": 71.68,
+    "timestamp": "2026-08-22T11:04:15.272730"
+  },
+  {
+    "event_id": 46,
+    "user_id": "U007",
+    "action": "checkout",
+    "server_cpu": 47.39,
+    "server_memory": 49.74,
+    "timestamp": "2026-08-22T11:04:15.272733"
+  },
+  {
+    "event_id": 47,
+    "user_id": "U019",
+    "action": "login",
+    "server_cpu": 47.28,
+    "server_memory": 60.31,
+    "timestamp": "2026-08-22T11:04:15.272735"
+  },
+  {
+    "event_id": 48,
+    "user_id": "U005",
+    "action": "page_view",
+    "server_cpu": 81.89,
+    "server_memory": 70.59,
+    "timestamp": "2026-08-22T11:04:15.272737"
+  },
+  {
+    "event_id": 49,
+    "user_id": "U006",
+    "action": "search",
+    "server_cpu": 40.4,
+    "server_memory": 65.57,
+    "timestamp": "2026-08-22T11:04:15.272740"
+  },
+  {
+    "event_id": 50,
+    "user_id": "U018",
+    "action": "add_to_cart",
+    "server_cpu": 83.06,
+    "server_memory": 69.17,
+    "timestamp": "2026-08-22T11:04:15.272743"
+  },
+  {
+    "event_id": 51,
+    "user_id": "U006",
+    "action": "login",
+    "server_cpu": 94.64,
+    "server_memory": 38.18,
+    "timestamp": "2026-08-22T11:04:15.272745"
+  },
+  {
+    "event_id": 52,
+    "user_id": "U017",
+    "action": "page_view",
+    "server_cpu": 59.83,
+    "server_memory": 53.14,
+    "timestamp": "2026-08-22T11:04:15.272748"
+  },
+  {
+    "event_id": 53,
+    "user_id": "U008",
+    "action": "search",
+    "server_cpu": 74.15,
+    "server_memory": 52.49,
+    "timestamp": "2026-08-22T11:04:15.272750"
+  },
+  {
+    "event_id": 54,
+    "user_id": "U004",
+    "action": "search",
+    "server_cpu": 77.35,
+    "server_memory": 46.2,
+    "timestamp": "2026-08-22T11:04:15.272753"
+  },
+  {
+    "event_id": 55,
+    "user_id": "U011",
+    "action": "page_view",
+    "server_cpu": 90.51,
+    "server_memory": 53.31,
+    "timestamp": "2026-08-22T11:04:15.272755"
+  },
+  {
+    "event_id": 56,
+    "user_id": "U003",
+    "action": "logout",
+    "server_cpu": 67.98,
+    "server_memory": 82.15,
+    "timestamp": "2026-08-22T11:04:15.272758"
+  },
+  {
+    "event_id": 57,
+    "user_id": "U014",
+    "action": "page_view",
+    "server_cpu": 66.78,
+    "server_memory": 64.82,
+    "timestamp": "2026-08-22T11:04:15.272760"
+  },
+  {
+    "event_id": 58,
+    "user_id": "U001",
+    "action": "logout",
+    "server_cpu": 82.95,
+    "server_memory": 72.73,
+    "timestamp": "2026-08-22T11:04:15.272762"
+  },
+  {
+    "event_id": 59,
+    "user_id": "U005",
+    "action": "add_to_cart",
+    "server_cpu": 60.68,
+    "server_memory": 54.96,
+    "timestamp": "2026-08-22T11:04:15.272765"
+  },
+  {
+    "event_id": 60,
+    "user_id": "U016",
+    "action": "page_view",
+    "server_cpu": 25.0,
+    "server_memory": 72.76,
+    "timestamp": "2026-08-22T11:04:15.272767"
+  },
+  {
+    "event_id": 61,
+    "user_id": "U005",
+    "action": "checkout",
+    "server_cpu": 72.15,
+    "server_memory": 81.58,
+    "timestamp": "2026-08-22T11:04:15.272770"
+  },
+  {
+    "event_id": 62,
+    "user_id": "U005",
+    "action": "login",
+    "server_cpu": 44.22,
+    "server_memory": 86.11,
+    "timestamp": "2026-08-22T11:04:15.272772"
+  },
+  {
+    "event_id": 63,
+    "user_id": "U004",
+    "action": "login",
+    "server_cpu": 31.93,
+    "server_memory": 89.9,
+    "timestamp": "2026-08-22T11:04:15.272775"
+  },
+  {
+    "event_id": 64,
+    "user_id": "U014",
+    "action": "search",
+    "server_cpu": 83.17,
+    "server_memory": 87.85,
+    "timestamp": "2026-08-22T11:04:15.272778"
+  },
+  {
+    "event_id": 65,
+    "user_id": "U018",
+    "action": "page_view",
+    "server_cpu": 41.22,
+    "server_memory": 62.45,
+    "timestamp": "2026-08-22T11:04:15.272780"
+  },
+  {
+    "event_id": 66,
+    "user_id": "U006",
+    "action": "add_to_cart",
+    "server_cpu": 49.01,
+    "server_memory": 39.2,
+    "timestamp": "2026-08-22T11:04:15.272784"
+  },
+  {
+    "event_id": 67,
+    "user_id": "U012",
+    "action": "logout",
+    "server_cpu": 63.87,
+    "server_memory": 44.33,
+    "timestamp": "2026-08-22T11:04:15.272786"
+  },
+  {
+    "event_id": 68,
+    "user_id": "U005",
+    "action": "search",
+    "server_cpu": 82.06,
+    "server_memory": 69.02,
+    "timestamp": "2026-08-22T11:04:15.272789"
+  },
+  {
+    "event_id": 69,
+    "user_id": "U020",
+    "action": "login",
+    "server_cpu": 42.12,
+    "server_memory": 79.54,
+    "timestamp": "2026-08-22T11:04:15.272792"
+  },
+  {
+    "event_id": 70,
+    "user_id": "U012",
+    "action": "login",
+    "server_cpu": 31.51,
+    "server_memory": 66.33,
+    "timestamp": "2026-08-22T11:04:15.272794"
+  },
+  {
+    "event_id": 71,
+    "user_id": "U020",
+    "action": "logout",
+    "server_cpu": 32.24,
+    "server_memory": 80.11,
+    "timestamp": "2026-08-22T11:04:15.272796"
+  },
+  {
+    "event_id": 72,
+    "user_id": "U018",
+    "action": "search",
+    "server_cpu": 33.18,
+    "server_memory": 46.61,
+    "timestamp": "2026-08-22T11:04:15.272799"
+  },
+  {
+    "event_id": 73,
+    "user_id": "U017",
+    "action": "logout",
+    "server_cpu": 35.19,
+    "server_memory": 53.39,
+    "timestamp": "2026-08-22T11:04:15.272801"
+  },
+  {
+    "event_id": 74,
+    "user_id": "U008",
+    "action": "search",
+    "server_cpu": 63.16,
+    "server_memory": 69.26,
+    "timestamp": "2026-08-22T11:04:15.272803"
+  },
+  {
+    "event_id": 75,
+    "user_id": "U010",
+    "action": "add_to_cart",
+    "server_cpu": 73.23,
+    "server_memory": 78.1,
+    "timestamp": "2026-08-22T11:04:15.272806"
+  },
+  {
+    "event_id": 76,
+    "user_id": "U009",
+    "action": "logout",
+    "server_cpu": 22.62,
+    "server_memory": 48.72,
+    "timestamp": "2026-08-22T11:04:15.272808"
+  },
+  {
+    "event_id": 77,
+    "user_id": "U014",
+    "action": "page_view",
+    "server_cpu": 52.17,
+    "server_memory": 32.26,
+    "timestamp": "2026-08-22T11:04:15.272810"
+  },
+  {
+    "event_id": 78,
+    "user_id": "U008",
+    "action": "search",
+    "server_cpu": 55.46,
+    "server_memory": 56.83,
+    "timestamp": "2026-08-22T11:04:15.272813"
+  },
+  {
+    "event_id": 79,
+    "user_id": "U019",
+    "action": "logout",
+    "server_cpu": 73.14,
+    "server_memory": 71.87,
+    "timestamp": "2026-08-22T11:04:15.272816"
+  },
+  {
+    "event_id": 80,
+    "user_id": "U013",
+    "action": "logout",
+    "server_cpu": 66.7,
+    "server_memory": 33.82,
+    "timestamp": "2026-08-22T11:04:15.272818"
+  },
+  {
+    "event_id": 81,
+    "user_id": "U007",
+    "action": "login",
+    "server_cpu": 67.95,
+    "server_memory": 34.06,
+    "timestamp": "2026-08-22T11:04:15.272820"
+  },
+  {
+    "event_id": 82,
+    "user_id": "U005",
+    "action": "login",
+    "server_cpu": 22.76,
+    "server_memory": 54.75,
+    "timestamp": "2026-08-22T11:04:15.272823"
+  },
+  {
+    "event_id": 83,
+    "user_id": "U005",
+    "action": "add_to_cart",
+    "server_cpu": 92.32,
+    "server_memory": 74.57,
+    "timestamp": "2026-08-22T11:04:15.272825"
+  },
+  {
+    "event_id": 84,
+    "user_id": "U005",
+    "action": "checkout",
+    "server_cpu": 63.88,
+    "server_memory": 45.18,
+    "timestamp": "2026-08-22T11:04:15.272827"
+  },
+  {
+    "event_id": 85,
+    "user_id": "U010",
+    "action": "logout",
+    "server_cpu": 91.28,
+    "server_memory": 47.33,
+    "timestamp": "2026-08-22T11:04:15.272830"
+  },
+  {
+    "event_id": 86,
+    "user_id": "U003",
+    "action": "logout",
+    "server_cpu": 33.17,
+    "server_memory": 84.56,
+    "timestamp": "2026-08-22T11:04:15.272832"
+  },
+  {
+    "event_id": 87,
+    "user_id": "U008",
+    "action": "login",
+    "server_cpu": 50.43,
+    "server_memory": 42.29,
+    "timestamp": "2026-08-22T11:04:15.272834"
+  },
+  {
+    "event_id": 88,
+    "user_id": "U004",
+    "action": "page_view",
+    "server_cpu": 44.25,
+    "server_memory": 53.0,
+    "timestamp": "2026-08-22T11:04:15.272838"
+  },
+  {
+    "event_id": 89,
+    "user_id": "U002",
+    "action": "checkout",
+    "server_cpu": 30.41,
+    "server_memory": 67.4,
+    "timestamp": "2026-08-22T11:04:15.272840"
+  },
+  {
+    "event_id": 90,
+    "user_id": "U010",
+    "action": "checkout",
+    "server_cpu": 79.04,
+    "server_memory": 61.93,
+    "timestamp": "2026-08-22T11:04:15.272843"
+  },
+  {
+    "event_id": 91,
+    "user_id": "U010",
+    "action": "add_to_cart",
+    "server_cpu": 22.47,
+    "server_memory": 48.26,
+    "timestamp": "2026-08-22T11:04:15.272845"
+  },
+  {
+    "event_id": 92,
+    "user_id": "U001",
+    "action": "page_view",
+    "server_cpu": 89.45,
+    "server_memory": 82.32,
+    "timestamp": "2026-08-22T11:04:15.272848"
+  },
+  {
+    "event_id": 93,
+    "user_id": "U001",
+    "action": "search",
+    "server_cpu": 82.45,
+    "server_memory": 31.36,
+    "timestamp": "2026-08-22T11:04:15.272850"
+  },
+  {
+    "event_id": 94,
+    "user_id": "U002",
+    "action": "logout",
+    "server_cpu": 70.41,
+    "server_memory": 30.69,
+    "timestamp": "2026-08-22T11:04:15.272853"
+  },
+  {
+    "event_id": 95,
+    "user_id": "U011",
+    "action": "page_view",
+    "server_cpu": 28.76,
+    "server_memory": 43.86,
+    "timestamp": "2026-08-22T11:04:15.272855"
+  },
+  {
+    "event_id": 96,
+    "user_id": "U008",
+    "action": "checkout",
+    "server_cpu": 79.94,
+    "server_memory": 51.22,
+    "timestamp": "2026-08-22T11:04:15.272857"
+  },
+  {
+    "event_id": 97,
+    "user_id": "U012",
+    "action": "add_to_cart",
+    "server_cpu": 44.81,
+    "server_memory": 69.68,
+    "timestamp": "2026-08-22T11:04:15.272860"
+  },
+  {
+    "event_id": 98,
+    "user_id": "U008",
+    "action": "login",
+    "server_cpu": 55.12,
+    "server_memory": 77.97,
+    "timestamp": "2026-08-22T11:04:15.272862"
+  },
+  {
+    "event_id": 99,
+    "user_id": "U006",
+    "action": "page_view",
+    "server_cpu": 44.8,
+    "server_memory": 49.59,
+    "timestamp": "2026-08-22T11:04:15.272866"
+  },
+  {
+    "event_id": 100,
+    "user_id": "U011",
+    "action": "page_view",
+    "server_cpu": 73.13,
+    "server_memory": 72.89,
+    "timestamp": "2026-08-22T11:04:15.272869"
+  },
+  {
+    "event_id": 101,
+    "user_id": "U004",
+    "action": "search",
+    "server_cpu": 43.99,
+    "server_memory": 62.54,
+    "timestamp": "2026-08-22T11:04:15.272871"
+  },
+  {
+    "event_id": 102,
+    "user_id": "U015",
+    "action": "checkout",
+    "server_cpu": 59.72,
+    "server_memory": 39.8,
+    "timestamp": "2026-08-22T11:04:15.272874"
+  },
+  {
+    "event_id": 103,
+    "user_id": "U005",
+    "action": "search",
+    "server_cpu": 43.94,
+    "server_memory": 88.42,
+    "timestamp": "2026-08-22T11:04:15.272876"
+  },
+  {
+    "event_id": 104,
+    "user_id": "U018",
+    "action": "login",
+    "server_cpu": 85.89,
+    "server_memory": 31.15,
+    "timestamp": "2026-08-22T11:04:15.272878"
+  },
+  {
+    "event_id": 105,
+    "user_id": "U014",
+    "action": "page_view",
+    "server_cpu": 93.64,
+    "server_memory": 71.14,
+    "timestamp": "2026-08-22T11:04:15.272881"
+  },
+  {
+    "event_id": 106,
+    "user_id": "U018",
+    "action": "logout",
+    "server_cpu": 81.42,
+    "server_memory": 72.57,
+    "timestamp": "2026-08-22T11:04:15.272883"
+  },
+  {
+    "event_id": 107,
+    "user_id": "U011",
+    "action": "checkout",
+    "server_cpu": 71.92,
+    "server_memory": 60.66,
+    "timestamp": "2026-08-22T11:04:15.272886"
+  },
+  {
+    "event_id": 108,
+    "user_id": "U008",
+    "action": "page_view",
+    "server_cpu": 62.59,
+    "server_memory": 47.21,
+    "timestamp": "2026-08-22T11:04:15.272888"
+  },
+  {
+    "event_id": 109,
+    "user_id": "U018",
+    "action": "logout",
+    "server_cpu": 45.2,
+    "server_memory": 73.28,
+    "timestamp": "2026-08-22T11:04:15.272891"
+  },
+  {
+    "event_id": 110,
+    "user_id": "U002",
+    "action": "login",
+    "server_cpu": 87.8,
+    "server_memory": 82.78,
+    "timestamp": "2026-08-22T11:04:15.272894"
+  },
+  {
+    "event_id": 111,
+    "user_id": "U002",
+    "action": "logout",
+    "server_cpu": 89.18,
+    "server_memory": 62.29,
+    "timestamp": "2026-08-22T11:04:15.272896"
+  },
+  {
+    "event_id": 112,
+    "user_id": "U005",
+    "action": "checkout",
+    "server_cpu": 48.55,
+    "server_memory": 45.31,
+    "timestamp": "2026-08-22T11:04:15.272898"
+  },
+  {
+    "event_id": 113,
+    "user_id": "U015",
+    "action": "checkout",
+    "server_cpu": 50.12,
+    "server_memory": 64.26,
+    "timestamp": "2026-08-22T11:04:15.272901"
+  },
+  {
+    "event_id": 114,
+    "user_id": "U009",
+    "action": "search",
+    "server_cpu": 41.16,
+    "server_memory": 43.75,
+    "timestamp": "2026-08-22T11:04:15.272904"
+  },
+  {
+    "event_id": 115,
+    "user_id": "U012",
+    "action": "add_to_cart",
+    "server_cpu": 66.84,
+    "server_memory": 38.79,
+    "timestamp": "2026-08-22T11:04:15.272906"
+  },
+  {
+    "event_id": 116,
+    "user_id": "U018",
+    "action": "page_view",
+    "server_cpu": 26.0,
+    "server_memory": 86.46,
+    "timestamp": "2026-08-22T11:04:15.272909"
+  },
+  {
+    "event_id": 117,
+    "user_id": "U013",
+    "action": "add_to_cart",
+    "server_cpu": 89.12,
+    "server_memory": 55.83,
+    "timestamp": "2026-08-22T11:04:15.272911"
+  },
+  {
+    "event_id": 118,
+    "user_id": "U003",
+    "action": "add_to_cart",
+    "server_cpu": 80.68,
+    "server_memory": 71.36,
+    "timestamp": "2026-08-22T11:04:15.272914"
+  },
+  {
+    "event_id": 119,
+    "user_id": "U012",
+    "action": "logout",
+    "server_cpu": 50.82,
+    "server_memory": 30.58,
+    "timestamp": "2026-08-22T11:04:15.272916"
+  },
+  {
+    "event_id": 120,
+    "user_id": "U018",
+    "action": "page_view",
+    "server_cpu": 22.14,
+    "server_memory": 73.25,
+    "timestamp": "2026-08-22T11:04:15.272918"
+  },
+  {
+    "event_id": 121,
+    "user_id": "U017",
+    "action": "login",
+    "server_cpu": 91.9,
+    "server_memory": 72.57,
+    "timestamp": "2026-08-22T11:04:15.272921"
+  },
+  {
+    "event_id": 122,
+    "user_id": "U005",
+    "action": "add_to_cart",
+    "server_cpu": 55.91,
+    "server_memory": 62.57,
+    "timestamp": "2026-08-22T11:04:15.272923"
+  },
+  {
+    "event_id": 123,
+    "user_id": "U006",
+    "action": "checkout",
+    "server_cpu": 86.49,
+    "server_memory": 40.67,
+    "timestamp": "2026-08-22T11:04:15.272925"
+  },
+  {
+    "event_id": 124,
+    "user_id": "U005",
+    "action": "add_to_cart",
+    "server_cpu": 60.32,
+    "server_memory": 53.34,
+    "timestamp": "2026-08-22T11:04:15.272927"
+  },
+  {
+    "event_id": 125,
+    "user_id": "U006",
+    "action": "search",
+    "server_cpu": 47.61,
+    "server_memory": 48.26,
+    "timestamp": "2026-08-22T11:04:15.272930"
+  },
+  {
+    "event_id": 126,
+    "user_id": "U011",
+    "action": "add_to_cart",
+    "server_cpu": 29.46,
+    "server_memory": 52.35,
+    "timestamp": "2026-08-22T11:04:15.272932"
+  },
+  {
+    "event_id": 127,
+    "user_id": "U001",
+    "action": "add_to_cart",
+    "server_cpu": 67.95,
+    "server_memory": 81.41,
+    "timestamp": "2026-08-22T11:04:15.272935"
+  },
+  {
+    "event_id": 128,
+    "user_id": "U008",
+    "action": "login",
+    "server_cpu": 49.16,
+    "server_memory": 49.78,
+    "timestamp": "2026-08-22T11:04:15.272938"
+  },
+  {
+    "event_id": 129,
+    "user_id": "U015",
+    "action": "logout",
+    "server_cpu": 23.59,
+    "server_memory": 47.76,
+    "timestamp": "2026-08-22T11:04:15.272940"
+  },
+  {
+    "event_id": 130,
+    "user_id": "U002",
+    "action": "checkout",
+    "server_cpu": 43.86,
+    "server_memory": 73.31,
+    "timestamp": "2026-08-22T11:04:15.272943"
+  },
+  {
+    "event_id": 131,
+    "user_id": "U004",
+    "action": "add_to_cart",
+    "server_cpu": 60.91,
+    "server_memory": 40.96,
+    "timestamp": "2026-08-22T11:04:15.272945"
+  },
+  {
+    "event_id": 132,
+    "user_id": "U006",
+    "action": "page_view",
+    "server_cpu": 80.95,
+    "server_memory": 74.47,
+    "timestamp": "2026-08-22T11:04:15.272948"
+  },
+  {
+    "event_id": 133,
+    "user_id": "U003",
+    "action": "logout",
+    "server_cpu": 46.78,
+    "server_memory": 89.64,
+    "timestamp": "2026-08-22T11:04:15.272950"
+  },
+  {
+    "event_id": 134,
+    "user_id": "U002",
+    "action": "search",
+    "server_cpu": 40.12,
+    "server_memory": 52.33,
+    "timestamp": "2026-08-22T11:04:15.272952"
+  },
+  {
+    "event_id": 135,
+    "user_id": "U001",
+    "action": "page_view",
+    "server_cpu": 68.49,
+    "server_memory": 77.8,
+    "timestamp": "2026-08-22T11:04:15.272955"
+  },
+  {
+    "event_id": 136,
+    "user_id": "U020",
+    "action": "logout",
+    "server_cpu": 59.51,
+    "server_memory": 67.84,
+    "timestamp": "2026-08-22T11:04:15.272957"
+  },
+  {
+    "event_id": 137,
+    "user_id": "U001",
+    "action": "logout",
+    "server_cpu": 37.71,
+    "server_memory": 57.44,
+    "timestamp": "2026-08-22T11:04:15.272959"
+  },
+  {
+    "event_id": 138,
+    "user_id": "U006",
+    "action": "page_view",
+    "server_cpu": 37.89,
+    "server_memory": 56.91,
+    "timestamp": "2026-08-22T11:04:15.272961"
+  },
+  {
+    "event_id": 139,
+    "user_id": "U001",
+    "action": "logout",
+    "server_cpu": 40.12,
+    "server_memory": 73.41,
+    "timestamp": "2026-08-22T11:04:15.272964"
+  },
+  {
+    "event_id": 140,
+    "user_id": "U014",
+    "action": "logout",
+    "server_cpu": 65.65,
+    "server_memory": 87.58,
+    "timestamp": "2026-08-22T11:04:15.272966"
+  },
+  {
+    "event_id": 141,
+    "user_id": "U012",
+    "action": "page_view",
+    "server_cpu": 69.1,
+    "server_memory": 87.05,
+    "timestamp": "2026-08-22T11:04:15.272968"
+  },
+  {
+    "event_id": 142,
+    "user_id": "U008",
+    "action": "login",
+    "server_cpu": 92.57,
+    "server_memory": 36.67,
+    "timestamp": "2026-08-22T11:04:15.272971"
+  },
+  {
+    "event_id": 143,
+    "user_id": "U008",
+    "action": "page_view",
+    "server_cpu": 29.16,
+    "server_memory": 86.48,
+    "timestamp": "2026-08-22T11:04:15.272973"
+  },
+  {
+    "event_id": 144,
+    "user_id": "U018",
+    "action": "login",
+    "server_cpu": 56.22,
+    "server_memory": 51.98,
+    "timestamp": "2026-08-22T11:04:15.272975"
+  },
+  {
+    "event_id": 145,
+    "user_id": "U006",
+    "action": "login",
+    "server_cpu": 73.08,
+    "server_memory": 33.09,
+    "timestamp": "2026-08-22T11:04:15.272978"
+  },
+  {
+    "event_id": 146,
+    "user_id": "U019",
+    "action": "add_to_cart",
+    "server_cpu": 48.7,
+    "server_memory": 54.8,
+    "timestamp": "2026-08-22T11:04:15.272981"
+  },
+  {
+    "event_id": 147,
+    "user_id": "U016",
+    "action": "logout",
+    "server_cpu": 44.54,
+    "server_memory": 81.05,
+    "timestamp": "2026-08-22T11:04:15.272984"
+  },
+  {
+    "event_id": 148,
+    "user_id": "U020",
+    "action": "checkout",
+    "server_cpu": 71.78,
+    "server_memory": 41.71,
+    "timestamp": "2026-08-22T11:04:15.272986"
+  },
+  {
+    "event_id": 149,
+    "user_id": "U009",
+    "action": "search",
+    "server_cpu": 86.38,
+    "server_memory": 76.45,
+    "timestamp": "2026-08-22T11:04:15.272989"
+  },
+  {
+    "event_id": 150,
+    "user_id": "U007",
+    "action": "search",
+    "server_cpu": 88.47,
+    "server_memory": 73.52,
+    "timestamp": "2026-08-22T11:04:15.272991"
+  },
+  {
+    "event_id": 151,
+    "user_id": "U004",
+    "action": "page_view",
+    "server_cpu": 48.24,
+    "server_memory": 38.85,
+    "timestamp": "2026-08-22T11:04:15.272993"
+  },
+  {
+    "event_id": 152,
+    "user_id": "U002",
+    "action": "add_to_cart",
+    "server_cpu": 48.49,
+    "server_memory": 75.5,
+    "timestamp": "2026-08-22T11:04:15.272996"
+  },
+  {
+    "event_id": 153,
+    "user_id": "U008",
+    "action": "page_view",
+    "server_cpu": 93.49,
+    "server_memory": 50.28,
+    "timestamp": "2026-08-22T11:04:15.272998"
+  },
+  {
+    "event_id": 154,
+    "user_id": "U011",
+    "action": "checkout",
+    "server_cpu": 76.01,
+    "server_memory": 89.2,
+    "timestamp": "2026-08-22T11:04:15.273001"
+  },
+  {
+    "event_id": 155,
+    "user_id": "U001",
+    "action": "add_to_cart",
+    "server_cpu": 47.37,
+    "server_memory": 84.98,
+    "timestamp": "2026-08-22T11:04:15.273003"
+  },
+  {
+    "event_id": 156,
+    "user_id": "U001",
+    "action": "search",
+    "server_cpu": 56.85,
+    "server_memory": 51.01,
+    "timestamp": "2026-08-22T11:04:15.273005"
+  },
+  {
+    "event_id": 157,
+    "user_id": "U005",
+    "action": "logout",
+    "server_cpu": 34.16,
+    "server_memory": 70.52,
+    "timestamp": "2026-08-22T11:04:15.273008"
+  },
+  {
+    "event_id": 158,
+    "user_id": "U016",
+    "action": "login",
+    "server_cpu": 80.82,
+    "server_memory": 42.36,
+    "timestamp": "2026-08-22T11:04:15.273010"
+  },
+  {
+    "event_id": 159,
+    "user_id": "U012",
+    "action": "search",
+    "server_cpu": 56.74,
+    "server_memory": 38.79,
+    "timestamp": "2026-08-22T11:04:15.273012"
+  },
+  {
+    "event_id": 160,
+    "user_id": "U020",
+    "action": "checkout",
+    "server_cpu": 29.34,
+    "server_memory": 31.64,
+    "timestamp": "2026-08-22T11:04:15.273015"
+  },
+  {
+    "event_id": 161,
+    "user_id": "U003",
+    "action": "logout",
+    "server_cpu": 73.68,
+    "server_memory": 83.14,
+    "timestamp": "2026-08-22T11:04:15.273017"
+  },
+  {
+    "event_id": 162,
+    "user_id": "U012",
+    "action": "checkout",
+    "server_cpu": 49.41,
+    "server_memory": 46.06,
+    "timestamp": "2026-08-22T11:04:15.273019"
+  },
+  {
+    "event_id": 163,
+    "user_id": "U012",
+    "action": "add_to_cart",
+    "server_cpu": 58.76,
+    "server_memory": 39.36,
+    "timestamp": "2026-08-22T11:04:15.273024"
+  },
+  {
+    "event_id": 164,
+    "user_id": "U010",
+    "action": "page_view",
+    "server_cpu": 64.87,
+    "server_memory": 82.21,
+    "timestamp": "2026-08-22T11:04:15.273026"
+  },
+  {
+    "event_id": 165,
+    "user_id": "U017",
+    "action": "add_to_cart",
+    "server_cpu": 24.15,
+    "server_memory": 57.19,
+    "timestamp": "2026-08-22T11:04:15.273029"
+  },
+  {
+    "event_id": 166,
+    "user_id": "U019",
+    "action": "add_to_cart",
+    "server_cpu": 70.85,
+    "server_memory": 30.67,
+    "timestamp": "2026-08-22T11:04:15.273033"
+  },
+  {
+    "event_id": 167,
+    "user_id": "U006",
+    "action": "checkout",
+    "server_cpu": 85.85,
+    "server_memory": 56.69,
+    "timestamp": "2026-08-22T11:04:15.273035"
+  },
+  {
+    "event_id": 168,
+    "user_id": "U014",
+    "action": "add_to_cart",
+    "server_cpu": 51.31,
+    "server_memory": 67.65,
+    "timestamp": "2026-08-22T11:04:15.273037"
+  },
+  {
+    "event_id": 169,
+    "user_id": "U008",
+    "action": "page_view",
+    "server_cpu": 30.19,
+    "server_memory": 79.17,
+    "timestamp": "2026-08-22T11:04:15.273040"
+  },
+  {
+    "event_id": 170,
+    "user_id": "U012",
+    "action": "page_view",
+    "server_cpu": 92.79,
+    "server_memory": 83.99,
+    "timestamp": "2026-08-22T11:04:15.273042"
+  },
+  {
+    "event_id": 171,
+    "user_id": "U017",
+    "action": "logout",
+    "server_cpu": 78.48,
+    "server_memory": 86.41,
+    "timestamp": "2026-08-22T11:04:15.273045"
+  },
+  {
+    "event_id": 172,
+    "user_id": "U012",
+    "action": "add_to_cart",
+    "server_cpu": 41.86,
+    "server_memory": 57.18,
+    "timestamp": "2026-08-22T11:04:15.273047"
+  },
+  {
+    "event_id": 173,
+    "user_id": "U017",
+    "action": "add_to_cart",
+    "server_cpu": 22.55,
+    "server_memory": 56.34,
+    "timestamp": "2026-08-22T11:04:15.273049"
+  },
+  {
+    "event_id": 174,
+    "user_id": "U007",
+    "action": "checkout",
+    "server_cpu": 23.04,
+    "server_memory": 48.39,
+    "timestamp": "2026-08-22T11:04:15.273052"
+  },
+  {
+    "event_id": 175,
+    "user_id": "U020",
+    "action": "checkout",
+    "server_cpu": 44.81,
+    "server_memory": 87.64,
+    "timestamp": "2026-08-22T11:04:15.273054"
+  },
+  {
+    "event_id": 176,
+    "user_id": "U001",
+    "action": "checkout",
+    "server_cpu": 37.27,
+    "server_memory": 37.43,
+    "timestamp": "2026-08-22T11:04:15.273056"
+  },
+  {
+    "event_id": 177,
+    "user_id": "U007",
+    "action": "add_to_cart",
+    "server_cpu": 60.23,
+    "server_memory": 41.83,
+    "timestamp": "2026-08-22T11:04:15.273058"
+  },
+  {
+    "event_id": 178,
+    "user_id": "U014",
+    "action": "login",
+    "server_cpu": 31.58,
+    "server_memory": 32.82,
+    "timestamp": "2026-08-22T11:04:15.273061"
+  },
+  {
+    "event_id": 179,
+    "user_id": "U003",
+    "action": "search",
+    "server_cpu": 22.37,
+    "server_memory": 44.49,
+    "timestamp": "2026-08-22T11:04:15.273063"
+  },
+  {
+    "event_id": 180,
+    "user_id": "U001",
+    "action": "page_view",
+    "server_cpu": 55.24,
+    "server_memory": 84.74,
+    "timestamp": "2026-08-22T11:04:15.273065"
+  },
+  {
+    "event_id": 181,
+    "user_id": "U012",
+    "action": "add_to_cart",
+    "server_cpu": 57.65,
+    "server_memory": 33.42,
+    "timestamp": "2026-08-22T11:04:15.273068"
+  },
+  {
+    "event_id": 182,
+    "user_id": "U003",
+    "action": "page_view",
+    "server_cpu": 45.29,
+    "server_memory": 69.24,
+    "timestamp": "2026-08-22T11:04:15.273070"
+  },
+  {
+    "event_id": 183,
+    "user_id": "U011",
+    "action": "login",
+    "server_cpu": 33.41,
+    "server_memory": 35.66,
+    "timestamp": "2026-08-22T11:04:15.273073"
+  },
+  {
+    "event_id": 184,
+    "user_id": "U004",
+    "action": "page_view",
+    "server_cpu": 55.73,
+    "server_memory": 31.31,
+    "timestamp": "2026-08-22T11:04:15.273075"
+  },
+  {
+    "event_id": 185,
+    "user_id": "U006",
+    "action": "page_view",
+    "server_cpu": 32.24,
+    "server_memory": 70.13,
+    "timestamp": "2026-08-22T11:04:15.273079"
+  },
+  {
+    "event_id": 186,
+    "user_id": "U010",
+    "action": "logout",
+    "server_cpu": 63.49,
+    "server_memory": 30.73,
+    "timestamp": "2026-08-22T11:04:15.273081"
+  },
+  {
+    "event_id": 187,
+    "user_id": "U012",
+    "action": "logout",
+    "server_cpu": 45.72,
+    "server_memory": 40.3,
+    "timestamp": "2026-08-22T11:04:15.273084"
+  },
+  {
+    "event_id": 188,
+    "user_id": "U003",
+    "action": "checkout",
+    "server_cpu": 80.76,
+    "server_memory": 86.54,
+    "timestamp": "2026-08-22T11:04:15.273086"
+  },
+  {
+    "event_id": 189,
+    "user_id": "U002",
+    "action": "login",
+    "server_cpu": 67.79,
+    "server_memory": 83.86,
+    "timestamp": "2026-08-22T11:04:15.273089"
+  },
+  {
+    "event_id": 190,
+    "user_id": "U016",
+    "action": "checkout",
+    "server_cpu": 49.19,
+    "server_memory": 39.13,
+    "timestamp": "2026-08-22T11:04:15.273091"
+  },
+  {
+    "event_id": 191,
+    "user_id": "U007",
+    "action": "page_view",
+    "server_cpu": 63.16,
+    "server_memory": 74.99,
+    "timestamp": "2026-08-22T11:04:15.273093"
+  },
+  {
+    "event_id": 192,
+    "user_id": "U010",
+    "action": "page_view",
+    "server_cpu": 94.38,
+    "server_memory": 34.35,
+    "timestamp": "2026-08-22T11:04:15.273096"
+  },
+  {
+    "event_id": 193,
+    "user_id": "U013",
+    "action": "checkout",
+    "server_cpu": 78.79,
+    "server_memory": 67.84,
+    "timestamp": "2026-08-22T11:04:15.273098"
+  },
+  {
+    "event_id": 194,
+    "user_id": "U011",
+    "action": "search",
+    "server_cpu": 81.19,
+    "server_memory": 77.07,
+    "timestamp": "2026-08-22T11:04:15.273100"
+  },
+  {
+    "event_id": 195,
+    "user_id": "U007",
+    "action": "add_to_cart",
+    "server_cpu": 22.04,
+    "server_memory": 81.15,
+    "timestamp": "2026-08-22T11:04:15.273103"
+  },
+  {
+    "event_id": 196,
+    "user_id": "U011",
+    "action": "search",
+    "server_cpu": 38.05,
+    "server_memory": 88.05,
+    "timestamp": "2026-08-22T11:04:15.273105"
+  },
+  {
+    "event_id": 197,
+    "user_id": "U019",
+    "action": "logout",
+    "server_cpu": 70.3,
+    "server_memory": 58.89,
+    "timestamp": "2026-08-22T11:04:15.273107"
+  },
+  {
+    "event_id": 198,
+    "user_id": "U013",
+    "action": "page_view",
+    "server_cpu": 46.31,
+    "server_memory": 78.5,
+    "timestamp": "2026-08-22T11:04:15.273110"
+  },
+  {
+    "event_id": 199,
+    "user_id": "U015",
+    "action": "page_view",
+    "server_cpu": 86.6,
+    "server_memory": 41.97,
+    "timestamp": "2026-08-22T11:04:15.273112"
+  },
+  {
+    "event_id": 200,
+    "user_id": "U009",
+    "action": "page_view",
+    "server_cpu": 45.21,
+    "server_memory": 47.63,
+    "timestamp": "2026-08-22T11:04:15.273114"
+  },
+  {
+    "event_id": 201,
+    "user_id": "U016",
+    "action": "logout",
+    "server_cpu": 26.01,
+    "server_memory": 54.7,
+    "timestamp": "2026-08-22T11:04:15.273117"
+  },
+  {
+    "event_id": 202,
+    "user_id": "U016",
+    "action": "add_to_cart",
+    "server_cpu": 20.15,
+    "server_memory": 84.7,
+    "timestamp": "2026-08-22T11:04:15.273119"
+  },
+  {
+    "event_id": 203,
+    "user_id": "U003",
+    "action": "logout",
+    "server_cpu": 72.52,
+    "server_memory": 30.35,
+    "timestamp": "2026-08-22T11:04:15.273122"
+  },
+  {
+    "event_id": 204,
+    "user_id": "U008",
+    "action": "checkout",
+    "server_cpu": 20.36,
+    "server_memory": 58.26,
+    "timestamp": "2026-08-22T11:04:15.273124"
+  },
+  {
+    "event_id": 205,
+    "user_id": "U009",
+    "action": "page_view",
+    "server_cpu": 43.02,
+    "server_memory": 79.8,
+    "timestamp": "2026-08-22T11:04:15.273127"
+  },
+  {
+    "event_id": 206,
+    "user_id": "U009",
+    "action": "search",
+    "server_cpu": 63.24,
+    "server_memory": 87.97,
+    "timestamp": "2026-08-22T11:04:15.273130"
+  },
+  {
+    "event_id": 207,
+    "user_id": "U019",
+    "action": "search",
+    "server_cpu": 57.99,
+    "server_memory": 37.78,
+    "timestamp": "2026-08-22T11:04:15.273132"
+  },
+  {
+    "event_id": 208,
+    "user_id": "U019",
+    "action": "logout",
+    "server_cpu": 35.11,
+    "server_memory": 65.57,
+    "timestamp": "2026-08-22T11:04:15.273134"
+  },
+  {
+    "event_id": 209,
+    "user_id": "U013",
+    "action": "add_to_cart",
+    "server_cpu": 57.01,
+    "server_memory": 78.29,
+    "timestamp": "2026-08-22T11:04:15.273137"
+  },
+  {
+    "event_id": 210,
+    "user_id": "U001",
+    "action": "search",
+    "server_cpu": 27.33,
+    "server_memory": 86.18,
+    "timestamp": "2026-08-22T11:04:15.273139"
+  },
+  {
+    "event_id": 211,
+    "user_id": "U002",
+    "action": "checkout",
+    "server_cpu": 84.77,
+    "server_memory": 51.94,
+    "timestamp": "2026-08-22T11:04:15.273142"
+  },
+  {
+    "event_id": 212,
+    "user_id": "U015",
+    "action": "add_to_cart",
+    "server_cpu": 92.69,
+    "server_memory": 77.61,
+    "timestamp": "2026-08-22T11:04:15.273144"
+  },
+  {
+    "event_id": 213,
+    "user_id": "U018",
+    "action": "logout",
+    "server_cpu": 20.24,
+    "server_memory": 83.05,
+    "timestamp": "2026-08-22T11:04:15.273146"
+  },
+  {
+    "event_id": 214,
+    "user_id": "U004",
+    "action": "add_to_cart",
+    "server_cpu": 90.52,
+    "server_memory": 33.87,
+    "timestamp": "2026-08-22T11:04:15.273148"
+  },
+  {
+    "event_id": 215,
+    "user_id": "U012",
+    "action": "page_view",
+    "server_cpu": 38.98,
+    "server_memory": 48.16,
+    "timestamp": "2026-08-22T11:04:15.273151"
+  },
+  {
+    "event_id": 216,
+    "user_id": "U012",
+    "action": "checkout",
+    "server_cpu": 21.41,
+    "server_memory": 41.95,
+    "timestamp": "2026-08-22T11:04:15.273153"
+  },
+  {
+    "event_id": 217,
+    "user_id": "U013",
+    "action": "logout",
+    "server_cpu": 67.75,
+    "server_memory": 38.16,
+    "timestamp": "2026-08-22T11:04:15.273156"
+  },
+  {
+    "event_id": 218,
+    "user_id": "U001",
+    "action": "add_to_cart",
+    "server_cpu": 26.16,
+    "server_memory": 37.57,
+    "timestamp": "2026-08-22T11:04:15.273159"
+  },
+  {
+    "event_id": 219,
+    "user_id": "U006",
+    "action": "search",
+    "server_cpu": 77.38,
+    "server_memory": 76.53,
+    "timestamp": "2026-08-22T11:04:15.273161"
+  },
+  {
+    "event_id": 220,
+    "user_id": "U010",
+    "action": "page_view",
+    "server_cpu": 61.15,
+    "server_memory": 69.07,
+    "timestamp": "2026-08-22T11:04:15.273163"
+  },
+  {
+    "event_id": 221,
+    "user_id": "U014",
+    "action": "logout",
+    "server_cpu": 51.33,
+    "server_memory": 75.95,
+    "timestamp": "2026-08-22T11:04:15.273166"
+  },
+  {
+    "event_id": 222,
+    "user_id": "U009",
+    "action": "search",
+    "server_cpu": 27.14,
+    "server_memory": 81.85,
+    "timestamp": "2026-08-22T11:04:15.273168"
+  },
+  {
+    "event_id": 223,
+    "user_id": "U002",
+    "action": "login",
+    "server_cpu": 71.83,
+    "server_memory": 38.96,
+    "timestamp": "2026-08-22T11:04:15.273170"
+  },
+  {
+    "event_id": 224,
+    "user_id": "U018",
+    "action": "page_view",
+    "server_cpu": 91.02,
+    "server_memory": 41.46,
+    "timestamp": "2026-08-22T11:04:15.273174"
+  },
+  {
+    "event_id": 225,
+    "user_id": "U019",
+    "action": "page_view",
+    "server_cpu": 51.01,
+    "server_memory": 65.39,
+    "timestamp": "2026-08-22T11:04:15.273176"
+  },
+  {
+    "event_id": 226,
+    "user_id": "U020",
+    "action": "checkout",
+    "server_cpu": 59.27,
+    "server_memory": 46.6,
+    "timestamp": "2026-08-22T11:04:15.273178"
+  },
+  {
+    "event_id": 227,
+    "user_id": "U011",
+    "action": "page_view",
+    "server_cpu": 25.91,
+    "server_memory": 66.11,
+    "timestamp": "2026-08-22T11:04:15.273183"
+  },
+  {
+    "event_id": 228,
+    "user_id": "U009",
+    "action": "checkout",
+    "server_cpu": 22.98,
+    "server_memory": 86.34,
+    "timestamp": "2026-08-22T11:04:15.273186"
+  },
+  {
+    "event_id": 229,
+    "user_id": "U011",
+    "action": "checkout",
+    "server_cpu": 29.44,
+    "server_memory": 45.27,
+    "timestamp": "2026-08-22T11:04:15.273188"
+  },
+  {
+    "event_id": 230,
+    "user_id": "U002",
+    "action": "page_view",
+    "server_cpu": 60.16,
+    "server_memory": 61.52,
+    "timestamp": "2026-08-22T11:04:15.273190"
+  },
+  {
+    "event_id": 231,
+    "user_id": "U019",
+    "action": "page_view",
+    "server_cpu": 79.59,
+    "server_memory": 38.93,
+    "timestamp": "2026-08-22T11:04:15.273193"
+  },
+  {
+    "event_id": 232,
+    "user_id": "U004",
+    "action": "logout",
+    "server_cpu": 83.79,
+    "server_memory": 42.72,
+    "timestamp": "2026-08-22T11:04:15.273195"
+  },
+  {
+    "event_id": 233,
+    "user_id": "U017",
+    "action": "page_view",
+    "server_cpu": 71.26,
+    "server_memory": 77.09,
+    "timestamp": "2026-08-22T11:04:15.273198"
+  },
+  {
+    "event_id": 234,
+    "user_id": "U001",
+    "action": "login",
+    "server_cpu": 62.9,
+    "server_memory": 58.96,
+    "timestamp": "2026-08-22T11:04:15.273200"
+  },
+  {
+    "event_id": 235,
+    "user_id": "U016",
+    "action": "search",
+    "server_cpu": 53.48,
+    "server_memory": 61.14,
+    "timestamp": "2026-08-22T11:04:15.273203"
+  },
+  {
+    "event_id": 236,
+    "user_id": "U002",
+    "action": "search",
+    "server_cpu": 67.03,
+    "server_memory": 56.34,
+    "timestamp": "2026-08-22T11:04:15.273205"
+  },
+  {
+    "event_id": 237,
+    "user_id": "U002",
+    "action": "logout",
+    "server_cpu": 61.86,
+    "server_memory": 36.22,
+    "timestamp": "2026-08-22T11:04:15.273207"
+  },
+  {
+    "event_id": 238,
+    "user_id": "U013",
+    "action": "checkout",
+    "server_cpu": 30.37,
+    "server_memory": 75.79,
+    "timestamp": "2026-08-22T11:04:15.273209"
+  },
+  {
+    "event_id": 239,
+    "user_id": "U007",
+    "action": "checkout",
+    "server_cpu": 81.39,
+    "server_memory": 55.2,
+    "timestamp": "2026-08-22T11:04:15.273212"
+  },
+  {
+    "event_id": 240,
+    "user_id": "U017",
+    "action": "logout",
+    "server_cpu": 30.01,
+    "server_memory": 80.13,
+    "timestamp": "2026-08-22T11:04:15.273214"
+  },
+  {
+    "event_id": 241,
+    "user_id": "U003",
+    "action": "search",
+    "server_cpu": 86.9,
+    "server_memory": 40.78,
+    "timestamp": "2026-08-22T11:04:15.273217"
+  },
+  {
+    "event_id": 242,
+    "user_id": "U015",
+    "action": "page_view",
+    "server_cpu": 58.27,
+    "server_memory": 77.07,
+    "timestamp": "2026-08-22T11:04:15.273219"
+  },
+  {
+    "event_id": 243,
+    "user_id": "U002",
+    "action": "logout",
+    "server_cpu": 37.38,
+    "server_memory": 79.15,
+    "timestamp": "2026-08-22T11:04:15.273221"
+  },
+  {
+    "event_id": 244,
+    "user_id": "U017",
+    "action": "page_view",
+    "server_cpu": 61.43,
+    "server_memory": 76.66,
+    "timestamp": "2026-08-22T11:04:15.273225"
+  },
+  {
+    "event_id": 245,
+    "user_id": "U001",
+    "action": "add_to_cart",
+    "server_cpu": 29.57,
+    "server_memory": 87.83,
+    "timestamp": "2026-08-22T11:04:15.273228"
+  },
+  {
+    "event_id": 246,
+    "user_id": "U017",
+    "action": "logout",
+    "server_cpu": 88.47,
+    "server_memory": 61.82,
+    "timestamp": "2026-08-22T11:04:15.273230"
+  },
+  {
+    "event_id": 247,
+    "user_id": "U012",
+    "action": "search",
+    "server_cpu": 92.19,
+    "server_memory": 77.46,
+    "timestamp": "2026-08-22T11:04:15.273232"
+  },
+  {
+    "event_id": 248,
+    "user_id": "U003",
+    "action": "logout",
+    "server_cpu": 44.47,
+    "server_memory": 66.49,
+    "timestamp": "2026-08-22T11:04:15.273235"
+  },
+  {
+    "event_id": 249,
+    "user_id": "U012",
+    "action": "search",
+    "server_cpu": 54.22,
+    "server_memory": 31.17,
+    "timestamp": "2026-08-22T11:04:15.273237"
+  },
+  {
+    "event_id": 250,
+    "user_id": "U012",
+    "action": "search",
+    "server_cpu": 44.55,
+    "server_memory": 47.67,
+    "timestamp": "2026-08-22T11:04:15.273239"
+  },
+  {
+    "event_id": 251,
+    "user_id": "U015",
+    "action": "add_to_cart",
+    "server_cpu": 58.93,
+    "server_memory": 89.29,
+    "timestamp": "2026-08-22T11:04:15.273242"
+  },
+  {
+    "event_id": 252,
+    "user_id": "U020",
+    "action": "add_to_cart",
+    "server_cpu": 51.74,
+    "server_memory": 71.13,
+    "timestamp": "2026-08-22T11:04:15.273244"
+  },
+  {
+    "event_id": 253,
+    "user_id": "U005",
+    "action": "logout",
+    "server_cpu": 42.94,
+    "server_memory": 59.9,
+    "timestamp": "2026-08-22T11:04:15.273247"
+  },
+  {
+    "event_id": 254,
+    "user_id": "U007",
+    "action": "page_view",
+    "server_cpu": 29.41,
+    "server_memory": 42.26,
+    "timestamp": "2026-08-22T11:04:15.273249"
+  },
+  {
+    "event_id": 255,
+    "user_id": "U011",
+    "action": "add_to_cart",
+    "server_cpu": 74.1,
+    "server_memory": 64.11,
+    "timestamp": "2026-08-22T11:04:15.273251"
+  },
+  {
+    "event_id": 256,
+    "user_id": "U007",
+    "action": "checkout",
+    "server_cpu": 70.86,
+    "server_memory": 83.87,
+    "timestamp": "2026-08-22T11:04:15.273254"
+  },
+  {
+    "event_id": 257,
+    "user_id": "U014",
+    "action": "logout",
+    "server_cpu": 62.25,
+    "server_memory": 33.39,
+    "timestamp": "2026-08-22T11:04:15.273256"
+  },
+  {
+    "event_id": 258,
+    "user_id": "U014",
+    "action": "logout",
+    "server_cpu": 21.67,
+    "server_memory": 65.73,
+    "timestamp": "2026-08-22T11:04:15.273259"
+  },
+  {
+    "event_id": 259,
+    "user_id": "U006",
+    "action": "login",
+    "server_cpu": 23.58,
+    "server_memory": 73.66,
+    "timestamp": "2026-08-22T11:04:15.273261"
+  },
+  {
+    "event_id": 260,
+    "user_id": "U016",
+    "action": "search",
+    "server_cpu": 51.4,
+    "server_memory": 72.66,
+    "timestamp": "2026-08-22T11:04:15.273264"
+  },
+  {
+    "event_id": 261,
+    "user_id": "U009",
+    "action": "login",
+    "server_cpu": 26.29,
+    "server_memory": 63.82,
+    "timestamp": "2026-08-22T11:04:15.273266"
+  },
+  {
+    "event_id": 262,
+    "user_id": "U010",
+    "action": "search",
+    "server_cpu": 25.25,
+    "server_memory": 33.64,
+    "timestamp": "2026-08-22T11:04:15.273268"
+  },
+  {
+    "event_id": 263,
+    "user_id": "U003",
+    "action": "page_view",
+    "server_cpu": 28.96,
+    "server_memory": 37.36,
+    "timestamp": "2026-08-22T11:04:15.273272"
+  },
+  {
+    "event_id": 264,
+    "user_id": "U006",
+    "action": "checkout",
+    "server_cpu": 78.09,
+    "server_memory": 69.61,
+    "timestamp": "2026-08-22T11:04:15.273274"
+  },
+  {
+    "event_id": 265,
+    "user_id": "U010",
+    "action": "add_to_cart",
+    "server_cpu": 62.59,
+    "server_memory": 67.29,
+    "timestamp": "2026-08-22T11:04:15.273276"
+  },
+  {
+    "event_id": 266,
+    "user_id": "U007",
+    "action": "login",
+    "server_cpu": 41.73,
+    "server_memory": 57.81,
+    "timestamp": "2026-08-22T11:04:15.273279"
+  },
+  {
+    "event_id": 267,
+    "user_id": "U011",
+    "action": "logout",
+    "server_cpu": 79.47,
+    "server_memory": 59.14,
+    "timestamp": "2026-08-22T11:04:15.273282"
+  },
+  {
+    "event_id": 268,
+    "user_id": "U007",
+    "action": "logout",
+    "server_cpu": 28.18,
+    "server_memory": 33.06,
+    "timestamp": "2026-08-22T11:04:15.273285"
+  },
+  {
+    "event_id": 269,
+    "user_id": "U015",
+    "action": "logout",
+    "server_cpu": 84.21,
+    "server_memory": 88.5,
+    "timestamp": "2026-08-22T11:04:15.273287"
+  },
+  {
+    "event_id": 270,
+    "user_id": "U012",
+    "action": "search",
+    "server_cpu": 39.07,
+    "server_memory": 87.13,
+    "timestamp": "2026-08-22T11:04:15.273290"
+  },
+  {
+    "event_id": 271,
+    "user_id": "U016",
+    "action": "search",
+    "server_cpu": 72.3,
+    "server_memory": 85.63,
+    "timestamp": "2026-08-22T11:04:15.273293"
+  },
+  {
+    "event_id": 272,
+    "user_id": "U017",
+    "action": "logout",
+    "server_cpu": 36.03,
+    "server_memory": 44.03,
+    "timestamp": "2026-08-22T11:04:15.273296"
+  },
+  {
+    "event_id": 273,
+    "user_id": "U018",
+    "action": "logout",
+    "server_cpu": 45.5,
+    "server_memory": 71.84,
+    "timestamp": "2026-08-22T11:04:15.273298"
+  },
+  {
+    "event_id": 274,
+    "user_id": "U004",
+    "action": "page_view",
+    "server_cpu": 38.9,
+    "server_memory": 46.9,
+    "timestamp": "2026-08-22T11:04:15.273301"
+  },
+  {
+    "event_id": 275,
+    "user_id": "U013",
+    "action": "search",
+    "server_cpu": 24.75,
+    "server_memory": 74.07,
+    "timestamp": "2026-08-22T11:04:15.273303"
+  },
+  {
+    "event_id": 276,
+    "user_id": "U019",
+    "action": "add_to_cart",
+    "server_cpu": 77.89,
+    "server_memory": 81.84,
+    "timestamp": "2026-08-22T11:04:15.273305"
+  },
+  {
+    "event_id": 277,
+    "user_id": "U012",
+    "action": "search",
+    "server_cpu": 39.9,
+    "server_memory": 65.37,
+    "timestamp": "2026-08-22T11:04:15.273308"
+  },
+  {
+    "event_id": 278,
+    "user_id": "U006",
+    "action": "login",
+    "server_cpu": 20.04,
+    "server_memory": 71.12,
+    "timestamp": "2026-08-22T11:04:15.273310"
+  },
+  {
+    "event_id": 279,
+    "user_id": "U011",
+    "action": "add_to_cart",
+    "server_cpu": 35.8,
+    "server_memory": 41.38,
+    "timestamp": "2026-08-22T11:04:15.273312"
+  },
+  {
+    "event_id": 280,
+    "user_id": "U015",
+    "action": "checkout",
+    "server_cpu": 89.66,
+    "server_memory": 63.01,
+    "timestamp": "2026-08-22T11:04:15.273315"
+  },
+  {
+    "event_id": 281,
+    "user_id": "U012",
+    "action": "logout",
+    "server_cpu": 47.47,
+    "server_memory": 50.71,
+    "timestamp": "2026-08-22T11:04:15.273317"
+  },
+  {
+    "event_id": 282,
+    "user_id": "U008",
+    "action": "page_view",
+    "server_cpu": 68.66,
+    "server_memory": 61.2,
+    "timestamp": "2026-08-22T11:04:15.273319"
+  },
+  {
+    "event_id": 283,
+    "user_id": "U003",
+    "action": "checkout",
+    "server_cpu": 80.44,
+    "server_memory": 36.34,
+    "timestamp": "2026-08-22T11:04:15.273323"
+  },
+  {
+    "event_id": 284,
+    "user_id": "U006",
+    "action": "login",
+    "server_cpu": 78.29,
+    "server_memory": 51.44,
+    "timestamp": "2026-08-22T11:04:15.273325"
+  },
+  {
+    "event_id": 285,
+    "user_id": "U012",
+    "action": "logout",
+    "server_cpu": 84.07,
+    "server_memory": 36.07,
+    "timestamp": "2026-08-22T11:04:15.273328"
+  },
+  {
+    "event_id": 286,
+    "user_id": "U006",
+    "action": "search",
+    "server_cpu": 66.93,
+    "server_memory": 52.52,
+    "timestamp": "2026-08-22T11:04:15.273330"
+  },
+  {
+    "event_id": 287,
+    "user_id": "U019",
+    "action": "login",
+    "server_cpu": 30.14,
+    "server_memory": 78.48,
+    "timestamp": "2026-08-22T11:04:15.273333"
+  },
+  {
+    "event_id": 288,
+    "user_id": "U003",
+    "action": "checkout",
+    "server_cpu": 22.14,
+    "server_memory": 60.63,
+    "timestamp": "2026-08-22T11:04:15.273335"
+  },
+  {
+    "event_id": 289,
+    "user_id": "U001",
+    "action": "logout",
+    "server_cpu": 72.56,
+    "server_memory": 34.0,
+    "timestamp": "2026-08-22T11:04:15.273338"
+  },
+  {
+    "event_id": 290,
+    "user_id": "U004",
+    "action": "search",
+    "server_cpu": 45.58,
+    "server_memory": 71.26,
+    "timestamp": "2026-08-22T11:04:15.273341"
+  },
+  {
+    "event_id": 291,
+    "user_id": "U008",
+    "action": "search",
+    "server_cpu": 94.2,
+    "server_memory": 40.12,
+    "timestamp": "2026-08-22T11:04:15.273344"
+  },
+  {
+    "event_id": 292,
+    "user_id": "U005",
+    "action": "checkout",
+    "server_cpu": 57.54,
+    "server_memory": 86.83,
+    "timestamp": "2026-08-22T11:04:15.273347"
+  },
+  {
+    "event_id": 293,
+    "user_id": "U018",
+    "action": "add_to_cart",
+    "server_cpu": 27.54,
+    "server_memory": 82.68,
+    "timestamp": "2026-08-22T11:04:15.273349"
+  },
+  {
+    "event_id": 294,
+    "user_id": "U004",
+    "action": "add_to_cart",
+    "server_cpu": 74.7,
+    "server_memory": 77.6,
+    "timestamp": "2026-08-22T11:04:15.273351"
+  },
+  {
+    "event_id": 295,
+    "user_id": "U019",
+    "action": "search",
+    "server_cpu": 54.31,
+    "server_memory": 49.11,
+    "timestamp": "2026-08-22T11:04:15.273354"
+  },
+  {
+    "event_id": 296,
+    "user_id": "U003",
+    "action": "logout",
+    "server_cpu": 83.33,
+    "server_memory": 74.51,
+    "timestamp": "2026-08-22T11:04:15.273356"
+  },
+  {
+    "event_id": 297,
+    "user_id": "U015",
+    "action": "search",
+    "server_cpu": 50.48,
+    "server_memory": 78.74,
+    "timestamp": "2026-08-22T11:04:15.273358"
+  },
+  {
+    "event_id": 298,
+    "user_id": "U019",
+    "action": "page_view",
+    "server_cpu": 91.79,
+    "server_memory": 77.05,
+    "timestamp": "2026-08-22T11:04:15.273361"
+  },
+  {
+    "event_id": 299,
+    "user_id": "U003",
+    "action": "logout",
+    "server_cpu": 59.72,
+    "server_memory": 34.1,
+    "timestamp": "2026-08-22T11:04:15.273363"
+  },
+  {
+    "event_id": 300,
+    "user_id": "U007",
+    "action": "add_to_cart",
+    "server_cpu": 64.67,
+    "server_memory": 61.0,
+    "timestamp": "2026-08-22T11:04:15.273365"
+  },
+  {
+    "event_id": 301,
+    "user_id": "U002",
+    "action": "login",
+    "server_cpu": 64.85,
+    "server_memory": 58.5,
+    "timestamp": "2026-08-22T11:04:15.273368"
+  },
+  {
+    "event_id": 302,
+    "user_id": "U008",
+    "action": "login",
+    "server_cpu": 43.39,
+    "server_memory": 39.98,
+    "timestamp": "2026-08-22T11:04:15.273371"
+  },
+  {
+    "event_id": 303,
+    "user_id": "U007",
+    "action": "add_to_cart",
+    "server_cpu": 68.38,
+    "server_memory": 30.92,
+    "timestamp": "2026-08-22T11:04:15.273373"
+  },
+  {
+    "event_id": 304,
+    "user_id": "U002",
+    "action": "logout",
+    "server_cpu": 71.28,
+    "server_memory": 55.58,
+    "timestamp": "2026-08-22T11:04:15.273376"
+  },
+  {
+    "event_id": 305,
+    "user_id": "U007",
+    "action": "page_view",
+    "server_cpu": 40.38,
+    "server_memory": 37.6,
+    "timestamp": "2026-08-22T11:04:15.273378"
+  },
+  {
+    "event_id": 306,
+    "user_id": "U019",
+    "action": "page_view",
+    "server_cpu": 33.13,
+    "server_memory": 52.56,
+    "timestamp": "2026-08-22T11:04:15.273381"
+  },
+  {
+    "event_id": 307,
+    "user_id": "U010",
+    "action": "page_view",
+    "server_cpu": 45.88,
+    "server_memory": 61.43,
+    "timestamp": "2026-08-22T11:04:15.273383"
+  },
+  {
+    "event_id": 308,
+    "user_id": "U009",
+    "action": "add_to_cart",
+    "server_cpu": 37.52,
+    "server_memory": 47.2,
+    "timestamp": "2026-08-22T11:04:15.273385"
+  },
+  {
+    "event_id": 309,
+    "user_id": "U020",
+    "action": "add_to_cart",
+    "server_cpu": 56.69,
+    "server_memory": 87.13,
+    "timestamp": "2026-08-22T11:04:15.273388"
+  },
+  {
+    "event_id": 310,
+    "user_id": "U017",
+    "action": "logout",
+    "server_cpu": 83.07,
+    "server_memory": 75.85,
+    "timestamp": "2026-08-22T11:04:15.273391"
+  },
+  {
+    "event_id": 311,
+    "user_id": "U019",
+    "action": "logout",
+    "server_cpu": 94.25,
+    "server_memory": 36.61,
+    "timestamp": "2026-08-22T11:04:15.273393"
+  },
+  {
+    "event_id": 312,
+    "user_id": "U020",
+    "action": "add_to_cart",
+    "server_cpu": 34.39,
+    "server_memory": 41.37,
+    "timestamp": "2026-08-22T11:04:15.273395"
+  },
+  {
+    "event_id": 313,
+    "user_id": "U006",
+    "action": "page_view",
+    "server_cpu": 93.44,
+    "server_memory": 62.33,
+    "timestamp": "2026-08-22T11:04:15.273398"
+  },
+  {
+    "event_id": 314,
+    "user_id": "U015",
+    "action": "checkout",
+    "server_cpu": 55.08,
+    "server_memory": 48.92,
+    "timestamp": "2026-08-22T11:04:15.273400"
+  },
+  {
+    "event_id": 315,
+    "user_id": "U007",
+    "action": "add_to_cart",
+    "server_cpu": 41.31,
+    "server_memory": 57.54,
+    "timestamp": "2026-08-22T11:04:15.273403"
+  },
+  {
+    "event_id": 316,
+    "user_id": "U009",
+    "action": "page_view",
+    "server_cpu": 47.02,
+    "server_memory": 36.84,
+    "timestamp": "2026-08-22T11:04:15.273405"
+  },
+  {
+    "event_id": 317,
+    "user_id": "U001",
+    "action": "add_to_cart",
+    "server_cpu": 82.24,
+    "server_memory": 56.02,
+    "timestamp": "2026-08-22T11:04:15.273408"
+  },
+  {
+    "event_id": 318,
+    "user_id": "U006",
+    "action": "page_view",
+    "server_cpu": 55.83,
+    "server_memory": 46.11,
+    "timestamp": "2026-08-22T11:04:15.273411"
+  },
+  {
+    "event_id": 319,
+    "user_id": "U012",
+    "action": "add_to_cart",
+    "server_cpu": 74.64,
+    "server_memory": 48.69,
+    "timestamp": "2026-08-22T11:04:15.273414"
+  },
+  {
+    "event_id": 320,
+    "user_id": "U006",
+    "action": "add_to_cart",
+    "server_cpu": 53.91,
+    "server_memory": 45.38,
+    "timestamp": "2026-08-22T11:04:15.273416"
+  },
+  {
+    "event_id": 321,
+    "user_id": "U002",
+    "action": "page_view",
+    "server_cpu": 66.56,
+    "server_memory": 55.15,
+    "timestamp": "2026-08-22T11:04:15.273419"
+  },
+  {
+    "event_id": 322,
+    "user_id": "U006",
+    "action": "checkout",
+    "server_cpu": 27.3,
+    "server_memory": 81.68,
+    "timestamp": "2026-08-22T11:04:15.273422"
+  },
+  {
+    "event_id": 323,
+    "user_id": "U002",
+    "action": "add_to_cart",
+    "server_cpu": 30.9,
+    "server_memory": 75.7,
+    "timestamp": "2026-08-22T11:04:15.273424"
+  },
+  {
+    "event_id": 324,
+    "user_id": "U010",
+    "action": "add_to_cart",
+    "server_cpu": 72.27,
+    "server_memory": 69.13,
+    "timestamp": "2026-08-22T11:04:15.273427"
+  },
+  {
+    "event_id": 325,
+    "user_id": "U011",
+    "action": "login",
+    "server_cpu": 28.49,
+    "server_memory": 71.56,
+    "timestamp": "2026-08-22T11:04:15.273429"
+  },
+  {
+    "event_id": 326,
+    "user_id": "U004",
+    "action": "page_view",
+    "server_cpu": 39.96,
+    "server_memory": 80.64,
+    "timestamp": "2026-08-22T11:04:15.273432"
+  },
+  {
+    "event_id": 327,
+    "user_id": "U014",
+    "action": "logout",
+    "server_cpu": 29.67,
+    "server_memory": 57.13,
+    "timestamp": "2026-08-22T11:04:15.273434"
+  },
+  {
+    "event_id": 328,
+    "user_id": "U016",
+    "action": "page_view",
+    "server_cpu": 40.99,
+    "server_memory": 62.44,
+    "timestamp": "2026-08-22T11:04:15.273437"
+  },
+  {
+    "event_id": 329,
+    "user_id": "U014",
+    "action": "login",
+    "server_cpu": 35.15,
+    "server_memory": 40.89,
+    "timestamp": "2026-08-22T11:04:15.273439"
+  },
+  {
+    "event_id": 330,
+    "user_id": "U016",
+    "action": "checkout",
+    "server_cpu": 68.26,
+    "server_memory": 79.32,
+    "timestamp": "2026-08-22T11:04:15.273442"
+  },
+  {
+    "event_id": 331,
+    "user_id": "U007",
+    "action": "login",
+    "server_cpu": 28.71,
+    "server_memory": 73.16,
+    "timestamp": "2026-08-22T11:04:15.273444"
+  },
+  {
+    "event_id": 332,
+    "user_id": "U016",
+    "action": "search",
+    "server_cpu": 61.04,
+    "server_memory": 80.91,
+    "timestamp": "2026-08-22T11:04:15.273447"
+  },
+  {
+    "event_id": 333,
+    "user_id": "U013",
+    "action": "add_to_cart",
+    "server_cpu": 53.28,
+    "server_memory": 33.26,
+    "timestamp": "2026-08-22T11:04:15.273450"
+  },
+  {
+    "event_id": 334,
+    "user_id": "U004",
+    "action": "checkout",
+    "server_cpu": 74.75,
+    "server_memory": 59.21,
+    "timestamp": "2026-08-22T11:04:15.273452"
+  },
+  {
+    "event_id": 335,
+    "user_id": "U013",
+    "action": "login",
+    "server_cpu": 92.09,
+    "server_memory": 69.75,
+    "timestamp": "2026-08-22T11:04:15.273455"
+  },
+  {
+    "event_id": 336,
+    "user_id": "U020",
+    "action": "logout",
+    "server_cpu": 33.78,
+    "server_memory": 87.43,
+    "timestamp": "2026-08-22T11:04:15.273457"
+  },
+  {
+    "event_id": 337,
+    "user_id": "U001",
+    "action": "page_view",
+    "server_cpu": 23.71,
+    "server_memory": 73.95,
+    "timestamp": "2026-08-22T11:04:15.273459"
+  },
+  {
+    "event_id": 338,
+    "user_id": "U007",
+    "action": "login",
+    "server_cpu": 30.77,
+    "server_memory": 41.36,
+    "timestamp": "2026-08-22T11:04:15.273462"
+  },
+  {
+    "event_id": 339,
+    "user_id": "U008",
+    "action": "checkout",
+    "server_cpu": 63.42,
+    "server_memory": 43.95,
+    "timestamp": "2026-08-22T11:04:15.273464"
+  },
+  {
+    "event_id": 340,
+    "user_id": "U001",
+    "action": "page_view",
+    "server_cpu": 20.57,
+    "server_memory": 65.15,
+    "timestamp": "2026-08-22T11:04:15.273466"
+  },
+  {
+    "event_id": 341,
+    "user_id": "U008",
+    "action": "page_view",
+    "server_cpu": 66.92,
+    "server_memory": 46.36,
+    "timestamp": "2026-08-22T11:04:15.273470"
+  },
+  {
+    "event_id": 342,
+    "user_id": "U002",
+    "action": "search",
+    "server_cpu": 63.89,
+    "server_memory": 43.52,
+    "timestamp": "2026-08-22T11:04:15.273472"
+  },
+  {
+    "event_id": 343,
+    "user_id": "U020",
+    "action": "search",
+    "server_cpu": 87.94,
+    "server_memory": 44.46,
+    "timestamp": "2026-08-22T11:04:15.273474"
+  },
+  {
+    "event_id": 344,
+    "user_id": "U008",
+    "action": "logout",
+    "server_cpu": 68.91,
+    "server_memory": 45.54,
+    "timestamp": "2026-08-22T11:04:15.273477"
+  },
+  {
+    "event_id": 345,
+    "user_id": "U019",
+    "action": "page_view",
+    "server_cpu": 40.16,
+    "server_memory": 69.73,
+    "timestamp": "2026-08-22T11:04:15.273479"
+  },
+  {
+    "event_id": 346,
+    "user_id": "U001",
+    "action": "page_view",
+    "server_cpu": 58.89,
+    "server_memory": 75.49,
+    "timestamp": "2026-08-22T11:04:15.273481"
+  },
+  {
+    "event_id": 347,
+    "user_id": "U005",
+    "action": "checkout",
+    "server_cpu": 67.56,
+    "server_memory": 56.32,
+    "timestamp": "2026-08-22T11:04:15.273484"
+  },
+  {
+    "event_id": 348,
+    "user_id": "U001",
+    "action": "checkout",
+    "server_cpu": 91.51,
+    "server_memory": 52.62,
+    "timestamp": "2026-08-22T11:04:15.273486"
+  },
+  {
+    "event_id": 349,
+    "user_id": "U008",
+    "action": "checkout",
+    "server_cpu": 68.88,
+    "server_memory": 86.06,
+    "timestamp": "2026-08-22T11:04:15.273488"
+  },
+  {
+    "event_id": 350,
+    "user_id": "U008",
+    "action": "login",
+    "server_cpu": 90.54,
+    "server_memory": 41.55,
+    "timestamp": "2026-08-22T11:04:15.273491"
+  },
+  {
+    "event_id": 351,
+    "user_id": "U002",
+    "action": "add_to_cart",
+    "server_cpu": 41.18,
+    "server_memory": 68.43,
+    "timestamp": "2026-08-22T11:04:15.273493"
+  },
+  {
+    "event_id": 352,
+    "user_id": "U008",
+    "action": "logout",
+    "server_cpu": 64.54,
+    "server_memory": 56.16,
+    "timestamp": "2026-08-22T11:04:15.273495"
+  },
+  {
+    "event_id": 353,
+    "user_id": "U011",
+    "action": "logout",
+    "server_cpu": 50.25,
+    "server_memory": 78.07,
+    "timestamp": "2026-08-22T11:04:15.273498"
+  },
+  {
+    "event_id": 354,
+    "user_id": "U001",
+    "action": "checkout",
+    "server_cpu": 76.84,
+    "server_memory": 63.53,
+    "timestamp": "2026-08-22T11:04:15.273500"
+  },
+  {
+    "event_id": 355,
+    "user_id": "U013",
+    "action": "search",
+    "server_cpu": 64.5,
+    "server_memory": 38.43,
+    "timestamp": "2026-08-22T11:04:15.273504"
+  },
+  {
+    "event_id": 356,
+    "user_id": "U015",
+    "action": "login",
+    "server_cpu": 21.54,
+    "server_memory": 31.57,
+    "timestamp": "2026-08-22T11:04:15.273506"
+  },
+  {
+    "event_id": 357,
+    "user_id": "U011",
+    "action": "checkout",
+    "server_cpu": 73.67,
+    "server_memory": 61.11,
+    "timestamp": "2026-08-22T11:04:15.273508"
+  },
+  {
+    "event_id": 358,
+    "user_id": "U007",
+    "action": "search",
+    "server_cpu": 55.77,
+    "server_memory": 54.38,
+    "timestamp": "2026-08-22T11:04:15.273511"
+  },
+  {
+    "event_id": 359,
+    "user_id": "U002",
+    "action": "login",
+    "server_cpu": 91.54,
+    "server_memory": 64.92,
+    "timestamp": "2026-08-22T11:04:15.273513"
+  },
+  {
+    "event_id": 360,
+    "user_id": "U001",
+    "action": "page_view",
+    "server_cpu": 69.88,
+    "server_memory": 37.54,
+    "timestamp": "2026-08-22T11:04:15.273516"
+  },
+  {
+    "event_id": 361,
+    "user_id": "U004",
+    "action": "checkout",
+    "server_cpu": 52.6,
+    "server_memory": 39.06,
+    "timestamp": "2026-08-22T11:04:15.273519"
+  },
+  {
+    "event_id": 362,
+    "user_id": "U003",
+    "action": "logout",
+    "server_cpu": 35.38,
+    "server_memory": 51.32,
+    "timestamp": "2026-08-22T11:04:15.273521"
+  },
+  {
+    "event_id": 363,
+    "user_id": "U005",
+    "action": "search",
+    "server_cpu": 37.03,
+    "server_memory": 34.59,
+    "timestamp": "2026-08-22T11:04:15.273524"
+  },
+  {
+    "event_id": 364,
+    "user_id": "U002",
+    "action": "page_view",
+    "server_cpu": 91.97,
+    "server_memory": 44.57,
+    "timestamp": "2026-08-22T11:04:15.273527"
+  },
+  {
+    "event_id": 365,
+    "user_id": "U012",
+    "action": "checkout",
+    "server_cpu": 22.23,
+    "server_memory": 79.36,
+    "timestamp": "2026-08-22T11:04:15.273529"
+  },
+  {
+    "event_id": 366,
+    "user_id": "U015",
+    "action": "logout",
+    "server_cpu": 70.06,
+    "server_memory": 74.71,
+    "timestamp": "2026-08-22T11:04:15.273531"
+  },
+  {
+    "event_id": 367,
+    "user_id": "U013",
+    "action": "logout",
+    "server_cpu": 20.18,
+    "server_memory": 68.32,
+    "timestamp": "2026-08-22T11:04:15.273534"
+  },
+  {
+    "event_id": 368,
+    "user_id": "U003",
+    "action": "logout",
+    "server_cpu": 78.63,
+    "server_memory": 31.6,
+    "timestamp": "2026-08-22T11:04:15.273536"
+  },
+  {
+    "event_id": 369,
+    "user_id": "U004",
+    "action": "page_view",
+    "server_cpu": 69.86,
+    "server_memory": 36.97,
+    "timestamp": "2026-08-22T11:04:15.273540"
+  },
+  {
+    "event_id": 370,
+    "user_id": "U011",
+    "action": "checkout",
+    "server_cpu": 43.92,
+    "server_memory": 60.77,
+    "timestamp": "2026-08-22T11:04:15.273542"
+  },
+  {
+    "event_id": 371,
+    "user_id": "U006",
+    "action": "add_to_cart",
+    "server_cpu": 45.56,
+    "server_memory": 62.5,
+    "timestamp": "2026-08-22T11:04:15.273544"
+  },
+  {
+    "event_id": 372,
+    "user_id": "U002",
+    "action": "add_to_cart",
+    "server_cpu": 37.15,
+    "server_memory": 72.9,
+    "timestamp": "2026-08-22T11:04:15.273547"
+  },
+  {
+    "event_id": 373,
+    "user_id": "U010",
+    "action": "checkout",
+    "server_cpu": 56.35,
+    "server_memory": 51.01,
+    "timestamp": "2026-08-22T11:04:15.273549"
+  },
+  {
+    "event_id": 374,
+    "user_id": "U008",
+    "action": "login",
+    "server_cpu": 68.89,
+    "server_memory": 66.59,
+    "timestamp": "2026-08-22T11:04:15.273551"
+  },
+  {
+    "event_id": 375,
+    "user_id": "U013",
+    "action": "add_to_cart",
+    "server_cpu": 34.21,
+    "server_memory": 37.44,
+    "timestamp": "2026-08-22T11:04:15.273555"
+  },
+  {
+    "event_id": 376,
+    "user_id": "U006",
+    "action": "add_to_cart",
+    "server_cpu": 39.11,
+    "server_memory": 36.77,
+    "timestamp": "2026-08-22T11:04:15.273557"
+  },
+  {
+    "event_id": 377,
+    "user_id": "U011",
+    "action": "page_view",
+    "server_cpu": 92.97,
+    "server_memory": 49.14,
+    "timestamp": "2026-08-22T11:04:15.273560"
+  },
+  {
+    "event_id": 378,
+    "user_id": "U009",
+    "action": "logout",
+    "server_cpu": 33.51,
+    "server_memory": 62.8,
+    "timestamp": "2026-08-22T11:04:15.273562"
+  },
+  {
+    "event_id": 379,
+    "user_id": "U011",
+    "action": "login",
+    "server_cpu": 52.19,
+    "server_memory": 67.04,
+    "timestamp": "2026-08-22T11:04:15.273565"
+  },
+  {
+    "event_id": 380,
+    "user_id": "U009",
+    "action": "checkout",
+    "server_cpu": 42.46,
+    "server_memory": 53.28,
+    "timestamp": "2026-08-22T11:04:15.273568"
+  },
+  {
+    "event_id": 381,
+    "user_id": "U007",
+    "action": "add_to_cart",
+    "server_cpu": 44.12,
+    "server_memory": 83.05,
+    "timestamp": "2026-08-22T11:04:15.273570"
+  },
+  {
+    "event_id": 382,
+    "user_id": "U005",
+    "action": "page_view",
+    "server_cpu": 89.9,
+    "server_memory": 81.36,
+    "timestamp": "2026-08-22T11:04:15.273573"
+  },
+  {
+    "event_id": 383,
+    "user_id": "U017",
+    "action": "checkout",
+    "server_cpu": 53.47,
+    "server_memory": 64.62,
+    "timestamp": "2026-08-22T11:04:15.273575"
+  },
+  {
+    "event_id": 384,
+    "user_id": "U013",
+    "action": "search",
+    "server_cpu": 71.81,
+    "server_memory": 68.93,
+    "timestamp": "2026-08-22T11:04:15.273577"
+  },
+  {
+    "event_id": 385,
+    "user_id": "U010",
+    "action": "search",
+    "server_cpu": 83.97,
+    "server_memory": 47.42,
+    "timestamp": "2026-08-22T11:04:15.273580"
+  },
+  {
+    "event_id": 386,
+    "user_id": "U010",
+    "action": "search",
+    "server_cpu": 56.43,
+    "server_memory": 44.35,
+    "timestamp": "2026-08-22T11:04:15.273582"
+  },
+  {
+    "event_id": 387,
+    "user_id": "U018",
+    "action": "page_view",
+    "server_cpu": 66.78,
+    "server_memory": 41.97,
+    "timestamp": "2026-08-22T11:04:15.273585"
+  },
+  {
+    "event_id": 388,
+    "user_id": "U019",
+    "action": "add_to_cart",
+    "server_cpu": 49.82,
+    "server_memory": 64.29,
+    "timestamp": "2026-08-22T11:04:15.273587"
+  },
+  {
+    "event_id": 389,
+    "user_id": "U003",
+    "action": "checkout",
+    "server_cpu": 40.71,
+    "server_memory": 80.53,
+    "timestamp": "2026-08-22T11:04:15.273589"
+  },
+  {
+    "event_id": 390,
+    "user_id": "U002",
+    "action": "page_view",
+    "server_cpu": 85.05,
+    "server_memory": 41.09,
+    "timestamp": "2026-08-22T11:04:15.273592"
+  },
+  {
+    "event_id": 391,
+    "user_id": "U011",
+    "action": "logout",
+    "server_cpu": 52.29,
+    "server_memory": 35.71,
+    "timestamp": "2026-08-22T11:04:15.273594"
+  },
+  {
+    "event_id": 392,
+    "user_id": "U014",
+    "action": "search",
+    "server_cpu": 44.3,
+    "server_memory": 71.78,
+    "timestamp": "2026-08-22T11:04:15.273596"
+  },
+  {
+    "event_id": 393,
+    "user_id": "U001",
+    "action": "logout",
+    "server_cpu": 70.48,
+    "server_memory": 54.2,
+    "timestamp": "2026-08-22T11:04:15.273599"
+  },
+  {
+    "event_id": 394,
+    "user_id": "U008",
+    "action": "login",
+    "server_cpu": 33.2,
+    "server_memory": 44.25,
+    "timestamp": "2026-08-22T11:04:15.273601"
+  },
+  {
+    "event_id": 395,
+    "user_id": "U016",
+    "action": "page_view",
+    "server_cpu": 54.19,
+    "server_memory": 57.76,
+    "timestamp": "2026-08-22T11:04:15.273604"
+  },
+  {
+    "event_id": 396,
+    "user_id": "U020",
+    "action": "add_to_cart",
+    "server_cpu": 42.07,
+    "server_memory": 47.61,
+    "timestamp": "2026-08-22T11:04:15.273606"
+  },
+  {
+    "event_id": 397,
+    "user_id": "U004",
+    "action": "logout",
+    "server_cpu": 75.75,
+    "server_memory": 77.17,
+    "timestamp": "2026-08-22T11:04:15.273608"
+  },
+  {
+    "event_id": 398,
+    "user_id": "U016",
+    "action": "search",
+    "server_cpu": 67.67,
+    "server_memory": 69.82,
+    "timestamp": "2026-08-22T11:04:15.273611"
+  },
+  {
+    "event_id": 399,
+    "user_id": "U007",
+    "action": "search",
+    "server_cpu": 39.74,
+    "server_memory": 78.29,
+    "timestamp": "2026-08-22T11:04:15.273613"
+  },
+  {
+    "event_id": 400,
+    "user_id": "U017",
+    "action": "logout",
+    "server_cpu": 88.92,
+    "server_memory": 65.31,
+    "timestamp": "2026-08-22T11:04:15.273617"
+  },
+  {
+    "event_id": 401,
+    "user_id": "U009",
+    "action": "login",
+    "server_cpu": 72.25,
+    "server_memory": 63.09,
+    "timestamp": "2026-08-22T11:04:15.273619"
+  },
+  {
+    "event_id": 402,
+    "user_id": "U020",
+    "action": "checkout",
+    "server_cpu": 83.55,
+    "server_memory": 32.55,
+    "timestamp": "2026-08-22T11:04:15.273622"
+  },
+  {
+    "event_id": 403,
+    "user_id": "U001",
+    "action": "add_to_cart",
+    "server_cpu": 81.29,
+    "server_memory": 64.02,
+    "timestamp": "2026-08-22T11:04:15.273625"
+  },
+  {
+    "event_id": 404,
+    "user_id": "U017",
+    "action": "add_to_cart",
+    "server_cpu": 45.99,
+    "server_memory": 48.86,
+    "timestamp": "2026-08-22T11:04:15.273627"
+  },
+  {
+    "event_id": 405,
+    "user_id": "U010",
+    "action": "login",
+    "server_cpu": 85.87,
+    "server_memory": 56.48,
+    "timestamp": "2026-08-22T11:04:15.273629"
+  },
+  {
+    "event_id": 406,
+    "user_id": "U001",
+    "action": "add_to_cart",
+    "server_cpu": 47.33,
+    "server_memory": 30.2,
+    "timestamp": "2026-08-22T11:04:15.273631"
+  },
+  {
+    "event_id": 407,
+    "user_id": "U004",
+    "action": "logout",
+    "server_cpu": 44.15,
+    "server_memory": 57.01,
+    "timestamp": "2026-08-22T11:04:15.273634"
+  },
+  {
+    "event_id": 408,
+    "user_id": "U002",
+    "action": "search",
+    "server_cpu": 38.73,
+    "server_memory": 88.59,
+    "timestamp": "2026-08-22T11:04:15.273636"
+  },
+  {
+    "event_id": 409,
+    "user_id": "U018",
+    "action": "checkout",
+    "server_cpu": 31.56,
+    "server_memory": 44.91,
+    "timestamp": "2026-08-22T11:04:15.273639"
+  },
+  {
+    "event_id": 410,
+    "user_id": "U017",
+    "action": "page_view",
+    "server_cpu": 82.63,
+    "server_memory": 39.33,
+    "timestamp": "2026-08-22T11:04:15.273641"
+  },
+  {
+    "event_id": 411,
+    "user_id": "U009",
+    "action": "search",
+    "server_cpu": 28.38,
+    "server_memory": 45.57,
+    "timestamp": "2026-08-22T11:04:15.273643"
+  },
+  {
+    "event_id": 412,
+    "user_id": "U016",
+    "action": "page_view",
+    "server_cpu": 27.58,
+    "server_memory": 48.01,
+    "timestamp": "2026-08-22T11:04:15.273646"
+  },
+  {
+    "event_id": 413,
+    "user_id": "U006",
+    "action": "search",
+    "server_cpu": 43.64,
+    "server_memory": 69.34,
+    "timestamp": "2026-08-22T11:04:15.273648"
+  },
+  {
+    "event_id": 414,
+    "user_id": "U013",
+    "action": "page_view",
+    "server_cpu": 40.29,
+    "server_memory": 87.48,
+    "timestamp": "2026-08-22T11:04:15.273650"
+  },
+  {
+    "event_id": 415,
+    "user_id": "U003",
+    "action": "add_to_cart",
+    "server_cpu": 67.88,
+    "server_memory": 70.38,
+    "timestamp": "2026-08-22T11:04:15.273653"
+  },
+  {
+    "event_id": 416,
+    "user_id": "U009",
+    "action": "add_to_cart",
+    "server_cpu": 20.18,
+    "server_memory": 31.63,
+    "timestamp": "2026-08-22T11:04:15.273655"
+  },
+  {
+    "event_id": 417,
+    "user_id": "U011",
+    "action": "logout",
+    "server_cpu": 32.62,
+    "server_memory": 41.5,
+    "timestamp": "2026-08-22T11:04:15.273659"
+  },
+  {
+    "event_id": 418,
+    "user_id": "U009",
+    "action": "checkout",
+    "server_cpu": 79.49,
+    "server_memory": 47.1,
+    "timestamp": "2026-08-22T11:04:15.273663"
+  },
+  {
+    "event_id": 419,
+    "user_id": "U018",
+    "action": "search",
+    "server_cpu": 73.76,
+    "server_memory": 59.87,
+    "timestamp": "2026-08-22T11:04:15.273667"
+  },
+  {
+    "event_id": 420,
+    "user_id": "U007",
+    "action": "page_view",
+    "server_cpu": 50.4,
+    "server_memory": 82.62,
+    "timestamp": "2026-08-22T11:04:15.273669"
+  },
+  {
+    "event_id": 421,
+    "user_id": "U017",
+    "action": "page_view",
+    "server_cpu": 30.74,
+    "server_memory": 72.7,
+    "timestamp": "2026-08-22T11:04:15.273673"
+  },
+  {
+    "event_id": 422,
+    "user_id": "U013",
+    "action": "search",
+    "server_cpu": 62.88,
+    "server_memory": 50.67,
+    "timestamp": "2026-08-22T11:04:15.273675"
+  },
+  {
+    "event_id": 423,
+    "user_id": "U004",
+    "action": "login",
+    "server_cpu": 85.07,
+    "server_memory": 83.02,
+    "timestamp": "2026-08-22T11:04:15.273678"
+  },
+  {
+    "event_id": 424,
+    "user_id": "U009",
+    "action": "page_view",
+    "server_cpu": 32.39,
+    "server_memory": 86.1,
+    "timestamp": "2026-08-22T11:04:15.273680"
+  },
+  {
+    "event_id": 425,
+    "user_id": "U013",
+    "action": "page_view",
+    "server_cpu": 44.5,
+    "server_memory": 85.53,
+    "timestamp": "2026-08-22T11:04:15.273683"
+  },
+  {
+    "event_id": 426,
+    "user_id": "U012",
+    "action": "page_view",
+    "server_cpu": 57.56,
+    "server_memory": 75.93,
+    "timestamp": "2026-08-22T11:04:15.273685"
+  },
+  {
+    "event_id": 427,
+    "user_id": "U001",
+    "action": "checkout",
+    "server_cpu": 38.89,
+    "server_memory": 82.38,
+    "timestamp": "2026-08-22T11:04:15.273687"
+  },
+  {
+    "event_id": 428,
+    "user_id": "U009",
+    "action": "page_view",
+    "server_cpu": 57.46,
+    "server_memory": 56.7,
+    "timestamp": "2026-08-22T11:04:15.273689"
+  },
+  {
+    "event_id": 429,
+    "user_id": "U015",
+    "action": "search",
+    "server_cpu": 45.28,
+    "server_memory": 62.91,
+    "timestamp": "2026-08-22T11:04:15.273692"
+  },
+  {
+    "event_id": 430,
+    "user_id": "U012",
+    "action": "add_to_cart",
+    "server_cpu": 24.51,
+    "server_memory": 76.03,
+    "timestamp": "2026-08-22T11:04:15.273695"
+  },
+  {
+    "event_id": 431,
+    "user_id": "U006",
+    "action": "add_to_cart",
+    "server_cpu": 78.28,
+    "server_memory": 57.88,
+    "timestamp": "2026-08-22T11:04:15.273697"
+  },
+  {
+    "event_id": 432,
+    "user_id": "U008",
+    "action": "checkout",
+    "server_cpu": 56.09,
+    "server_memory": 56.42,
+    "timestamp": "2026-08-22T11:04:15.273699"
+  },
+  {
+    "event_id": 433,
+    "user_id": "U004",
+    "action": "add_to_cart",
+    "server_cpu": 63.68,
+    "server_memory": 53.18,
+    "timestamp": "2026-08-22T11:04:15.273702"
+  },
+  {
+    "event_id": 434,
+    "user_id": "U019",
+    "action": "page_view",
+    "server_cpu": 70.5,
+    "server_memory": 59.16,
+    "timestamp": "2026-08-22T11:04:15.273704"
+  },
+  {
+    "event_id": 435,
+    "user_id": "U014",
+    "action": "page_view",
+    "server_cpu": 50.96,
+    "server_memory": 51.4,
+    "timestamp": "2026-08-22T11:04:15.273707"
+  },
+  {
+    "event_id": 436,
+    "user_id": "U018",
+    "action": "login",
+    "server_cpu": 56.86,
+    "server_memory": 86.84,
+    "timestamp": "2026-08-22T11:04:15.273709"
+  },
+  {
+    "event_id": 437,
+    "user_id": "U014",
+    "action": "search",
+    "server_cpu": 36.13,
+    "server_memory": 46.54,
+    "timestamp": "2026-08-22T11:04:15.273711"
+  },
+  {
+    "event_id": 438,
+    "user_id": "U007",
+    "action": "search",
+    "server_cpu": 31.89,
+    "server_memory": 50.14,
+    "timestamp": "2026-08-22T11:04:15.273714"
+  },
+  {
+    "event_id": 439,
+    "user_id": "U001",
+    "action": "checkout",
+    "server_cpu": 22.26,
+    "server_memory": 65.42,
+    "timestamp": "2026-08-22T11:04:15.273718"
+  },
+  {
+    "event_id": 440,
+    "user_id": "U020",
+    "action": "page_view",
+    "server_cpu": 51.64,
+    "server_memory": 60.93,
+    "timestamp": "2026-08-22T11:04:15.273721"
+  },
+  {
+    "event_id": 441,
+    "user_id": "U011",
+    "action": "checkout",
+    "server_cpu": 68.32,
+    "server_memory": 55.63,
+    "timestamp": "2026-08-22T11:04:15.273723"
+  },
+  {
+    "event_id": 442,
+    "user_id": "U004",
+    "action": "search",
+    "server_cpu": 50.36,
+    "server_memory": 69.34,
+    "timestamp": "2026-08-22T11:04:15.273726"
+  },
+  {
+    "event_id": 443,
+    "user_id": "U020",
+    "action": "page_view",
+    "server_cpu": 59.95,
+    "server_memory": 55.37,
+    "timestamp": "2026-08-22T11:04:15.273728"
+  },
+  {
+    "event_id": 444,
+    "user_id": "U008",
+    "action": "login",
+    "server_cpu": 71.25,
+    "server_memory": 68.84,
+    "timestamp": "2026-08-22T11:04:15.273731"
+  },
+  {
+    "event_id": 445,
+    "user_id": "U012",
+    "action": "login",
+    "server_cpu": 21.47,
+    "server_memory": 44.08,
+    "timestamp": "2026-08-22T11:04:15.273733"
+  },
+  {
+    "event_id": 446,
+    "user_id": "U009",
+    "action": "checkout",
+    "server_cpu": 43.12,
+    "server_memory": 83.63,
+    "timestamp": "2026-08-22T11:04:15.273735"
+  },
+  {
+    "event_id": 447,
+    "user_id": "U001",
+    "action": "add_to_cart",
+    "server_cpu": 56.39,
+    "server_memory": 82.68,
+    "timestamp": "2026-08-22T11:04:15.273738"
+  },
+  {
+    "event_id": 448,
+    "user_id": "U019",
+    "action": "add_to_cart",
+    "server_cpu": 94.76,
+    "server_memory": 55.75,
+    "timestamp": "2026-08-22T11:04:15.273740"
+  },
+  {
+    "event_id": 449,
+    "user_id": "U014",
+    "action": "search",
+    "server_cpu": 29.99,
+    "server_memory": 44.16,
+    "timestamp": "2026-08-22T11:04:15.273742"
+  },
+  {
+    "event_id": 450,
+    "user_id": "U006",
+    "action": "page_view",
+    "server_cpu": 88.4,
+    "server_memory": 51.57,
+    "timestamp": "2026-08-22T11:04:15.273745"
+  },
+  {
+    "event_id": 451,
+    "user_id": "U012",
+    "action": "page_view",
+    "server_cpu": 42.94,
+    "server_memory": 74.23,
+    "timestamp": "2026-08-22T11:04:15.273747"
+  },
+  {
+    "event_id": 452,
+    "user_id": "U006",
+    "action": "search",
+    "server_cpu": 32.57,
+    "server_memory": 49.72,
+    "timestamp": "2026-08-22T11:04:15.273749"
+  },
+  {
+    "event_id": 453,
+    "user_id": "U016",
+    "action": "page_view",
+    "server_cpu": 24.23,
+    "server_memory": 89.77,
+    "timestamp": "2026-08-22T11:04:15.273752"
+  },
+  {
+    "event_id": 454,
+    "user_id": "U004",
+    "action": "logout",
+    "server_cpu": 88.65,
+    "server_memory": 56.15,
+    "timestamp": "2026-08-22T11:04:15.273755"
+  },
+  {
+    "event_id": 455,
+    "user_id": "U020",
+    "action": "add_to_cart",
+    "server_cpu": 63.81,
+    "server_memory": 35.95,
+    "timestamp": "2026-08-22T11:04:15.273758"
+  },
+  {
+    "event_id": 456,
+    "user_id": "U006",
+    "action": "login",
+    "server_cpu": 47.78,
+    "server_memory": 86.54,
+    "timestamp": "2026-08-22T11:04:15.273760"
+  },
+  {
+    "event_id": 457,
+    "user_id": "U004",
+    "action": "add_to_cart",
+    "server_cpu": 86.55,
+    "server_memory": 65.39,
+    "timestamp": "2026-08-22T11:04:15.273762"
+  },
+  {
+    "event_id": 458,
+    "user_id": "U004",
+    "action": "logout",
+    "server_cpu": 77.92,
+    "server_memory": 64.54,
+    "timestamp": "2026-08-22T11:04:15.273767"
+  },
+  {
+    "event_id": 459,
+    "user_id": "U002",
+    "action": "page_view",
+    "server_cpu": 48.35,
+    "server_memory": 89.46,
+    "timestamp": "2026-08-22T11:04:15.273770"
+  },
+  {
+    "event_id": 460,
+    "user_id": "U019",
+    "action": "login",
+    "server_cpu": 36.8,
+    "server_memory": 44.61,
+    "timestamp": "2026-08-22T11:04:15.273773"
+  },
+  {
+    "event_id": 461,
+    "user_id": "U003",
+    "action": "search",
+    "server_cpu": 53.62,
+    "server_memory": 40.84,
+    "timestamp": "2026-08-22T11:04:15.273775"
+  },
+  {
+    "event_id": 462,
+    "user_id": "U013",
+    "action": "page_view",
+    "server_cpu": 31.6,
+    "server_memory": 60.7,
+    "timestamp": "2026-08-22T11:04:15.273778"
+  },
+  {
+    "event_id": 463,
+    "user_id": "U009",
+    "action": "page_view",
+    "server_cpu": 34.32,
+    "server_memory": 77.65,
+    "timestamp": "2026-08-22T11:04:15.273780"
+  },
+  {
+    "event_id": 464,
+    "user_id": "U012",
+    "action": "logout",
+    "server_cpu": 49.37,
+    "server_memory": 48.03,
+    "timestamp": "2026-08-22T11:04:15.273783"
+  },
+  {
+    "event_id": 465,
+    "user_id": "U012",
+    "action": "checkout",
+    "server_cpu": 20.36,
+    "server_memory": 44.41,
+    "timestamp": "2026-08-22T11:04:15.273785"
+  },
+  {
+    "event_id": 466,
+    "user_id": "U003",
+    "action": "logout",
+    "server_cpu": 69.46,
+    "server_memory": 88.87,
+    "timestamp": "2026-08-22T11:04:15.273788"
+  },
+  {
+    "event_id": 467,
+    "user_id": "U010",
+    "action": "checkout",
+    "server_cpu": 21.25,
+    "server_memory": 62.35,
+    "timestamp": "2026-08-22T11:04:15.273790"
+  },
+  {
+    "event_id": 468,
+    "user_id": "U003",
+    "action": "checkout",
+    "server_cpu": 61.15,
+    "server_memory": 81.08,
+    "timestamp": "2026-08-22T11:04:15.273792"
+  },
+  {
+    "event_id": 469,
+    "user_id": "U001",
+    "action": "logout",
+    "server_cpu": 22.32,
+    "server_memory": 86.3,
+    "timestamp": "2026-08-22T11:04:15.273795"
+  },
+  {
+    "event_id": 470,
+    "user_id": "U002",
+    "action": "search",
+    "server_cpu": 69.53,
+    "server_memory": 33.88,
+    "timestamp": "2026-08-22T11:04:15.273797"
+  },
+  {
+    "event_id": 471,
+    "user_id": "U017",
+    "action": "add_to_cart",
+    "server_cpu": 59.75,
+    "server_memory": 40.17,
+    "timestamp": "2026-08-22T11:04:15.273801"
+  },
+  {
+    "event_id": 472,
+    "user_id": "U019",
+    "action": "login",
+    "server_cpu": 62.37,
+    "server_memory": 80.2,
+    "timestamp": "2026-08-22T11:04:15.273803"
+  },
+  {
+    "event_id": 473,
+    "user_id": "U006",
+    "action": "page_view",
+    "server_cpu": 53.0,
+    "server_memory": 76.27,
+    "timestamp": "2026-08-22T11:04:15.273806"
+  },
+  {
+    "event_id": 474,
+    "user_id": "U008",
+    "action": "page_view",
+    "server_cpu": 94.82,
+    "server_memory": 43.67,
+    "timestamp": "2026-08-22T11:04:15.273809"
+  },
+  {
+    "event_id": 475,
+    "user_id": "U004",
+    "action": "page_view",
+    "server_cpu": 90.1,
+    "server_memory": 52.27,
+    "timestamp": "2026-08-22T11:04:15.273811"
+  },
+  {
+    "event_id": 476,
+    "user_id": "U013",
+    "action": "checkout",
+    "server_cpu": 58.73,
+    "server_memory": 73.61,
+    "timestamp": "2026-08-22T11:04:15.273813"
+  },
+  {
+    "event_id": 477,
+    "user_id": "U019",
+    "action": "page_view",
+    "server_cpu": 31.64,
+    "server_memory": 81.87,
+    "timestamp": "2026-08-22T11:04:15.273816"
+  },
+  {
+    "event_id": 478,
+    "user_id": "U013",
+    "action": "add_to_cart",
+    "server_cpu": 87.01,
+    "server_memory": 68.68,
+    "timestamp": "2026-08-22T11:04:15.273820"
+  },
+  {
+    "event_id": 479,
+    "user_id": "U004",
+    "action": "logout",
+    "server_cpu": 41.95,
+    "server_memory": 51.94,
+    "timestamp": "2026-08-22T11:04:15.273822"
+  },
+  {
+    "event_id": 480,
+    "user_id": "U010",
+    "action": "search",
+    "server_cpu": 51.65,
+    "server_memory": 38.27,
+    "timestamp": "2026-08-22T11:04:15.273825"
+  },
+  {
+    "event_id": 481,
+    "user_id": "U006",
+    "action": "add_to_cart",
+    "server_cpu": 20.91,
+    "server_memory": 72.67,
+    "timestamp": "2026-08-22T11:04:15.273827"
+  },
+  {
+    "event_id": 482,
+    "user_id": "U013",
+    "action": "login",
+    "server_cpu": 53.8,
+    "server_memory": 75.71,
+    "timestamp": "2026-08-22T11:04:15.273831"
+  },
+  {
+    "event_id": 483,
+    "user_id": "U018",
+    "action": "logout",
+    "server_cpu": 48.85,
+    "server_memory": 48.61,
+    "timestamp": "2026-08-22T11:04:15.273834"
+  },
+  {
+    "event_id": 484,
+    "user_id": "U002",
+    "action": "login",
+    "server_cpu": 29.1,
+    "server_memory": 81.55,
+    "timestamp": "2026-08-22T11:04:15.273836"
+  },
+  {
+    "event_id": 485,
+    "user_id": "U012",
+    "action": "logout",
+    "server_cpu": 81.76,
+    "server_memory": 31.91,
+    "timestamp": "2026-08-22T11:04:15.273839"
+  },
+  {
+    "event_id": 486,
+    "user_id": "U014",
+    "action": "search",
+    "server_cpu": 71.32,
+    "server_memory": 89.28,
+    "timestamp": "2026-08-22T11:04:15.273841"
+  },
+  {
+    "event_id": 487,
+    "user_id": "U016",
+    "action": "checkout",
+    "server_cpu": 62.07,
+    "server_memory": 57.09,
+    "timestamp": "2026-08-22T11:04:15.273844"
+  },
+  {
+    "event_id": 488,
+    "user_id": "U015",
+    "action": "search",
+    "server_cpu": 79.68,
+    "server_memory": 82.71,
+    "timestamp": "2026-08-22T11:04:15.273846"
+  },
+  {
+    "event_id": 489,
+    "user_id": "U011",
+    "action": "login",
+    "server_cpu": 83.06,
+    "server_memory": 44.6,
+    "timestamp": "2026-08-22T11:04:15.273849"
+  },
+  {
+    "event_id": 490,
+    "user_id": "U020",
+    "action": "page_view",
+    "server_cpu": 28.22,
+    "server_memory": 73.67,
+    "timestamp": "2026-08-22T11:04:15.273851"
+  },
+  {
+    "event_id": 491,
+    "user_id": "U009",
+    "action": "add_to_cart",
+    "server_cpu": 30.84,
+    "server_memory": 44.01,
+    "timestamp": "2026-08-22T11:04:15.273854"
+  },
+  {
+    "event_id": 492,
+    "user_id": "U008",
+    "action": "login",
+    "server_cpu": 79.52,
+    "server_memory": 31.99,
+    "timestamp": "2026-08-22T11:04:15.273856"
+  },
+  {
+    "event_id": 493,
+    "user_id": "U005",
+    "action": "checkout",
+    "server_cpu": 82.05,
+    "server_memory": 30.53,
+    "timestamp": "2026-08-22T11:04:15.273858"
+  },
+  {
+    "event_id": 494,
+    "user_id": "U002",
+    "action": "logout",
+    "server_cpu": 62.51,
+    "server_memory": 75.42,
+    "timestamp": "2026-08-22T11:04:15.273861"
+  },
+  {
+    "event_id": 495,
+    "user_id": "U010",
+    "action": "page_view",
+    "server_cpu": 45.12,
+    "server_memory": 42.02,
+    "timestamp": "2026-08-22T11:04:15.273863"
+  },
+  {
+    "event_id": 496,
+    "user_id": "U019",
+    "action": "logout",
+    "server_cpu": 78.65,
+    "server_memory": 59.18,
+    "timestamp": "2026-08-22T11:04:15.273865"
+  },
+  {
+    "event_id": 497,
+    "user_id": "U017",
+    "action": "login",
+    "server_cpu": 86.26,
+    "server_memory": 64.6,
+    "timestamp": "2026-08-22T11:04:15.273869"
+  },
+  {
+    "event_id": 498,
+    "user_id": "U001",
+    "action": "logout",
+    "server_cpu": 55.51,
+    "server_memory": 55.68,
+    "timestamp": "2026-08-22T11:04:15.273871"
+  },
+  {
+    "event_id": 499,
+    "user_id": "U010",
+    "action": "login",
+    "server_cpu": 82.81,
+    "server_memory": 32.11,
+    "timestamp": "2026-08-22T11:04:15.273874"
+  },
+  {
+    "event_id": 500,
+    "user_id": "U018",
+    "action": "login",
+    "server_cpu": 45.21,
+    "server_memory": 82.08,
+    "timestamp": "2026-08-22T11:04:15.273876"
+  },
+  {
+    "event_id": 501,
+    "user_id": "U011",
+    "action": "checkout",
+    "server_cpu": 32.49,
+    "server_memory": 73.47,
+    "timestamp": "2026-08-22T11:04:15.273879"
+  },
+  {
+    "event_id": 502,
+    "user_id": "U014",
+    "action": "checkout",
+    "server_cpu": 78.72,
+    "server_memory": 50.63,
+    "timestamp": "2026-08-22T11:04:15.273883"
+  },
+  {
+    "event_id": 503,
+    "user_id": "U015",
+    "action": "login",
+    "server_cpu": 31.71,
+    "server_memory": 61.63,
+    "timestamp": "2026-08-22T11:04:15.273885"
+  },
+  {
+    "event_id": 504,
+    "user_id": "U011",
+    "action": "checkout",
+    "server_cpu": 23.69,
+    "server_memory": 78.47,
+    "timestamp": "2026-08-22T11:04:15.273888"
+  },
+  {
+    "event_id": 505,
+    "user_id": "U006",
+    "action": "logout",
+    "server_cpu": 29.2,
+    "server_memory": 71.77,
+    "timestamp": "2026-08-22T11:04:15.273890"
+  },
+  {
+    "event_id": 506,
+    "user_id": "U017",
+    "action": "page_view",
+    "server_cpu": 44.21,
+    "server_memory": 53.57,
+    "timestamp": "2026-08-22T11:04:15.273892"
+  },
+  {
+    "event_id": 507,
+    "user_id": "U018",
+    "action": "checkout",
+    "server_cpu": 76.29,
+    "server_memory": 83.77,
+    "timestamp": "2026-08-22T11:04:15.273895"
+  },
+  {
+    "event_id": 508,
+    "user_id": "U013",
+    "action": "logout",
+    "server_cpu": 70.86,
+    "server_memory": 41.02,
+    "timestamp": "2026-08-22T11:04:15.273897"
+  },
+  {
+    "event_id": 509,
+    "user_id": "U004",
+    "action": "checkout",
+    "server_cpu": 59.78,
+    "server_memory": 86.26,
+    "timestamp": "2026-08-22T11:04:15.273900"
+  },
+  {
+    "event_id": 510,
+    "user_id": "U020",
+    "action": "logout",
+    "server_cpu": 80.83,
+    "server_memory": 45.64,
+    "timestamp": "2026-08-22T11:04:15.273902"
+  },
+  {
+    "event_id": 511,
+    "user_id": "U004",
+    "action": "page_view",
+    "server_cpu": 80.69,
+    "server_memory": 72.94,
+    "timestamp": "2026-08-22T11:04:15.273905"
+  },
+  {
+    "event_id": 512,
+    "user_id": "U019",
+    "action": "logout",
+    "server_cpu": 51.33,
+    "server_memory": 45.95,
+    "timestamp": "2026-08-22T11:04:15.273907"
+  },
+  {
+    "event_id": 513,
+    "user_id": "U002",
+    "action": "search",
+    "server_cpu": 56.39,
+    "server_memory": 39.56,
+    "timestamp": "2026-08-22T11:04:15.273909"
+  },
+  {
+    "event_id": 514,
+    "user_id": "U009",
+    "action": "logout",
+    "server_cpu": 65.56,
+    "server_memory": 88.32,
+    "timestamp": "2026-08-22T11:04:15.273912"
+  },
+  {
+    "event_id": 515,
+    "user_id": "U011",
+    "action": "checkout",
+    "server_cpu": 53.4,
+    "server_memory": 31.48,
+    "timestamp": "2026-08-22T11:04:15.273914"
+  },
+  {
+    "event_id": 516,
+    "user_id": "U005",
+    "action": "page_view",
+    "server_cpu": 53.57,
+    "server_memory": 70.1,
+    "timestamp": "2026-08-22T11:04:15.273917"
+  },
+  {
+    "event_id": 517,
+    "user_id": "U016",
+    "action": "add_to_cart",
+    "server_cpu": 23.29,
+    "server_memory": 81.2,
+    "timestamp": "2026-08-22T11:04:15.273920"
+  },
+  {
+    "event_id": 518,
+    "user_id": "U020",
+    "action": "logout",
+    "server_cpu": 65.27,
+    "server_memory": 74.33,
+    "timestamp": "2026-08-22T11:04:15.273923"
+  },
+  {
+    "event_id": 519,
+    "user_id": "U018",
+    "action": "logout",
+    "server_cpu": 31.25,
+    "server_memory": 33.54,
+    "timestamp": "2026-08-22T11:04:15.273925"
+  },
+  {
+    "event_id": 520,
+    "user_id": "U008",
+    "action": "logout",
+    "server_cpu": 92.99,
+    "server_memory": 81.36,
+    "timestamp": "2026-08-22T11:04:15.273928"
+  },
+  {
+    "event_id": 521,
+    "user_id": "U019",
+    "action": "add_to_cart",
+    "server_cpu": 77.48,
+    "server_memory": 46.29,
+    "timestamp": "2026-08-22T11:04:15.273930"
+  },
+  {
+    "event_id": 522,
+    "user_id": "U015",
+    "action": "login",
+    "server_cpu": 52.47,
+    "server_memory": 71.34,
+    "timestamp": "2026-08-22T11:04:15.273950"
+  },
+  {
+    "event_id": 523,
+    "user_id": "U009",
+    "action": "search",
+    "server_cpu": 84.7,
+    "server_memory": 82.93,
+    "timestamp": "2026-08-22T11:04:15.273953"
+  },
+  {
+    "event_id": 524,
+    "user_id": "U002",
+    "action": "login",
+    "server_cpu": 51.96,
+    "server_memory": 49.97,
+    "timestamp": "2026-08-22T11:04:15.273955"
+  },
+  {
+    "event_id": 525,
+    "user_id": "U006",
+    "action": "add_to_cart",
+    "server_cpu": 32.47,
+    "server_memory": 84.35,
+    "timestamp": "2026-08-22T11:04:15.273957"
+  },
+  {
+    "event_id": 526,
+    "user_id": "U005",
+    "action": "login",
+    "server_cpu": 70.75,
+    "server_memory": 40.39,
+    "timestamp": "2026-08-22T11:04:15.273960"
+  },
+  {
+    "event_id": 527,
+    "user_id": "U020",
+    "action": "logout",
+    "server_cpu": 66.33,
+    "server_memory": 75.28,
+    "timestamp": "2026-08-22T11:04:15.273962"
+  },
+  {
+    "event_id": 528,
+    "user_id": "U001",
+    "action": "checkout",
+    "server_cpu": 53.44,
+    "server_memory": 56.0,
+    "timestamp": "2026-08-22T11:04:15.273964"
+  },
+  {
+    "event_id": 529,
+    "user_id": "U005",
+    "action": "login",
+    "server_cpu": 20.26,
+    "server_memory": 66.87,
+    "timestamp": "2026-08-22T11:04:15.273967"
+  },
+  {
+    "event_id": 530,
+    "user_id": "U003",
+    "action": "logout",
+    "server_cpu": 29.12,
+    "server_memory": 71.21,
+    "timestamp": "2026-08-22T11:04:15.273969"
+  },
+  {
+    "event_id": 531,
+    "user_id": "U013",
+    "action": "add_to_cart",
+    "server_cpu": 91.73,
+    "server_memory": 36.18,
+    "timestamp": "2026-08-22T11:04:15.273972"
+  },
+  {
+    "event_id": 532,
+    "user_id": "U007",
+    "action": "search",
+    "server_cpu": 46.61,
+    "server_memory": 86.17,
+    "timestamp": "2026-08-22T11:04:15.273974"
+  },
+  {
+    "event_id": 533,
+    "user_id": "U007",
+    "action": "checkout",
+    "server_cpu": 88.8,
+    "server_memory": 30.14,
+    "timestamp": "2026-08-22T11:04:15.273977"
+  },
+  {
+    "event_id": 534,
+    "user_id": "U020",
+    "action": "add_to_cart",
+    "server_cpu": 63.44,
+    "server_memory": 85.33,
+    "timestamp": "2026-08-22T11:04:15.273979"
+  },
+  {
+    "event_id": 535,
+    "user_id": "U013",
+    "action": "add_to_cart",
+    "server_cpu": 72.01,
+    "server_memory": 71.59,
+    "timestamp": "2026-08-22T11:04:15.273981"
+  },
+  {
+    "event_id": 536,
+    "user_id": "U013",
+    "action": "page_view",
+    "server_cpu": 35.31,
+    "server_memory": 63.29,
+    "timestamp": "2026-08-22T11:04:15.273985"
+  },
+  {
+    "event_id": 537,
+    "user_id": "U001",
+    "action": "login",
+    "server_cpu": 83.82,
+    "server_memory": 31.87,
+    "timestamp": "2026-08-22T11:04:15.273988"
+  },
+  {
+    "event_id": 538,
+    "user_id": "U006",
+    "action": "login",
+    "server_cpu": 62.41,
+    "server_memory": 63.93,
+    "timestamp": "2026-08-22T11:04:15.273990"
+  },
+  {
+    "event_id": 539,
+    "user_id": "U004",
+    "action": "logout",
+    "server_cpu": 73.72,
+    "server_memory": 75.57,
+    "timestamp": "2026-08-22T11:04:15.273992"
+  },
+  {
+    "event_id": 540,
+    "user_id": "U007",
+    "action": "checkout",
+    "server_cpu": 85.3,
+    "server_memory": 68.86,
+    "timestamp": "2026-08-22T11:04:15.273995"
+  },
+  {
+    "event_id": 541,
+    "user_id": "U008",
+    "action": "checkout",
+    "server_cpu": 49.47,
+    "server_memory": 54.84,
+    "timestamp": "2026-08-22T11:04:15.273997"
+  },
+  {
+    "event_id": 542,
+    "user_id": "U010",
+    "action": "checkout",
+    "server_cpu": 21.35,
+    "server_memory": 30.47,
+    "timestamp": "2026-08-22T11:04:15.273999"
+  },
+  {
+    "event_id": 543,
+    "user_id": "U013",
+    "action": "logout",
+    "server_cpu": 81.25,
+    "server_memory": 53.07,
+    "timestamp": "2026-08-22T11:04:15.274002"
+  },
+  {
+    "event_id": 544,
+    "user_id": "U013",
+    "action": "checkout",
+    "server_cpu": 21.73,
+    "server_memory": 77.37,
+    "timestamp": "2026-08-22T11:04:15.274005"
+  },
+  {
+    "event_id": 545,
+    "user_id": "U014",
+    "action": "logout",
+    "server_cpu": 32.86,
+    "server_memory": 54.65,
+    "timestamp": "2026-08-22T11:04:15.274008"
+  },
+  {
+    "event_id": 546,
+    "user_id": "U007",
+    "action": "logout",
+    "server_cpu": 40.57,
+    "server_memory": 68.24,
+    "timestamp": "2026-08-22T11:04:15.274012"
+  },
+  {
+    "event_id": 547,
+    "user_id": "U006",
+    "action": "search",
+    "server_cpu": 47.29,
+    "server_memory": 38.75,
+    "timestamp": "2026-08-22T11:04:15.274014"
+  },
+  {
+    "event_id": 548,
+    "user_id": "U017",
+    "action": "page_view",
+    "server_cpu": 94.08,
+    "server_memory": 75.59,
+    "timestamp": "2026-08-22T11:04:15.274017"
+  },
+  {
+    "event_id": 549,
+    "user_id": "U008",
+    "action": "add_to_cart",
+    "server_cpu": 49.32,
+    "server_memory": 61.25,
+    "timestamp": "2026-08-22T11:04:15.274020"
+  },
+  {
+    "event_id": 550,
+    "user_id": "U001",
+    "action": "page_view",
+    "server_cpu": 52.97,
+    "server_memory": 32.01,
+    "timestamp": "2026-08-22T11:04:15.274022"
+  },
+  {
+    "event_id": 551,
+    "user_id": "U005",
+    "action": "logout",
+    "server_cpu": 47.79,
+    "server_memory": 65.98,
+    "timestamp": "2026-08-22T11:04:15.274025"
+  },
+  {
+    "event_id": 552,
+    "user_id": "U008",
+    "action": "logout",
+    "server_cpu": 55.67,
+    "server_memory": 59.27,
+    "timestamp": "2026-08-22T11:04:15.274027"
+  },
+  {
+    "event_id": 553,
+    "user_id": "U017",
+    "action": "logout",
+    "server_cpu": 27.05,
+    "server_memory": 43.19,
+    "timestamp": "2026-08-22T11:04:15.274029"
+  },
+  {
+    "event_id": 554,
+    "user_id": "U014",
+    "action": "add_to_cart",
+    "server_cpu": 51.34,
+    "server_memory": 76.95,
+    "timestamp": "2026-08-22T11:04:15.274032"
+  },
+  {
+    "event_id": 555,
+    "user_id": "U003",
+    "action": "page_view",
+    "server_cpu": 52.24,
+    "server_memory": 42.71,
+    "timestamp": "2026-08-22T11:04:15.274034"
+  },
+  {
+    "event_id": 556,
+    "user_id": "U001",
+    "action": "login",
+    "server_cpu": 53.27,
+    "server_memory": 79.5,
+    "timestamp": "2026-08-22T11:04:15.274038"
+  },
+  {
+    "event_id": 557,
+    "user_id": "U005",
+    "action": "page_view",
+    "server_cpu": 34.66,
+    "server_memory": 68.25,
+    "timestamp": "2026-08-22T11:04:15.274041"
+  },
+  {
+    "event_id": 558,
+    "user_id": "U011",
+    "action": "checkout",
+    "server_cpu": 44.64,
+    "server_memory": 66.73,
+    "timestamp": "2026-08-22T11:04:15.274043"
+  },
+  {
+    "event_id": 559,
+    "user_id": "U011",
+    "action": "page_view",
+    "server_cpu": 54.33,
+    "server_memory": 37.51,
+    "timestamp": "2026-08-22T11:04:15.274046"
+  },
+  {
+    "event_id": 560,
+    "user_id": "U008",
+    "action": "checkout",
+    "server_cpu": 82.21,
+    "server_memory": 79.49,
+    "timestamp": "2026-08-22T11:04:15.274048"
+  },
+  {
+    "event_id": 561,
+    "user_id": "U005",
+    "action": "page_view",
+    "server_cpu": 71.82,
+    "server_memory": 53.24,
+    "timestamp": "2026-08-22T11:04:15.274050"
+  },
+  {
+    "event_id": 562,
+    "user_id": "U020",
+    "action": "page_view",
+    "server_cpu": 84.52,
+    "server_memory": 64.87,
+    "timestamp": "2026-08-22T11:04:15.274053"
+  },
+  {
+    "event_id": 563,
+    "user_id": "U008",
+    "action": "search",
+    "server_cpu": 30.65,
+    "server_memory": 65.86,
+    "timestamp": "2026-08-22T11:04:15.274055"
+  },
+  {
+    "event_id": 564,
+    "user_id": "U004",
+    "action": "checkout",
+    "server_cpu": 36.28,
+    "server_memory": 62.12,
+    "timestamp": "2026-08-22T11:04:15.274058"
+  },
+  {
+    "event_id": 565,
+    "user_id": "U014",
+    "action": "page_view",
+    "server_cpu": 23.22,
+    "server_memory": 30.97,
+    "timestamp": "2026-08-22T11:04:15.274060"
+  },
+  {
+    "event_id": 566,
+    "user_id": "U006",
+    "action": "checkout",
+    "server_cpu": 50.12,
+    "server_memory": 65.41,
+    "timestamp": "2026-08-22T11:04:15.274062"
+  },
+  {
+    "event_id": 567,
+    "user_id": "U009",
+    "action": "checkout",
+    "server_cpu": 29.56,
+    "server_memory": 75.55,
+    "timestamp": "2026-08-22T11:04:15.274065"
+  },
+  {
+    "event_id": 568,
+    "user_id": "U014",
+    "action": "add_to_cart",
+    "server_cpu": 92.93,
+    "server_memory": 81.01,
+    "timestamp": "2026-08-22T11:04:15.274067"
+  },
+  {
+    "event_id": 569,
+    "user_id": "U004",
+    "action": "search",
+    "server_cpu": 25.85,
+    "server_memory": 71.2,
+    "timestamp": "2026-08-22T11:04:15.274070"
+  },
+  {
+    "event_id": 570,
+    "user_id": "U012",
+    "action": "add_to_cart",
+    "server_cpu": 55.61,
+    "server_memory": 63.1,
+    "timestamp": "2026-08-22T11:04:15.274072"
+  },
+  {
+    "event_id": 571,
+    "user_id": "U003",
+    "action": "login",
+    "server_cpu": 38.76,
+    "server_memory": 56.32,
+    "timestamp": "2026-08-22T11:04:15.274074"
+  },
+  {
+    "event_id": 572,
+    "user_id": "U001",
+    "action": "login",
+    "server_cpu": 29.38,
+    "server_memory": 52.07,
+    "timestamp": "2026-08-22T11:04:15.274077"
+  },
+  {
+    "event_id": 573,
+    "user_id": "U005",
+    "action": "add_to_cart",
+    "server_cpu": 52.89,
+    "server_memory": 80.41,
+    "timestamp": "2026-08-22T11:04:15.274080"
+  },
+  {
+    "event_id": 574,
+    "user_id": "U011",
+    "action": "add_to_cart",
+    "server_cpu": 34.28,
+    "server_memory": 84.7,
+    "timestamp": "2026-08-22T11:04:15.274083"
+  },
+  {
+    "event_id": 575,
+    "user_id": "U007",
+    "action": "checkout",
+    "server_cpu": 71.71,
+    "server_memory": 74.53,
+    "timestamp": "2026-08-22T11:04:15.274086"
+  },
+  {
+    "event_id": 576,
+    "user_id": "U009",
+    "action": "add_to_cart",
+    "server_cpu": 34.17,
+    "server_memory": 70.48,
+    "timestamp": "2026-08-22T11:04:15.274088"
+  },
+  {
+    "event_id": 577,
+    "user_id": "U018",
+    "action": "search",
+    "server_cpu": 20.44,
+    "server_memory": 60.88,
+    "timestamp": "2026-08-22T11:04:15.274091"
+  },
+  {
+    "event_id": 578,
+    "user_id": "U003",
+    "action": "checkout",
+    "server_cpu": 87.68,
+    "server_memory": 37.38,
+    "timestamp": "2026-08-22T11:04:15.274093"
+  },
+  {
+    "event_id": 579,
+    "user_id": "U009",
+    "action": "checkout",
+    "server_cpu": 84.32,
+    "server_memory": 85.78,
+    "timestamp": "2026-08-22T11:04:15.274096"
+  },
+  {
+    "event_id": 580,
+    "user_id": "U005",
+    "action": "logout",
+    "server_cpu": 91.24,
+    "server_memory": 58.0,
+    "timestamp": "2026-08-22T11:04:15.274099"
+  },
+  {
+    "event_id": 581,
+    "user_id": "U016",
+    "action": "login",
+    "server_cpu": 35.54,
+    "server_memory": 68.01,
+    "timestamp": "2026-08-22T11:04:15.274101"
+  },
+  {
+    "event_id": 582,
+    "user_id": "U003",
+    "action": "page_view",
+    "server_cpu": 88.18,
+    "server_memory": 42.5,
+    "timestamp": "2026-08-22T11:04:15.274103"
+  },
+  {
+    "event_id": 583,
+    "user_id": "U020",
+    "action": "checkout",
+    "server_cpu": 85.39,
+    "server_memory": 45.5,
+    "timestamp": "2026-08-22T11:04:15.274106"
+  },
+  {
+    "event_id": 584,
+    "user_id": "U012",
+    "action": "search",
+    "server_cpu": 90.34,
+    "server_memory": 79.26,
+    "timestamp": "2026-08-22T11:04:15.274108"
+  },
+  {
+    "event_id": 585,
+    "user_id": "U010",
+    "action": "checkout",
+    "server_cpu": 20.46,
+    "server_memory": 58.95,
+    "timestamp": "2026-08-22T11:04:15.274110"
+  },
+  {
+    "event_id": 586,
+    "user_id": "U001",
+    "action": "checkout",
+    "server_cpu": 66.34,
+    "server_memory": 76.99,
+    "timestamp": "2026-08-22T11:04:15.274113"
+  },
+  {
+    "event_id": 587,
+    "user_id": "U003",
+    "action": "login",
+    "server_cpu": 24.59,
+    "server_memory": 51.56,
+    "timestamp": "2026-08-22T11:04:15.274117"
+  },
+  {
+    "event_id": 588,
+    "user_id": "U001",
+    "action": "logout",
+    "server_cpu": 47.86,
+    "server_memory": 65.37,
+    "timestamp": "2026-08-22T11:04:15.274119"
+  },
+  {
+    "event_id": 589,
+    "user_id": "U013",
+    "action": "logout",
+    "server_cpu": 32.56,
+    "server_memory": 84.16,
+    "timestamp": "2026-08-22T11:04:15.274122"
+  },
+  {
+    "event_id": 590,
+    "user_id": "U002",
+    "action": "logout",
+    "server_cpu": 79.82,
+    "server_memory": 81.9,
+    "timestamp": "2026-08-22T11:04:15.274124"
+  },
+  {
+    "event_id": 591,
+    "user_id": "U013",
+    "action": "login",
+    "server_cpu": 73.02,
+    "server_memory": 49.94,
+    "timestamp": "2026-08-22T11:04:15.274126"
+  },
+  {
+    "event_id": 592,
+    "user_id": "U012",
+    "action": "page_view",
+    "server_cpu": 66.24,
+    "server_memory": 56.95,
+    "timestamp": "2026-08-22T11:04:15.274129"
+  },
+  {
+    "event_id": 593,
+    "user_id": "U008",
+    "action": "add_to_cart",
+    "server_cpu": 39.38,
+    "server_memory": 84.41,
+    "timestamp": "2026-08-22T11:04:15.274131"
+  },
+  {
+    "event_id": 594,
+    "user_id": "U015",
+    "action": "add_to_cart",
+    "server_cpu": 83.04,
+    "server_memory": 52.91,
+    "timestamp": "2026-08-22T11:04:15.274135"
+  },
+  {
+    "event_id": 595,
+    "user_id": "U005",
+    "action": "login",
+    "server_cpu": 74.42,
+    "server_memory": 52.13,
+    "timestamp": "2026-08-22T11:04:15.274139"
+  },
+  {
+    "event_id": 596,
+    "user_id": "U017",
+    "action": "checkout",
+    "server_cpu": 77.92,
+    "server_memory": 48.82,
+    "timestamp": "2026-08-22T11:04:15.274142"
+  },
+  {
+    "event_id": 597,
+    "user_id": "U015",
+    "action": "add_to_cart",
+    "server_cpu": 48.39,
+    "server_memory": 32.52,
+    "timestamp": "2026-08-22T11:04:15.274144"
+  },
+  {
+    "event_id": 598,
+    "user_id": "U017",
+    "action": "page_view",
+    "server_cpu": 77.59,
+    "server_memory": 57.41,
+    "timestamp": "2026-08-22T11:04:15.274146"
+  },
+  {
+    "event_id": 599,
+    "user_id": "U004",
+    "action": "add_to_cart",
+    "server_cpu": 92.36,
+    "server_memory": 33.66,
+    "timestamp": "2026-08-22T11:04:15.274149"
+  },
+  {
+    "event_id": 600,
+    "user_id": "U018",
+    "action": "checkout",
+    "server_cpu": 42.8,
+    "server_memory": 52.73,
+    "timestamp": "2026-08-22T11:04:15.274151"
+  },
+  {
+    "event_id": 601,
+    "user_id": "U003",
+    "action": "login",
+    "server_cpu": 48.69,
+    "server_memory": 45.29,
+    "timestamp": "2026-08-22T11:04:15.274154"
+  },
+  {
+    "event_id": 602,
+    "user_id": "U014",
+    "action": "login",
+    "server_cpu": 24.91,
+    "server_memory": 76.81,
+    "timestamp": "2026-08-22T11:04:15.274156"
+  },
+  {
+    "event_id": 603,
+    "user_id": "U016",
+    "action": "page_view",
+    "server_cpu": 43.56,
+    "server_memory": 51.63,
+    "timestamp": "2026-08-22T11:04:15.274158"
+  },
+  {
+    "event_id": 604,
+    "user_id": "U009",
+    "action": "page_view",
+    "server_cpu": 81.13,
+    "server_memory": 43.23,
+    "timestamp": "2026-08-22T11:04:15.274161"
+  },
+  {
+    "event_id": 605,
+    "user_id": "U015",
+    "action": "checkout",
+    "server_cpu": 81.6,
+    "server_memory": 73.2,
+    "timestamp": "2026-08-22T11:04:15.274163"
+  },
+  {
+    "event_id": 606,
+    "user_id": "U004",
+    "action": "login",
+    "server_cpu": 62.74,
+    "server_memory": 85.88,
+    "timestamp": "2026-08-22T11:04:15.274166"
+  },
+  {
+    "event_id": 607,
+    "user_id": "U003",
+    "action": "add_to_cart",
+    "server_cpu": 77.36,
+    "server_memory": 49.31,
+    "timestamp": "2026-08-22T11:04:15.274168"
+  },
+  {
+    "event_id": 608,
+    "user_id": "U017",
+    "action": "logout",
+    "server_cpu": 71.91,
+    "server_memory": 67.13,
+    "timestamp": "2026-08-22T11:04:15.274170"
+  },
+  {
+    "event_id": 609,
+    "user_id": "U012",
+    "action": "logout",
+    "server_cpu": 53.18,
+    "server_memory": 51.53,
+    "timestamp": "2026-08-22T11:04:15.274173"
+  },
+  {
+    "event_id": 610,
+    "user_id": "U001",
+    "action": "search",
+    "server_cpu": 22.43,
+    "server_memory": 71.59,
+    "timestamp": "2026-08-22T11:04:15.274176"
+  },
+  {
+    "event_id": 611,
+    "user_id": "U011",
+    "action": "page_view",
+    "server_cpu": 46.77,
+    "server_memory": 81.32,
+    "timestamp": "2026-08-22T11:04:15.274179"
+  },
+  {
+    "event_id": 612,
+    "user_id": "U008",
+    "action": "checkout",
+    "server_cpu": 21.18,
+    "server_memory": 77.06,
+    "timestamp": "2026-08-22T11:04:15.274181"
+  },
+  {
+    "event_id": 613,
+    "user_id": "U016",
+    "action": "checkout",
+    "server_cpu": 62.79,
+    "server_memory": 32.47,
+    "timestamp": "2026-08-22T11:04:15.274184"
+  },
+  {
+    "event_id": 614,
+    "user_id": "U007",
+    "action": "login",
+    "server_cpu": 50.6,
+    "server_memory": 53.73,
+    "timestamp": "2026-08-22T11:04:15.274187"
+  },
+  {
+    "event_id": 615,
+    "user_id": "U002",
+    "action": "search",
+    "server_cpu": 77.56,
+    "server_memory": 52.02,
+    "timestamp": "2026-08-22T11:04:15.274190"
+  },
+  {
+    "event_id": 616,
+    "user_id": "U005",
+    "action": "logout",
+    "server_cpu": 37.88,
+    "server_memory": 82.15,
+    "timestamp": "2026-08-22T11:04:15.274192"
+  },
+  {
+    "event_id": 617,
+    "user_id": "U003",
+    "action": "logout",
+    "server_cpu": 24.85,
+    "server_memory": 71.45,
+    "timestamp": "2026-08-22T11:04:15.274194"
+  },
+  {
+    "event_id": 618,
+    "user_id": "U004",
+    "action": "login",
+    "server_cpu": 55.53,
+    "server_memory": 78.08,
+    "timestamp": "2026-08-22T11:04:15.274197"
+  },
+  {
+    "event_id": 619,
+    "user_id": "U014",
+    "action": "page_view",
+    "server_cpu": 83.41,
+    "server_memory": 57.68,
+    "timestamp": "2026-08-22T11:04:15.274199"
+  },
+  {
+    "event_id": 620,
+    "user_id": "U003",
+    "action": "logout",
+    "server_cpu": 35.21,
+    "server_memory": 68.52,
+    "timestamp": "2026-08-22T11:04:15.274201"
+  },
+  {
+    "event_id": 621,
+    "user_id": "U016",
+    "action": "add_to_cart",
+    "server_cpu": 69.51,
+    "server_memory": 31.43,
+    "timestamp": "2026-08-22T11:04:15.274204"
+  },
+  {
+    "event_id": 622,
+    "user_id": "U011",
+    "action": "add_to_cart",
+    "server_cpu": 89.27,
+    "server_memory": 34.11,
+    "timestamp": "2026-08-22T11:04:15.274206"
+  },
+  {
+    "event_id": 623,
+    "user_id": "U018",
+    "action": "search",
+    "server_cpu": 29.43,
+    "server_memory": 58.77,
+    "timestamp": "2026-08-22T11:04:15.274209"
+  },
+  {
+    "event_id": 624,
+    "user_id": "U006",
+    "action": "page_view",
+    "server_cpu": 57.2,
+    "server_memory": 39.12,
+    "timestamp": "2026-08-22T11:04:15.274211"
+  },
+  {
+    "event_id": 625,
+    "user_id": "U010",
+    "action": "checkout",
+    "server_cpu": 29.53,
+    "server_memory": 33.02,
+    "timestamp": "2026-08-22T11:04:15.274215"
+  },
+  {
+    "event_id": 626,
+    "user_id": "U003",
+    "action": "login",
+    "server_cpu": 61.55,
+    "server_memory": 34.52,
+    "timestamp": "2026-08-22T11:04:15.274217"
+  },
+  {
+    "event_id": 627,
+    "user_id": "U007",
+    "action": "page_view",
+    "server_cpu": 63.46,
+    "server_memory": 32.58,
+    "timestamp": "2026-08-22T11:04:15.274220"
+  },
+  {
+    "event_id": 628,
+    "user_id": "U018",
+    "action": "add_to_cart",
+    "server_cpu": 20.39,
+    "server_memory": 62.44,
+    "timestamp": "2026-08-22T11:04:15.274222"
+  },
+  {
+    "event_id": 629,
+    "user_id": "U010",
+    "action": "checkout",
+    "server_cpu": 63.92,
+    "server_memory": 51.1,
+    "timestamp": "2026-08-22T11:04:15.274225"
+  },
+  {
+    "event_id": 630,
+    "user_id": "U020",
+    "action": "login",
+    "server_cpu": 70.7,
+    "server_memory": 37.91,
+    "timestamp": "2026-08-22T11:04:15.274228"
+  },
+  {
+    "event_id": 631,
+    "user_id": "U019",
+    "action": "logout",
+    "server_cpu": 82.4,
+    "server_memory": 80.46,
+    "timestamp": "2026-08-22T11:04:15.274230"
+  },
+  {
+    "event_id": 632,
+    "user_id": "U015",
+    "action": "checkout",
+    "server_cpu": 83.68,
+    "server_memory": 63.75,
+    "timestamp": "2026-08-22T11:04:15.274232"
+  },
+  {
+    "event_id": 633,
+    "user_id": "U003",
+    "action": "search",
+    "server_cpu": 59.09,
+    "server_memory": 34.87,
+    "timestamp": "2026-08-22T11:04:15.274235"
+  },
+  {
+    "event_id": 634,
+    "user_id": "U006",
+    "action": "search",
+    "server_cpu": 80.41,
+    "server_memory": 33.72,
+    "timestamp": "2026-08-22T11:04:15.274238"
+  },
+  {
+    "event_id": 635,
+    "user_id": "U020",
+    "action": "search",
+    "server_cpu": 70.04,
+    "server_memory": 68.34,
+    "timestamp": "2026-08-22T11:04:15.274241"
+  },
+  {
+    "event_id": 636,
+    "user_id": "U017",
+    "action": "add_to_cart",
+    "server_cpu": 83.71,
+    "server_memory": 66.33,
+    "timestamp": "2026-08-22T11:04:15.274243"
+  },
+  {
+    "event_id": 637,
+    "user_id": "U008",
+    "action": "search",
+    "server_cpu": 50.13,
+    "server_memory": 35.6,
+    "timestamp": "2026-08-22T11:04:15.274246"
+  },
+  {
+    "event_id": 638,
+    "user_id": "U010",
+    "action": "checkout",
+    "server_cpu": 27.71,
+    "server_memory": 37.94,
+    "timestamp": "2026-08-22T11:04:15.274249"
+  },
+  {
+    "event_id": 639,
+    "user_id": "U020",
+    "action": "login",
+    "server_cpu": 20.11,
+    "server_memory": 78.93,
+    "timestamp": "2026-08-22T11:04:15.274251"
+  },
+  {
+    "event_id": 640,
+    "user_id": "U007",
+    "action": "page_view",
+    "server_cpu": 79.72,
+    "server_memory": 62.08,
+    "timestamp": "2026-08-22T11:04:15.274253"
+  },
+  {
+    "event_id": 641,
+    "user_id": "U011",
+    "action": "logout",
+    "server_cpu": 64.99,
+    "server_memory": 41.29,
+    "timestamp": "2026-08-22T11:04:15.274255"
+  },
+  {
+    "event_id": 642,
+    "user_id": "U014",
+    "action": "search",
+    "server_cpu": 53.79,
+    "server_memory": 69.51,
+    "timestamp": "2026-08-22T11:04:15.274258"
+  },
+  {
+    "event_id": 643,
+    "user_id": "U018",
+    "action": "logout",
+    "server_cpu": 70.0,
+    "server_memory": 77.64,
+    "timestamp": "2026-08-22T11:04:15.274260"
+  },
+  {
+    "event_id": 644,
+    "user_id": "U012",
+    "action": "page_view",
+    "server_cpu": 84.89,
+    "server_memory": 39.43,
+    "timestamp": "2026-08-22T11:04:15.274263"
+  },
+  {
+    "event_id": 645,
+    "user_id": "U009",
+    "action": "logout",
+    "server_cpu": 73.73,
+    "server_memory": 67.87,
+    "timestamp": "2026-08-22T11:04:15.274265"
+  },
+  {
+    "event_id": 646,
+    "user_id": "U013",
+    "action": "add_to_cart",
+    "server_cpu": 39.95,
+    "server_memory": 84.81,
+    "timestamp": "2026-08-22T11:04:15.274267"
+  },
+  {
+    "event_id": 647,
+    "user_id": "U008",
+    "action": "page_view",
+    "server_cpu": 28.66,
+    "server_memory": 54.04,
+    "timestamp": "2026-08-22T11:04:15.274270"
+  },
+  {
+    "event_id": 648,
+    "user_id": "U013",
+    "action": "page_view",
+    "server_cpu": 29.77,
+    "server_memory": 87.77,
+    "timestamp": "2026-08-22T11:04:15.274272"
+  },
+  {
+    "event_id": 649,
+    "user_id": "U015",
+    "action": "checkout",
+    "server_cpu": 78.84,
+    "server_memory": 76.11,
+    "timestamp": "2026-08-22T11:04:15.274275"
+  },
+  {
+    "event_id": 650,
+    "user_id": "U015",
+    "action": "add_to_cart",
+    "server_cpu": 60.84,
+    "server_memory": 40.23,
+    "timestamp": "2026-08-22T11:04:15.274277"
+  },
+  {
+    "event_id": 651,
+    "user_id": "U018",
+    "action": "logout",
+    "server_cpu": 81.43,
+    "server_memory": 36.92,
+    "timestamp": "2026-08-22T11:04:15.274280"
+  },
+  {
+    "event_id": 652,
+    "user_id": "U017",
+    "action": "logout",
+    "server_cpu": 56.96,
+    "server_memory": 63.84,
+    "timestamp": "2026-08-22T11:04:15.274282"
+  },
+  {
+    "event_id": 653,
+    "user_id": "U004",
+    "action": "login",
+    "server_cpu": 25.79,
+    "server_memory": 37.08,
+    "timestamp": "2026-08-22T11:04:15.274287"
+  },
+  {
+    "event_id": 654,
+    "user_id": "U010",
+    "action": "logout",
+    "server_cpu": 76.19,
+    "server_memory": 38.14,
+    "timestamp": "2026-08-22T11:04:15.274289"
+  },
+  {
+    "event_id": 655,
+    "user_id": "U005",
+    "action": "logout",
+    "server_cpu": 81.19,
+    "server_memory": 74.02,
+    "timestamp": "2026-08-22T11:04:15.274291"
+  },
+  {
+    "event_id": 656,
+    "user_id": "U005",
+    "action": "search",
+    "server_cpu": 33.31,
+    "server_memory": 47.55,
+    "timestamp": "2026-08-22T11:04:15.274293"
+  },
+  {
+    "event_id": 657,
+    "user_id": "U001",
+    "action": "add_to_cart",
+    "server_cpu": 68.97,
+    "server_memory": 44.47,
+    "timestamp": "2026-08-22T11:04:15.274305"
+  },
+  {
+    "event_id": 658,
+    "user_id": "U002",
+    "action": "search",
+    "server_cpu": 74.44,
+    "server_memory": 41.49,
+    "timestamp": "2026-08-22T11:04:15.274309"
+  },
+  {
+    "event_id": 659,
+    "user_id": "U007",
+    "action": "logout",
+    "server_cpu": 44.72,
+    "server_memory": 47.64,
+    "timestamp": "2026-08-22T11:04:15.274311"
+  },
+  {
+    "event_id": 660,
+    "user_id": "U015",
+    "action": "add_to_cart",
+    "server_cpu": 56.51,
+    "server_memory": 85.04,
+    "timestamp": "2026-08-22T11:04:15.274314"
+  },
+  {
+    "event_id": 661,
+    "user_id": "U013",
+    "action": "add_to_cart",
+    "server_cpu": 38.78,
+    "server_memory": 33.22,
+    "timestamp": "2026-08-22T11:04:15.274316"
+  },
+  {
+    "event_id": 662,
+    "user_id": "U014",
+    "action": "logout",
+    "server_cpu": 37.9,
+    "server_memory": 52.98,
+    "timestamp": "2026-08-22T11:04:15.274318"
+  },
+  {
+    "event_id": 663,
+    "user_id": "U009",
+    "action": "add_to_cart",
+    "server_cpu": 87.1,
+    "server_memory": 33.76,
+    "timestamp": "2026-08-22T11:04:15.274321"
+  },
+  {
+    "event_id": 664,
+    "user_id": "U013",
+    "action": "checkout",
+    "server_cpu": 65.0,
+    "server_memory": 30.61,
+    "timestamp": "2026-08-22T11:04:15.274323"
+  },
+  {
+    "event_id": 665,
+    "user_id": "U012",
+    "action": "page_view",
+    "server_cpu": 21.77,
+    "server_memory": 41.55,
+    "timestamp": "2026-08-22T11:04:15.274326"
+  },
+  {
+    "event_id": 666,
+    "user_id": "U010",
+    "action": "logout",
+    "server_cpu": 69.42,
+    "server_memory": 86.91,
+    "timestamp": "2026-08-22T11:04:15.274328"
+  },
+  {
+    "event_id": 667,
+    "user_id": "U010",
+    "action": "add_to_cart",
+    "server_cpu": 56.89,
+    "server_memory": 65.36,
+    "timestamp": "2026-08-22T11:04:15.274330"
+  },
+  {
+    "event_id": 668,
+    "user_id": "U012",
+    "action": "checkout",
+    "server_cpu": 40.71,
+    "server_memory": 56.72,
+    "timestamp": "2026-08-22T11:04:15.274333"
+  },
+  {
+    "event_id": 669,
+    "user_id": "U005",
+    "action": "login",
+    "server_cpu": 20.45,
+    "server_memory": 61.74,
+    "timestamp": "2026-08-22T11:04:15.274335"
+  },
+  {
+    "event_id": 670,
+    "user_id": "U006",
+    "action": "login",
+    "server_cpu": 94.03,
+    "server_memory": 60.02,
+    "timestamp": "2026-08-22T11:04:15.274337"
+  },
+  {
+    "event_id": 671,
+    "user_id": "U002",
+    "action": "login",
+    "server_cpu": 30.3,
+    "server_memory": 40.47,
+    "timestamp": "2026-08-22T11:04:15.274340"
+  },
+  {
+    "event_id": 672,
+    "user_id": "U005",
+    "action": "login",
+    "server_cpu": 89.35,
+    "server_memory": 81.87,
+    "timestamp": "2026-08-22T11:04:15.274343"
+  },
+  {
+    "event_id": 673,
+    "user_id": "U009",
+    "action": "search",
+    "server_cpu": 36.91,
+    "server_memory": 41.3,
+    "timestamp": "2026-08-22T11:04:15.274348"
+  },
+  {
+    "event_id": 674,
+    "user_id": "U012",
+    "action": "checkout",
+    "server_cpu": 67.95,
+    "server_memory": 48.95,
+    "timestamp": "2026-08-22T11:04:15.274352"
+  },
+  {
+    "event_id": 675,
+    "user_id": "U011",
+    "action": "search",
+    "server_cpu": 86.82,
+    "server_memory": 88.31,
+    "timestamp": "2026-08-22T11:04:15.274355"
+  },
+  {
+    "event_id": 676,
+    "user_id": "U020",
+    "action": "login",
+    "server_cpu": 72.14,
+    "server_memory": 42.94,
+    "timestamp": "2026-08-22T11:04:15.274358"
+  },
+  {
+    "event_id": 677,
+    "user_id": "U011",
+    "action": "search",
+    "server_cpu": 80.41,
+    "server_memory": 86.86,
+    "timestamp": "2026-08-22T11:04:15.274360"
+  },
+  {
+    "event_id": 678,
+    "user_id": "U006",
+    "action": "page_view",
+    "server_cpu": 73.93,
+    "server_memory": 59.56,
+    "timestamp": "2026-08-22T11:04:15.274363"
+  },
+  {
+    "event_id": 679,
+    "user_id": "U019",
+    "action": "logout",
+    "server_cpu": 91.96,
+    "server_memory": 43.27,
+    "timestamp": "2026-08-22T11:04:15.274365"
+  },
+  {
+    "event_id": 680,
+    "user_id": "U015",
+    "action": "login",
+    "server_cpu": 26.52,
+    "server_memory": 56.71,
+    "timestamp": "2026-08-22T11:04:15.274368"
+  },
+  {
+    "event_id": 681,
+    "user_id": "U006",
+    "action": "checkout",
+    "server_cpu": 41.78,
+    "server_memory": 39.95,
+    "timestamp": "2026-08-22T11:04:15.274370"
+  },
+  {
+    "event_id": 682,
+    "user_id": "U014",
+    "action": "add_to_cart",
+    "server_cpu": 58.92,
+    "server_memory": 76.85,
+    "timestamp": "2026-08-22T11:04:15.274373"
+  },
+  {
+    "event_id": 683,
+    "user_id": "U006",
+    "action": "login",
+    "server_cpu": 21.47,
+    "server_memory": 54.06,
+    "timestamp": "2026-08-22T11:04:15.274375"
+  },
+  {
+    "event_id": 684,
+    "user_id": "U005",
+    "action": "checkout",
+    "server_cpu": 76.52,
+    "server_memory": 76.88,
+    "timestamp": "2026-08-22T11:04:15.274377"
+  },
+  {
+    "event_id": 685,
+    "user_id": "U010",
+    "action": "login",
+    "server_cpu": 92.55,
+    "server_memory": 44.49,
+    "timestamp": "2026-08-22T11:04:15.274380"
+  },
+  {
+    "event_id": 686,
+    "user_id": "U002",
+    "action": "checkout",
+    "server_cpu": 42.23,
+    "server_memory": 61.41,
+    "timestamp": "2026-08-22T11:04:15.274382"
+  },
+  {
+    "event_id": 687,
+    "user_id": "U008",
+    "action": "add_to_cart",
+    "server_cpu": 93.89,
+    "server_memory": 31.69,
+    "timestamp": "2026-08-22T11:04:15.274385"
+  },
+  {
+    "event_id": 688,
+    "user_id": "U015",
+    "action": "add_to_cart",
+    "server_cpu": 93.85,
+    "server_memory": 58.93,
+    "timestamp": "2026-08-22T11:04:15.274387"
+  },
+  {
+    "event_id": 689,
+    "user_id": "U004",
+    "action": "checkout",
+    "server_cpu": 20.15,
+    "server_memory": 64.04,
+    "timestamp": "2026-08-22T11:04:15.274389"
+  },
+  {
+    "event_id": 690,
+    "user_id": "U011",
+    "action": "logout",
+    "server_cpu": 75.14,
+    "server_memory": 52.07,
+    "timestamp": "2026-08-22T11:04:15.274392"
+  },
+  {
+    "event_id": 691,
+    "user_id": "U007",
+    "action": "search",
+    "server_cpu": 92.61,
+    "server_memory": 30.76,
+    "timestamp": "2026-08-22T11:04:15.274395"
+  },
+  {
+    "event_id": 692,
+    "user_id": "U010",
+    "action": "login",
+    "server_cpu": 51.34,
+    "server_memory": 82.27,
+    "timestamp": "2026-08-22T11:04:15.274399"
+  },
+  {
+    "event_id": 693,
+    "user_id": "U020",
+    "action": "search",
+    "server_cpu": 90.73,
+    "server_memory": 85.9,
+    "timestamp": "2026-08-22T11:04:15.274401"
+  },
+  {
+    "event_id": 694,
+    "user_id": "U019",
+    "action": "add_to_cart",
+    "server_cpu": 21.03,
+    "server_memory": 87.39,
+    "timestamp": "2026-08-22T11:04:15.274403"
+  },
+  {
+    "event_id": 695,
+    "user_id": "U017",
+    "action": "search",
+    "server_cpu": 64.69,
+    "server_memory": 51.76,
+    "timestamp": "2026-08-22T11:04:15.274406"
+  },
+  {
+    "event_id": 696,
+    "user_id": "U015",
+    "action": "logout",
+    "server_cpu": 63.09,
+    "server_memory": 79.15,
+    "timestamp": "2026-08-22T11:04:15.274408"
+  },
+  {
+    "event_id": 697,
+    "user_id": "U013",
+    "action": "search",
+    "server_cpu": 74.48,
+    "server_memory": 65.45,
+    "timestamp": "2026-08-22T11:04:15.274411"
+  },
+  {
+    "event_id": 698,
+    "user_id": "U002",
+    "action": "add_to_cart",
+    "server_cpu": 80.31,
+    "server_memory": 62.55,
+    "timestamp": "2026-08-22T11:04:15.274413"
+  },
+  {
+    "event_id": 699,
+    "user_id": "U019",
+    "action": "add_to_cart",
+    "server_cpu": 62.88,
+    "server_memory": 42.0,
+    "timestamp": "2026-08-22T11:04:15.274415"
+  },
+  {
+    "event_id": 700,
+    "user_id": "U018",
+    "action": "search",
+    "server_cpu": 25.77,
+    "server_memory": 82.18,
+    "timestamp": "2026-08-22T11:04:15.274418"
+  },
+  {
+    "event_id": 701,
+    "user_id": "U002",
+    "action": "add_to_cart",
+    "server_cpu": 74.28,
+    "server_memory": 77.42,
+    "timestamp": "2026-08-22T11:04:15.274420"
+  },
+  {
+    "event_id": 702,
+    "user_id": "U004",
+    "action": "search",
+    "server_cpu": 47.75,
+    "server_memory": 74.17,
+    "timestamp": "2026-08-22T11:04:15.274422"
+  },
+  {
+    "event_id": 703,
+    "user_id": "U011",
+    "action": "checkout",
+    "server_cpu": 33.76,
+    "server_memory": 85.35,
+    "timestamp": "2026-08-22T11:04:15.274425"
+  },
+  {
+    "event_id": 704,
+    "user_id": "U017",
+    "action": "login",
+    "server_cpu": 88.52,
+    "server_memory": 31.29,
+    "timestamp": "2026-08-22T11:04:15.274427"
+  },
+  {
+    "event_id": 705,
+    "user_id": "U001",
+    "action": "login",
+    "server_cpu": 56.46,
+    "server_memory": 71.74,
+    "timestamp": "2026-08-22T11:04:15.274430"
+  },
+  {
+    "event_id": 706,
+    "user_id": "U006",
+    "action": "logout",
+    "server_cpu": 71.38,
+    "server_memory": 81.47,
+    "timestamp": "2026-08-22T11:04:15.274432"
+  },
+  {
+    "event_id": 707,
+    "user_id": "U006",
+    "action": "logout",
+    "server_cpu": 32.32,
+    "server_memory": 32.44,
+    "timestamp": "2026-08-22T11:04:15.274434"
+  },
+  {
+    "event_id": 708,
+    "user_id": "U017",
+    "action": "checkout",
+    "server_cpu": 79.54,
+    "server_memory": 35.87,
+    "timestamp": "2026-08-22T11:04:15.274437"
+  },
+  {
+    "event_id": 709,
+    "user_id": "U017",
+    "action": "checkout",
+    "server_cpu": 89.06,
+    "server_memory": 54.68,
+    "timestamp": "2026-08-22T11:04:15.274439"
+  },
+  {
+    "event_id": 710,
+    "user_id": "U004",
+    "action": "search",
+    "server_cpu": 61.93,
+    "server_memory": 35.04,
+    "timestamp": "2026-08-22T11:04:15.274441"
+  },
+  {
+    "event_id": 711,
+    "user_id": "U014",
+    "action": "page_view",
+    "server_cpu": 25.55,
+    "server_memory": 74.68,
+    "timestamp": "2026-08-22T11:04:15.274444"
+  },
+  {
+    "event_id": 712,
+    "user_id": "U008",
+    "action": "add_to_cart",
+    "server_cpu": 66.03,
+    "server_memory": 34.42,
+    "timestamp": "2026-08-22T11:04:15.274448"
+  },
+  {
+    "event_id": 713,
+    "user_id": "U020",
+    "action": "search",
+    "server_cpu": 22.26,
+    "server_memory": 54.67,
+    "timestamp": "2026-08-22T11:04:15.274450"
+  },
+  {
+    "event_id": 714,
+    "user_id": "U014",
+    "action": "logout",
+    "server_cpu": 81.38,
+    "server_memory": 68.11,
+    "timestamp": "2026-08-22T11:04:15.274453"
+  },
+  {
+    "event_id": 715,
+    "user_id": "U002",
+    "action": "add_to_cart",
+    "server_cpu": 63.17,
+    "server_memory": 61.76,
+    "timestamp": "2026-08-22T11:04:15.274456"
+  },
+  {
+    "event_id": 716,
+    "user_id": "U007",
+    "action": "page_view",
+    "server_cpu": 29.39,
+    "server_memory": 86.25,
+    "timestamp": "2026-08-22T11:04:15.274458"
+  },
+  {
+    "event_id": 717,
+    "user_id": "U013",
+    "action": "page_view",
+    "server_cpu": 83.44,
+    "server_memory": 48.45,
+    "timestamp": "2026-08-22T11:04:15.274461"
+  },
+  {
+    "event_id": 718,
+    "user_id": "U007",
+    "action": "page_view",
+    "server_cpu": 82.02,
+    "server_memory": 89.14,
+    "timestamp": "2026-08-22T11:04:15.274463"
+  },
+  {
+    "event_id": 719,
+    "user_id": "U016",
+    "action": "login",
+    "server_cpu": 88.52,
+    "server_memory": 67.67,
+    "timestamp": "2026-08-22T11:04:15.274465"
+  },
+  {
+    "event_id": 720,
+    "user_id": "U008",
+    "action": "add_to_cart",
+    "server_cpu": 26.0,
+    "server_memory": 67.59,
+    "timestamp": "2026-08-22T11:04:15.274468"
+  },
+  {
+    "event_id": 721,
+    "user_id": "U017",
+    "action": "search",
+    "server_cpu": 20.8,
+    "server_memory": 33.13,
+    "timestamp": "2026-08-22T11:04:15.274471"
+  },
+  {
+    "event_id": 722,
+    "user_id": "U018",
+    "action": "add_to_cart",
+    "server_cpu": 76.8,
+    "server_memory": 83.88,
+    "timestamp": "2026-08-22T11:04:15.274473"
+  },
+  {
+    "event_id": 723,
+    "user_id": "U006",
+    "action": "page_view",
+    "server_cpu": 45.03,
+    "server_memory": 69.35,
+    "timestamp": "2026-08-22T11:04:15.274476"
+  },
+  {
+    "event_id": 724,
+    "user_id": "U019",
+    "action": "add_to_cart",
+    "server_cpu": 94.53,
+    "server_memory": 64.47,
+    "timestamp": "2026-08-22T11:04:15.274478"
+  },
+  {
+    "event_id": 725,
+    "user_id": "U005",
+    "action": "add_to_cart",
+    "server_cpu": 70.95,
+    "server_memory": 48.74,
+    "timestamp": "2026-08-22T11:04:15.274480"
+  },
+  {
+    "event_id": 726,
+    "user_id": "U016",
+    "action": "search",
+    "server_cpu": 39.11,
+    "server_memory": 76.21,
+    "timestamp": "2026-08-22T11:04:15.274485"
+  },
+  {
+    "event_id": 727,
+    "user_id": "U010",
+    "action": "add_to_cart",
+    "server_cpu": 51.68,
+    "server_memory": 82.5,
+    "timestamp": "2026-08-22T11:04:15.274487"
+  },
+  {
+    "event_id": 728,
+    "user_id": "U007",
+    "action": "login",
+    "server_cpu": 46.07,
+    "server_memory": 44.12,
+    "timestamp": "2026-08-22T11:04:15.274490"
+  },
+  {
+    "event_id": 729,
+    "user_id": "U006",
+    "action": "page_view",
+    "server_cpu": 62.5,
+    "server_memory": 32.6,
+    "timestamp": "2026-08-22T11:04:15.274492"
+  },
+  {
+    "event_id": 730,
+    "user_id": "U005",
+    "action": "search",
+    "server_cpu": 30.75,
+    "server_memory": 60.65,
+    "timestamp": "2026-08-22T11:04:15.274495"
+  },
+  {
+    "event_id": 731,
+    "user_id": "U002",
+    "action": "add_to_cart",
+    "server_cpu": 63.36,
+    "server_memory": 75.52,
+    "timestamp": "2026-08-22T11:04:15.274499"
+  },
+  {
+    "event_id": 732,
+    "user_id": "U005",
+    "action": "add_to_cart",
+    "server_cpu": 42.45,
+    "server_memory": 43.59,
+    "timestamp": "2026-08-22T11:04:15.274501"
+  },
+  {
+    "event_id": 733,
+    "user_id": "U002",
+    "action": "checkout",
+    "server_cpu": 33.23,
+    "server_memory": 58.81,
+    "timestamp": "2026-08-22T11:04:15.274503"
+  },
+  {
+    "event_id": 734,
+    "user_id": "U001",
+    "action": "page_view",
+    "server_cpu": 22.47,
+    "server_memory": 32.55,
+    "timestamp": "2026-08-22T11:04:15.274506"
+  },
+  {
+    "event_id": 735,
+    "user_id": "U001",
+    "action": "checkout",
+    "server_cpu": 54.08,
+    "server_memory": 43.47,
+    "timestamp": "2026-08-22T11:04:15.274508"
+  },
+  {
+    "event_id": 736,
+    "user_id": "U006",
+    "action": "page_view",
+    "server_cpu": 64.82,
+    "server_memory": 30.27,
+    "timestamp": "2026-08-22T11:04:15.274510"
+  },
+  {
+    "event_id": 737,
+    "user_id": "U005",
+    "action": "login",
+    "server_cpu": 30.68,
+    "server_memory": 64.41,
+    "timestamp": "2026-08-22T11:04:15.274514"
+  },
+  {
+    "event_id": 738,
+    "user_id": "U002",
+    "action": "login",
+    "server_cpu": 64.33,
+    "server_memory": 49.28,
+    "timestamp": "2026-08-22T11:04:15.274517"
+  },
+  {
+    "event_id": 739,
+    "user_id": "U014",
+    "action": "page_view",
+    "server_cpu": 43.96,
+    "server_memory": 35.88,
+    "timestamp": "2026-08-22T11:04:15.274519"
+  },
+  {
+    "event_id": 740,
+    "user_id": "U007",
+    "action": "login",
+    "server_cpu": 94.64,
+    "server_memory": 62.4,
+    "timestamp": "2026-08-22T11:04:15.274522"
+  },
+  {
+    "event_id": 741,
+    "user_id": "U014",
+    "action": "logout",
+    "server_cpu": 21.18,
+    "server_memory": 32.91,
+    "timestamp": "2026-08-22T11:04:15.274524"
+  },
+  {
+    "event_id": 742,
+    "user_id": "U012",
+    "action": "add_to_cart",
+    "server_cpu": 30.39,
+    "server_memory": 80.75,
+    "timestamp": "2026-08-22T11:04:15.274526"
+  },
+  {
+    "event_id": 743,
+    "user_id": "U004",
+    "action": "checkout",
+    "server_cpu": 48.71,
+    "server_memory": 43.54,
+    "timestamp": "2026-08-22T11:04:15.274529"
+  },
+  {
+    "event_id": 744,
+    "user_id": "U012",
+    "action": "logout",
+    "server_cpu": 27.36,
+    "server_memory": 42.19,
+    "timestamp": "2026-08-22T11:04:15.274531"
+  },
+  {
+    "event_id": 745,
+    "user_id": "U009",
+    "action": "login",
+    "server_cpu": 33.63,
+    "server_memory": 89.08,
+    "timestamp": "2026-08-22T11:04:15.274533"
+  },
+  {
+    "event_id": 746,
+    "user_id": "U003",
+    "action": "add_to_cart",
+    "server_cpu": 74.59,
+    "server_memory": 68.03,
+    "timestamp": "2026-08-22T11:04:15.274536"
+  },
+  {
+    "event_id": 747,
+    "user_id": "U017",
+    "action": "checkout",
+    "server_cpu": 88.23,
+    "server_memory": 63.25,
+    "timestamp": "2026-08-22T11:04:15.274538"
+  },
+  {
+    "event_id": 748,
+    "user_id": "U012",
+    "action": "login",
+    "server_cpu": 28.91,
+    "server_memory": 68.79,
+    "timestamp": "2026-08-22T11:04:15.274540"
+  },
+  {
+    "event_id": 749,
+    "user_id": "U015",
+    "action": "logout",
+    "server_cpu": 77.88,
+    "server_memory": 79.42,
+    "timestamp": "2026-08-22T11:04:15.274543"
+  },
+  {
+    "event_id": 750,
+    "user_id": "U008",
+    "action": "search",
+    "server_cpu": 34.45,
+    "server_memory": 56.87,
+    "timestamp": "2026-08-22T11:04:15.274545"
+  },
+  {
+    "event_id": 751,
+    "user_id": "U011",
+    "action": "add_to_cart",
+    "server_cpu": 42.73,
+    "server_memory": 58.78,
+    "timestamp": "2026-08-22T11:04:15.274549"
+  },
+  {
+    "event_id": 752,
+    "user_id": "U001",
+    "action": "page_view",
+    "server_cpu": 42.08,
+    "server_memory": 54.69,
+    "timestamp": "2026-08-22T11:04:15.274551"
+  },
+  {
+    "event_id": 753,
+    "user_id": "U001",
+    "action": "search",
+    "server_cpu": 73.96,
+    "server_memory": 83.74,
+    "timestamp": "2026-08-22T11:04:15.274553"
+  },
+  {
+    "event_id": 754,
+    "user_id": "U012",
+    "action": "add_to_cart",
+    "server_cpu": 72.27,
+    "server_memory": 88.4,
+    "timestamp": "2026-08-22T11:04:15.274556"
+  },
+  {
+    "event_id": 755,
+    "user_id": "U012",
+    "action": "logout",
+    "server_cpu": 64.72,
+    "server_memory": 88.42,
+    "timestamp": "2026-08-22T11:04:15.274558"
+  },
+  {
+    "event_id": 756,
+    "user_id": "U016",
+    "action": "search",
+    "server_cpu": 26.67,
+    "server_memory": 51.81,
+    "timestamp": "2026-08-22T11:04:15.274560"
+  },
+  {
+    "event_id": 757,
+    "user_id": "U013",
+    "action": "add_to_cart",
+    "server_cpu": 32.28,
+    "server_memory": 81.08,
+    "timestamp": "2026-08-22T11:04:15.274564"
+  },
+  {
+    "event_id": 758,
+    "user_id": "U019",
+    "action": "search",
+    "server_cpu": 71.81,
+    "server_memory": 80.05,
+    "timestamp": "2026-08-22T11:04:15.274567"
+  },
+  {
+    "event_id": 759,
+    "user_id": "U008",
+    "action": "logout",
+    "server_cpu": 91.47,
+    "server_memory": 75.84,
+    "timestamp": "2026-08-22T11:04:15.274569"
+  },
+  {
+    "event_id": 760,
+    "user_id": "U018",
+    "action": "checkout",
+    "server_cpu": 55.04,
+    "server_memory": 81.99,
+    "timestamp": "2026-08-22T11:04:15.274571"
+  },
+  {
+    "event_id": 761,
+    "user_id": "U010",
+    "action": "page_view",
+    "server_cpu": 36.52,
+    "server_memory": 69.23,
+    "timestamp": "2026-08-22T11:04:15.274574"
+  },
+  {
+    "event_id": 762,
+    "user_id": "U019",
+    "action": "search",
+    "server_cpu": 74.09,
+    "server_memory": 34.25,
+    "timestamp": "2026-08-22T11:04:15.274577"
+  },
+  {
+    "event_id": 763,
+    "user_id": "U002",
+    "action": "page_view",
+    "server_cpu": 60.48,
+    "server_memory": 82.38,
+    "timestamp": "2026-08-22T11:04:15.274579"
+  },
+  {
+    "event_id": 764,
+    "user_id": "U012",
+    "action": "add_to_cart",
+    "server_cpu": 83.31,
+    "server_memory": 53.82,
+    "timestamp": "2026-08-22T11:04:15.274581"
+  },
+  {
+    "event_id": 765,
+    "user_id": "U020",
+    "action": "logout",
+    "server_cpu": 59.58,
+    "server_memory": 56.2,
+    "timestamp": "2026-08-22T11:04:15.274584"
+  },
+  {
+    "event_id": 766,
+    "user_id": "U006",
+    "action": "logout",
+    "server_cpu": 44.28,
+    "server_memory": 86.46,
+    "timestamp": "2026-08-22T11:04:15.274586"
+  },
+  {
+    "event_id": 767,
+    "user_id": "U003",
+    "action": "page_view",
+    "server_cpu": 62.75,
+    "server_memory": 86.32,
+    "timestamp": "2026-08-22T11:04:15.274588"
+  },
+  {
+    "event_id": 768,
+    "user_id": "U014",
+    "action": "logout",
+    "server_cpu": 29.33,
+    "server_memory": 83.75,
+    "timestamp": "2026-08-22T11:04:15.274591"
+  },
+  {
+    "event_id": 769,
+    "user_id": "U009",
+    "action": "page_view",
+    "server_cpu": 73.94,
+    "server_memory": 66.91,
+    "timestamp": "2026-08-22T11:04:15.274593"
+  },
+  {
+    "event_id": 770,
+    "user_id": "U004",
+    "action": "search",
+    "server_cpu": 39.92,
+    "server_memory": 52.02,
+    "timestamp": "2026-08-22T11:04:15.274597"
+  },
+  {
+    "event_id": 771,
+    "user_id": "U001",
+    "action": "checkout",
+    "server_cpu": 57.06,
+    "server_memory": 85.79,
+    "timestamp": "2026-08-22T11:04:15.274599"
+  },
+  {
+    "event_id": 772,
+    "user_id": "U019",
+    "action": "logout",
+    "server_cpu": 40.27,
+    "server_memory": 63.68,
+    "timestamp": "2026-08-22T11:04:15.274602"
+  },
+  {
+    "event_id": 773,
+    "user_id": "U014",
+    "action": "search",
+    "server_cpu": 45.04,
+    "server_memory": 50.43,
+    "timestamp": "2026-08-22T11:04:15.274605"
+  },
+  {
+    "event_id": 774,
+    "user_id": "U020",
+    "action": "login",
+    "server_cpu": 78.78,
+    "server_memory": 49.54,
+    "timestamp": "2026-08-22T11:04:15.274607"
+  },
+  {
+    "event_id": 775,
+    "user_id": "U001",
+    "action": "checkout",
+    "server_cpu": 30.08,
+    "server_memory": 64.88,
+    "timestamp": "2026-08-22T11:04:15.274610"
+  },
+  {
+    "event_id": 776,
+    "user_id": "U010",
+    "action": "logout",
+    "server_cpu": 89.93,
+    "server_memory": 60.94,
+    "timestamp": "2026-08-22T11:04:15.274612"
+  },
+  {
+    "event_id": 777,
+    "user_id": "U007",
+    "action": "checkout",
+    "server_cpu": 51.35,
+    "server_memory": 71.62,
+    "timestamp": "2026-08-22T11:04:15.274616"
+  },
+  {
+    "event_id": 778,
+    "user_id": "U007",
+    "action": "add_to_cart",
+    "server_cpu": 20.18,
+    "server_memory": 89.38,
+    "timestamp": "2026-08-22T11:04:15.274618"
+  },
+  {
+    "event_id": 779,
+    "user_id": "U005",
+    "action": "add_to_cart",
+    "server_cpu": 70.73,
+    "server_memory": 77.98,
+    "timestamp": "2026-08-22T11:04:15.274620"
+  },
+  {
+    "event_id": 780,
+    "user_id": "U009",
+    "action": "add_to_cart",
+    "server_cpu": 24.13,
+    "server_memory": 33.6,
+    "timestamp": "2026-08-22T11:04:15.274623"
+  },
+  {
+    "event_id": 781,
+    "user_id": "U012",
+    "action": "add_to_cart",
+    "server_cpu": 58.68,
+    "server_memory": 66.74,
+    "timestamp": "2026-08-22T11:04:15.274625"
+  },
+  {
+    "event_id": 782,
+    "user_id": "U013",
+    "action": "add_to_cart",
+    "server_cpu": 65.16,
+    "server_memory": 30.18,
+    "timestamp": "2026-08-22T11:04:15.274628"
+  },
+  {
+    "event_id": 783,
+    "user_id": "U010",
+    "action": "checkout",
+    "server_cpu": 56.34,
+    "server_memory": 80.38,
+    "timestamp": "2026-08-22T11:04:15.274630"
+  },
+  {
+    "event_id": 784,
+    "user_id": "U005",
+    "action": "search",
+    "server_cpu": 25.7,
+    "server_memory": 54.98,
+    "timestamp": "2026-08-22T11:04:15.274632"
+  },
+  {
+    "event_id": 785,
+    "user_id": "U008",
+    "action": "login",
+    "server_cpu": 74.77,
+    "server_memory": 71.28,
+    "timestamp": "2026-08-22T11:04:15.274635"
+  },
+  {
+    "event_id": 786,
+    "user_id": "U018",
+    "action": "page_view",
+    "server_cpu": 48.16,
+    "server_memory": 68.54,
+    "timestamp": "2026-08-22T11:04:15.274637"
+  },
+  {
+    "event_id": 787,
+    "user_id": "U002",
+    "action": "add_to_cart",
+    "server_cpu": 48.37,
+    "server_memory": 67.22,
+    "timestamp": "2026-08-22T11:04:15.274639"
+  },
+  {
+    "event_id": 788,
+    "user_id": "U018",
+    "action": "page_view",
+    "server_cpu": 84.77,
+    "server_memory": 30.64,
+    "timestamp": "2026-08-22T11:04:15.274642"
+  },
+  {
+    "event_id": 789,
+    "user_id": "U008",
+    "action": "checkout",
+    "server_cpu": 79.94,
+    "server_memory": 50.01,
+    "timestamp": "2026-08-22T11:04:15.274644"
+  },
+  {
+    "event_id": 790,
+    "user_id": "U004",
+    "action": "add_to_cart",
+    "server_cpu": 82.87,
+    "server_memory": 36.05,
+    "timestamp": "2026-08-22T11:04:15.274648"
+  },
+  {
+    "event_id": 791,
+    "user_id": "U014",
+    "action": "page_view",
+    "server_cpu": 31.62,
+    "server_memory": 55.36,
+    "timestamp": "2026-08-22T11:04:15.274651"
+  },
+  {
+    "event_id": 792,
+    "user_id": "U010",
+    "action": "checkout",
+    "server_cpu": 72.74,
+    "server_memory": 61.32,
+    "timestamp": "2026-08-22T11:04:15.274653"
+  },
+  {
+    "event_id": 793,
+    "user_id": "U011",
+    "action": "add_to_cart",
+    "server_cpu": 72.54,
+    "server_memory": 40.48,
+    "timestamp": "2026-08-22T11:04:15.274656"
+  },
+  {
+    "event_id": 794,
+    "user_id": "U019",
+    "action": "add_to_cart",
+    "server_cpu": 23.72,
+    "server_memory": 59.36,
+    "timestamp": "2026-08-22T11:04:15.274658"
+  },
+  {
+    "event_id": 795,
+    "user_id": "U019",
+    "action": "search",
+    "server_cpu": 57.92,
+    "server_memory": 36.74,
+    "timestamp": "2026-08-22T11:04:15.274661"
+  },
+  {
+    "event_id": 796,
+    "user_id": "U011",
+    "action": "add_to_cart",
+    "server_cpu": 62.67,
+    "server_memory": 34.0,
+    "timestamp": "2026-08-22T11:04:15.274663"
+  },
+  {
+    "event_id": 797,
+    "user_id": "U010",
+    "action": "checkout",
+    "server_cpu": 88.68,
+    "server_memory": 70.81,
+    "timestamp": "2026-08-22T11:04:15.274666"
+  },
+  {
+    "event_id": 798,
+    "user_id": "U014",
+    "action": "search",
+    "server_cpu": 85.49,
+    "server_memory": 86.01,
+    "timestamp": "2026-08-22T11:04:15.274668"
+  },
+  {
+    "event_id": 799,
+    "user_id": "U011",
+    "action": "login",
+    "server_cpu": 29.35,
+    "server_memory": 69.55,
+    "timestamp": "2026-08-22T11:04:15.274672"
+  },
+  {
+    "event_id": 800,
+    "user_id": "U001",
+    "action": "add_to_cart",
+    "server_cpu": 61.03,
+    "server_memory": 66.38,
+    "timestamp": "2026-08-22T11:04:15.274674"
+  },
+  {
+    "event_id": 801,
+    "user_id": "U017",
+    "action": "search",
+    "server_cpu": 52.77,
+    "server_memory": 34.17,
+    "timestamp": "2026-08-22T11:04:15.274677"
+  },
+  {
+    "event_id": 802,
+    "user_id": "U002",
+    "action": "add_to_cart",
+    "server_cpu": 85.87,
+    "server_memory": 70.34,
+    "timestamp": "2026-08-22T11:04:15.274680"
+  },
+  {
+    "event_id": 803,
+    "user_id": "U017",
+    "action": "checkout",
+    "server_cpu": 75.23,
+    "server_memory": 67.02,
+    "timestamp": "2026-08-22T11:04:15.274682"
+  },
+  {
+    "event_id": 804,
+    "user_id": "U004",
+    "action": "checkout",
+    "server_cpu": 81.6,
+    "server_memory": 37.25,
+    "timestamp": "2026-08-22T11:04:15.274685"
+  },
+  {
+    "event_id": 805,
+    "user_id": "U018",
+    "action": "add_to_cart",
+    "server_cpu": 34.57,
+    "server_memory": 76.37,
+    "timestamp": "2026-08-22T11:04:15.274687"
+  },
+  {
+    "event_id": 806,
+    "user_id": "U001",
+    "action": "search",
+    "server_cpu": 47.53,
+    "server_memory": 52.04,
+    "timestamp": "2026-08-22T11:04:15.274689"
+  },
+  {
+    "event_id": 807,
+    "user_id": "U008",
+    "action": "add_to_cart",
+    "server_cpu": 79.14,
+    "server_memory": 72.49,
+    "timestamp": "2026-08-22T11:04:15.274692"
+  },
+  {
+    "event_id": 808,
+    "user_id": "U010",
+    "action": "page_view",
+    "server_cpu": 72.97,
+    "server_memory": 36.04,
+    "timestamp": "2026-08-22T11:04:15.274694"
+  },
+  {
+    "event_id": 809,
+    "user_id": "U017",
+    "action": "page_view",
+    "server_cpu": 36.6,
+    "server_memory": 78.93,
+    "timestamp": "2026-08-22T11:04:15.274698"
+  },
+  {
+    "event_id": 810,
+    "user_id": "U018",
+    "action": "page_view",
+    "server_cpu": 61.8,
+    "server_memory": 57.91,
+    "timestamp": "2026-08-22T11:04:15.274700"
+  },
+  {
+    "event_id": 811,
+    "user_id": "U002",
+    "action": "search",
+    "server_cpu": 74.48,
+    "server_memory": 30.38,
+    "timestamp": "2026-08-22T11:04:15.274703"
+  },
+  {
+    "event_id": 812,
+    "user_id": "U015",
+    "action": "checkout",
+    "server_cpu": 29.19,
+    "server_memory": 58.68,
+    "timestamp": "2026-08-22T11:04:15.274705"
+  },
+  {
+    "event_id": 813,
+    "user_id": "U005",
+    "action": "add_to_cart",
+    "server_cpu": 45.93,
+    "server_memory": 67.34,
+    "timestamp": "2026-08-22T11:04:15.274708"
+  },
+  {
+    "event_id": 814,
+    "user_id": "U017",
+    "action": "checkout",
+    "server_cpu": 81.06,
+    "server_memory": 36.03,
+    "timestamp": "2026-08-22T11:04:15.274710"
+  },
+  {
+    "event_id": 815,
+    "user_id": "U007",
+    "action": "checkout",
+    "server_cpu": 74.78,
+    "server_memory": 64.73,
+    "timestamp": "2026-08-22T11:04:15.274713"
+  },
+  {
+    "event_id": 816,
+    "user_id": "U005",
+    "action": "add_to_cart",
+    "server_cpu": 80.18,
+    "server_memory": 65.66,
+    "timestamp": "2026-08-22T11:04:15.274716"
+  },
+  {
+    "event_id": 817,
+    "user_id": "U008",
+    "action": "logout",
+    "server_cpu": 73.37,
+    "server_memory": 58.38,
+    "timestamp": "2026-08-22T11:04:15.274718"
+  },
+  {
+    "event_id": 818,
+    "user_id": "U010",
+    "action": "search",
+    "server_cpu": 47.13,
+    "server_memory": 56.09,
+    "timestamp": "2026-08-22T11:04:15.274721"
+  },
+  {
+    "event_id": 819,
+    "user_id": "U017",
+    "action": "page_view",
+    "server_cpu": 42.22,
+    "server_memory": 71.77,
+    "timestamp": "2026-08-22T11:04:15.274723"
+  },
+  {
+    "event_id": 820,
+    "user_id": "U008",
+    "action": "logout",
+    "server_cpu": 53.94,
+    "server_memory": 54.27,
+    "timestamp": "2026-08-22T11:04:15.274726"
+  },
+  {
+    "event_id": 821,
+    "user_id": "U008",
+    "action": "search",
+    "server_cpu": 60.39,
+    "server_memory": 81.91,
+    "timestamp": "2026-08-22T11:04:15.274728"
+  },
+  {
+    "event_id": 822,
+    "user_id": "U015",
+    "action": "logout",
+    "server_cpu": 81.2,
+    "server_memory": 52.67,
+    "timestamp": "2026-08-22T11:04:15.274730"
+  },
+  {
+    "event_id": 823,
+    "user_id": "U002",
+    "action": "page_view",
+    "server_cpu": 62.0,
+    "server_memory": 77.69,
+    "timestamp": "2026-08-22T11:04:15.274733"
+  },
+  {
+    "event_id": 824,
+    "user_id": "U020",
+    "action": "search",
+    "server_cpu": 21.24,
+    "server_memory": 43.08,
+    "timestamp": "2026-08-22T11:04:15.274735"
+  },
+  {
+    "event_id": 825,
+    "user_id": "U004",
+    "action": "search",
+    "server_cpu": 79.97,
+    "server_memory": 83.84,
+    "timestamp": "2026-08-22T11:04:15.274738"
+  },
+  {
+    "event_id": 826,
+    "user_id": "U009",
+    "action": "page_view",
+    "server_cpu": 82.85,
+    "server_memory": 47.49,
+    "timestamp": "2026-08-22T11:04:15.274740"
+  },
+  {
+    "event_id": 827,
+    "user_id": "U016",
+    "action": "page_view",
+    "server_cpu": 51.73,
+    "server_memory": 68.4,
+    "timestamp": "2026-08-22T11:04:15.274743"
+  },
+  {
+    "event_id": 828,
+    "user_id": "U008",
+    "action": "checkout",
+    "server_cpu": 32.53,
+    "server_memory": 45.07,
+    "timestamp": "2026-08-22T11:04:15.274745"
+  },
+  {
+    "event_id": 829,
+    "user_id": "U004",
+    "action": "page_view",
+    "server_cpu": 60.13,
+    "server_memory": 89.41,
+    "timestamp": "2026-08-22T11:04:15.274760"
+  },
+  {
+    "event_id": 830,
+    "user_id": "U008",
+    "action": "search",
+    "server_cpu": 25.95,
+    "server_memory": 44.91,
+    "timestamp": "2026-08-22T11:04:15.274762"
+  },
+  {
+    "event_id": 831,
+    "user_id": "U007",
+    "action": "login",
+    "server_cpu": 31.96,
+    "server_memory": 78.13,
+    "timestamp": "2026-08-22T11:04:15.274764"
+  },
+  {
+    "event_id": 832,
+    "user_id": "U012",
+    "action": "add_to_cart",
+    "server_cpu": 88.49,
+    "server_memory": 57.67,
+    "timestamp": "2026-08-22T11:04:15.274767"
+  },
+  {
+    "event_id": 833,
+    "user_id": "U006",
+    "action": "search",
+    "server_cpu": 60.27,
+    "server_memory": 75.52,
+    "timestamp": "2026-08-22T11:04:15.274769"
+  },
+  {
+    "event_id": 834,
+    "user_id": "U015",
+    "action": "page_view",
+    "server_cpu": 83.85,
+    "server_memory": 88.2,
+    "timestamp": "2026-08-22T11:04:15.274772"
+  },
+  {
+    "event_id": 835,
+    "user_id": "U005",
+    "action": "login",
+    "server_cpu": 61.73,
+    "server_memory": 67.96,
+    "timestamp": "2026-08-22T11:04:15.274774"
+  },
+  {
+    "event_id": 836,
+    "user_id": "U003",
+    "action": "checkout",
+    "server_cpu": 23.11,
+    "server_memory": 73.04,
+    "timestamp": "2026-08-22T11:04:15.274776"
+  },
+  {
+    "event_id": 837,
+    "user_id": "U001",
+    "action": "logout",
+    "server_cpu": 53.31,
+    "server_memory": 44.36,
+    "timestamp": "2026-08-22T11:04:15.274780"
+  },
+  {
+    "event_id": 838,
+    "user_id": "U011",
+    "action": "search",
+    "server_cpu": 55.04,
+    "server_memory": 45.16,
+    "timestamp": "2026-08-22T11:04:15.274782"
+  },
+  {
+    "event_id": 839,
+    "user_id": "U019",
+    "action": "checkout",
+    "server_cpu": 46.29,
+    "server_memory": 61.7,
+    "timestamp": "2026-08-22T11:04:15.274784"
+  },
+  {
+    "event_id": 840,
+    "user_id": "U001",
+    "action": "login",
+    "server_cpu": 27.11,
+    "server_memory": 38.48,
+    "timestamp": "2026-08-22T11:04:15.274787"
+  },
+  {
+    "event_id": 841,
+    "user_id": "U015",
+    "action": "logout",
+    "server_cpu": 45.47,
+    "server_memory": 66.42,
+    "timestamp": "2026-08-22T11:04:15.274790"
+  },
+  {
+    "event_id": 842,
+    "user_id": "U018",
+    "action": "add_to_cart",
+    "server_cpu": 21.5,
+    "server_memory": 61.34,
+    "timestamp": "2026-08-22T11:04:15.274793"
+  },
+  {
+    "event_id": 843,
+    "user_id": "U008",
+    "action": "checkout",
+    "server_cpu": 74.6,
+    "server_memory": 83.12,
+    "timestamp": "2026-08-22T11:04:15.274796"
+  },
+  {
+    "event_id": 844,
+    "user_id": "U019",
+    "action": "login",
+    "server_cpu": 23.21,
+    "server_memory": 65.09,
+    "timestamp": "2026-08-22T11:04:15.274798"
+  },
+  {
+    "event_id": 845,
+    "user_id": "U003",
+    "action": "logout",
+    "server_cpu": 82.06,
+    "server_memory": 42.99,
+    "timestamp": "2026-08-22T11:04:15.274801"
+  },
+  {
+    "event_id": 846,
+    "user_id": "U004",
+    "action": "logout",
+    "server_cpu": 21.23,
+    "server_memory": 50.65,
+    "timestamp": "2026-08-22T11:04:15.274803"
+  },
+  {
+    "event_id": 847,
+    "user_id": "U018",
+    "action": "search",
+    "server_cpu": 59.7,
+    "server_memory": 72.58,
+    "timestamp": "2026-08-22T11:04:15.274805"
+  },
+  {
+    "event_id": 848,
+    "user_id": "U006",
+    "action": "logout",
+    "server_cpu": 72.9,
+    "server_memory": 31.38,
+    "timestamp": "2026-08-22T11:04:15.274810"
+  },
+  {
+    "event_id": 849,
+    "user_id": "U019",
+    "action": "logout",
+    "server_cpu": 29.28,
+    "server_memory": 84.58,
+    "timestamp": "2026-08-22T11:04:15.274812"
+  },
+  {
+    "event_id": 850,
+    "user_id": "U017",
+    "action": "add_to_cart",
+    "server_cpu": 58.55,
+    "server_memory": 54.79,
+    "timestamp": "2026-08-22T11:04:15.274814"
+  },
+  {
+    "event_id": 851,
+    "user_id": "U012",
+    "action": "page_view",
+    "server_cpu": 70.04,
+    "server_memory": 42.91,
+    "timestamp": "2026-08-22T11:04:15.274817"
+  },
+  {
+    "event_id": 852,
+    "user_id": "U015",
+    "action": "page_view",
+    "server_cpu": 61.74,
+    "server_memory": 66.81,
+    "timestamp": "2026-08-22T11:04:15.274819"
+  },
+  {
+    "event_id": 853,
+    "user_id": "U018",
+    "action": "search",
+    "server_cpu": 38.18,
+    "server_memory": 85.47,
+    "timestamp": "2026-08-22T11:04:15.274822"
+  },
+  {
+    "event_id": 854,
+    "user_id": "U006",
+    "action": "logout",
+    "server_cpu": 32.09,
+    "server_memory": 54.08,
+    "timestamp": "2026-08-22T11:04:15.274824"
+  },
+  {
+    "event_id": 855,
+    "user_id": "U003",
+    "action": "add_to_cart",
+    "server_cpu": 48.6,
+    "server_memory": 71.27,
+    "timestamp": "2026-08-22T11:04:15.274826"
+  },
+  {
+    "event_id": 856,
+    "user_id": "U017",
+    "action": "login",
+    "server_cpu": 49.64,
+    "server_memory": 70.15,
+    "timestamp": "2026-08-22T11:04:15.274829"
+  },
+  {
+    "event_id": 857,
+    "user_id": "U007",
+    "action": "add_to_cart",
+    "server_cpu": 50.3,
+    "server_memory": 73.56,
+    "timestamp": "2026-08-22T11:04:15.274831"
+  },
+  {
+    "event_id": 858,
+    "user_id": "U006",
+    "action": "search",
+    "server_cpu": 30.59,
+    "server_memory": 83.47,
+    "timestamp": "2026-08-22T11:04:15.274833"
+  },
+  {
+    "event_id": 859,
+    "user_id": "U018",
+    "action": "add_to_cart",
+    "server_cpu": 85.8,
+    "server_memory": 44.03,
+    "timestamp": "2026-08-22T11:04:15.274836"
+  },
+  {
+    "event_id": 860,
+    "user_id": "U008",
+    "action": "page_view",
+    "server_cpu": 44.85,
+    "server_memory": 60.14,
+    "timestamp": "2026-08-22T11:04:15.274838"
+  },
+  {
+    "event_id": 861,
+    "user_id": "U014",
+    "action": "logout",
+    "server_cpu": 25.13,
+    "server_memory": 70.52,
+    "timestamp": "2026-08-22T11:04:15.274841"
+  },
+  {
+    "event_id": 862,
+    "user_id": "U006",
+    "action": "page_view",
+    "server_cpu": 54.74,
+    "server_memory": 53.07,
+    "timestamp": "2026-08-22T11:04:15.274844"
+  },
+  {
+    "event_id": 863,
+    "user_id": "U012",
+    "action": "search",
+    "server_cpu": 21.6,
+    "server_memory": 49.16,
+    "timestamp": "2026-08-22T11:04:15.274846"
+  },
+  {
+    "event_id": 864,
+    "user_id": "U007",
+    "action": "login",
+    "server_cpu": 39.69,
+    "server_memory": 50.5,
+    "timestamp": "2026-08-22T11:04:15.274849"
+  },
+  {
+    "event_id": 865,
+    "user_id": "U016",
+    "action": "add_to_cart",
+    "server_cpu": 46.16,
+    "server_memory": 66.03,
+    "timestamp": "2026-08-22T11:04:15.274853"
+  },
+  {
+    "event_id": 866,
+    "user_id": "U014",
+    "action": "search",
+    "server_cpu": 69.88,
+    "server_memory": 86.79,
+    "timestamp": "2026-08-22T11:04:15.274855"
+  },
+  {
+    "event_id": 867,
+    "user_id": "U014",
+    "action": "page_view",
+    "server_cpu": 78.54,
+    "server_memory": 70.31,
+    "timestamp": "2026-08-22T11:04:15.274858"
+  },
+  {
+    "event_id": 868,
+    "user_id": "U010",
+    "action": "logout",
+    "server_cpu": 27.59,
+    "server_memory": 32.57,
+    "timestamp": "2026-08-22T11:04:15.274861"
+  },
+  {
+    "event_id": 869,
+    "user_id": "U017",
+    "action": "search",
+    "server_cpu": 90.57,
+    "server_memory": 72.46,
+    "timestamp": "2026-08-22T11:04:15.274863"
+  },
+  {
+    "event_id": 870,
+    "user_id": "U020",
+    "action": "page_view",
+    "server_cpu": 91.79,
+    "server_memory": 39.74,
+    "timestamp": "2026-08-22T11:04:15.274866"
+  },
+  {
+    "event_id": 871,
+    "user_id": "U005",
+    "action": "checkout",
+    "server_cpu": 47.35,
+    "server_memory": 41.7,
+    "timestamp": "2026-08-22T11:04:15.274868"
+  },
+  {
+    "event_id": 872,
+    "user_id": "U007",
+    "action": "checkout",
+    "server_cpu": 61.77,
+    "server_memory": 34.7,
+    "timestamp": "2026-08-22T11:04:15.274871"
+  },
+  {
+    "event_id": 873,
+    "user_id": "U013",
+    "action": "search",
+    "server_cpu": 23.92,
+    "server_memory": 48.92,
+    "timestamp": "2026-08-22T11:04:15.274873"
+  },
+  {
+    "event_id": 874,
+    "user_id": "U019",
+    "action": "logout",
+    "server_cpu": 94.12,
+    "server_memory": 46.55,
+    "timestamp": "2026-08-22T11:04:15.274876"
+  },
+  {
+    "event_id": 875,
+    "user_id": "U003",
+    "action": "search",
+    "server_cpu": 72.87,
+    "server_memory": 72.56,
+    "timestamp": "2026-08-22T11:04:15.274878"
+  },
+  {
+    "event_id": 876,
+    "user_id": "U011",
+    "action": "add_to_cart",
+    "server_cpu": 22.01,
+    "server_memory": 40.67,
+    "timestamp": "2026-08-22T11:04:15.274880"
+  },
+  {
+    "event_id": 877,
+    "user_id": "U010",
+    "action": "page_view",
+    "server_cpu": 22.05,
+    "server_memory": 84.79,
+    "timestamp": "2026-08-22T11:04:15.274883"
+  },
+  {
+    "event_id": 878,
+    "user_id": "U002",
+    "action": "checkout",
+    "server_cpu": 21.38,
+    "server_memory": 42.15,
+    "timestamp": "2026-08-22T11:04:15.274886"
+  },
+  {
+    "event_id": 879,
+    "user_id": "U011",
+    "action": "search",
+    "server_cpu": 81.97,
+    "server_memory": 38.58,
+    "timestamp": "2026-08-22T11:04:15.274890"
+  },
+  {
+    "event_id": 880,
+    "user_id": "U013",
+    "action": "login",
+    "server_cpu": 46.48,
+    "server_memory": 60.71,
+    "timestamp": "2026-08-22T11:04:15.274892"
+  },
+  {
+    "event_id": 881,
+    "user_id": "U003",
+    "action": "logout",
+    "server_cpu": 34.49,
+    "server_memory": 33.95,
+    "timestamp": "2026-08-22T11:04:15.274895"
+  },
+  {
+    "event_id": 882,
+    "user_id": "U003",
+    "action": "search",
+    "server_cpu": 72.18,
+    "server_memory": 63.99,
+    "timestamp": "2026-08-22T11:04:15.274898"
+  },
+  {
+    "event_id": 883,
+    "user_id": "U008",
+    "action": "search",
+    "server_cpu": 69.53,
+    "server_memory": 61.02,
+    "timestamp": "2026-08-22T11:04:15.274900"
+  },
+  {
+    "event_id": 884,
+    "user_id": "U012",
+    "action": "add_to_cart",
+    "server_cpu": 74.11,
+    "server_memory": 34.81,
+    "timestamp": "2026-08-22T11:04:15.274902"
+  },
+  {
+    "event_id": 885,
+    "user_id": "U004",
+    "action": "checkout",
+    "server_cpu": 74.96,
+    "server_memory": 31.22,
+    "timestamp": "2026-08-22T11:04:15.274906"
+  },
+  {
+    "event_id": 886,
+    "user_id": "U009",
+    "action": "logout",
+    "server_cpu": 62.14,
+    "server_memory": 53.54,
+    "timestamp": "2026-08-22T11:04:15.274909"
+  },
+  {
+    "event_id": 887,
+    "user_id": "U019",
+    "action": "page_view",
+    "server_cpu": 69.34,
+    "server_memory": 55.17,
+    "timestamp": "2026-08-22T11:04:15.274912"
+  },
+  {
+    "event_id": 888,
+    "user_id": "U005",
+    "action": "logout",
+    "server_cpu": 50.69,
+    "server_memory": 35.49,
+    "timestamp": "2026-08-22T11:04:15.274915"
+  },
+  {
+    "event_id": 889,
+    "user_id": "U010",
+    "action": "logout",
+    "server_cpu": 55.31,
+    "server_memory": 79.25,
+    "timestamp": "2026-08-22T11:04:15.274917"
+  },
+  {
+    "event_id": 890,
+    "user_id": "U008",
+    "action": "login",
+    "server_cpu": 27.82,
+    "server_memory": 32.38,
+    "timestamp": "2026-08-22T11:04:15.274920"
+  },
+  {
+    "event_id": 891,
+    "user_id": "U006",
+    "action": "checkout",
+    "server_cpu": 51.26,
+    "server_memory": 35.26,
+    "timestamp": "2026-08-22T11:04:15.274922"
+  },
+  {
+    "event_id": 892,
+    "user_id": "U019",
+    "action": "page_view",
+    "server_cpu": 37.72,
+    "server_memory": 61.94,
+    "timestamp": "2026-08-22T11:04:15.274924"
+  },
+  {
+    "event_id": 893,
+    "user_id": "U020",
+    "action": "logout",
+    "server_cpu": 76.97,
+    "server_memory": 62.38,
+    "timestamp": "2026-08-22T11:04:15.274927"
+  },
+  {
+    "event_id": 894,
+    "user_id": "U018",
+    "action": "login",
+    "server_cpu": 64.47,
+    "server_memory": 41.87,
+    "timestamp": "2026-08-22T11:04:15.274929"
+  },
+  {
+    "event_id": 895,
+    "user_id": "U009",
+    "action": "logout",
+    "server_cpu": 57.95,
+    "server_memory": 84.9,
+    "timestamp": "2026-08-22T11:04:15.274931"
+  },
+  {
+    "event_id": 896,
+    "user_id": "U019",
+    "action": "login",
+    "server_cpu": 39.9,
+    "server_memory": 76.68,
+    "timestamp": "2026-08-22T11:04:15.274934"
+  },
+  {
+    "event_id": 897,
+    "user_id": "U001",
+    "action": "add_to_cart",
+    "server_cpu": 62.89,
+    "server_memory": 72.33,
+    "timestamp": "2026-08-22T11:04:15.274936"
+  },
+  {
+    "event_id": 898,
+    "user_id": "U009",
+    "action": "page_view",
+    "server_cpu": 85.75,
+    "server_memory": 45.76,
+    "timestamp": "2026-08-22T11:04:15.274939"
+  },
+  {
+    "event_id": 899,
+    "user_id": "U007",
+    "action": "login",
+    "server_cpu": 21.64,
+    "server_memory": 70.34,
+    "timestamp": "2026-08-22T11:04:15.274941"
+  },
+  {
+    "event_id": 900,
+    "user_id": "U008",
+    "action": "page_view",
+    "server_cpu": 60.94,
+    "server_memory": 48.16,
+    "timestamp": "2026-08-22T11:04:15.274943"
+  },
+  {
+    "event_id": 901,
+    "user_id": "U002",
+    "action": "checkout",
+    "server_cpu": 65.37,
+    "server_memory": 39.38,
+    "timestamp": "2026-08-22T11:04:15.274946"
+  },
+  {
+    "event_id": 902,
+    "user_id": "U020",
+    "action": "add_to_cart",
+    "server_cpu": 54.65,
+    "server_memory": 41.84,
+    "timestamp": "2026-08-22T11:04:15.274948"
+  },
+  {
+    "event_id": 903,
+    "user_id": "U004",
+    "action": "checkout",
+    "server_cpu": 86.72,
+    "server_memory": 72.73,
+    "timestamp": "2026-08-22T11:04:15.274951"
+  },
+  {
+    "event_id": 904,
+    "user_id": "U003",
+    "action": "logout",
+    "server_cpu": 35.54,
+    "server_memory": 40.48,
+    "timestamp": "2026-08-22T11:04:15.274953"
+  },
+  {
+    "event_id": 905,
+    "user_id": "U019",
+    "action": "checkout",
+    "server_cpu": 56.22,
+    "server_memory": 86.72,
+    "timestamp": "2026-08-22T11:04:15.274956"
+  },
+  {
+    "event_id": 906,
+    "user_id": "U018",
+    "action": "login",
+    "server_cpu": 59.73,
+    "server_memory": 60.91,
+    "timestamp": "2026-08-22T11:04:15.274958"
+  },
+  {
+    "event_id": 907,
+    "user_id": "U011",
+    "action": "search",
+    "server_cpu": 20.61,
+    "server_memory": 33.56,
+    "timestamp": "2026-08-22T11:04:15.274962"
+  },
+  {
+    "event_id": 908,
+    "user_id": "U013",
+    "action": "page_view",
+    "server_cpu": 37.39,
+    "server_memory": 50.37,
+    "timestamp": "2026-08-22T11:04:15.274965"
+  },
+  {
+    "event_id": 909,
+    "user_id": "U012",
+    "action": "checkout",
+    "server_cpu": 82.77,
+    "server_memory": 71.85,
+    "timestamp": "2026-08-22T11:04:15.274968"
+  },
+  {
+    "event_id": 910,
+    "user_id": "U011",
+    "action": "checkout",
+    "server_cpu": 69.27,
+    "server_memory": 70.27,
+    "timestamp": "2026-08-22T11:04:15.274970"
+  },
+  {
+    "event_id": 911,
+    "user_id": "U004",
+    "action": "login",
+    "server_cpu": 32.13,
+    "server_memory": 83.79,
+    "timestamp": "2026-08-22T11:04:15.274973"
+  },
+  {
+    "event_id": 912,
+    "user_id": "U016",
+    "action": "add_to_cart",
+    "server_cpu": 82.95,
+    "server_memory": 87.3,
+    "timestamp": "2026-08-22T11:04:15.274975"
+  },
+  {
+    "event_id": 913,
+    "user_id": "U005",
+    "action": "page_view",
+    "server_cpu": 54.34,
+    "server_memory": 79.41,
+    "timestamp": "2026-08-22T11:04:15.274977"
+  },
+  {
+    "event_id": 914,
+    "user_id": "U020",
+    "action": "search",
+    "server_cpu": 92.01,
+    "server_memory": 46.82,
+    "timestamp": "2026-08-22T11:04:15.274980"
+  },
+  {
+    "event_id": 915,
+    "user_id": "U016",
+    "action": "page_view",
+    "server_cpu": 24.52,
+    "server_memory": 32.92,
+    "timestamp": "2026-08-22T11:04:15.274982"
+  },
+  {
+    "event_id": 916,
+    "user_id": "U001",
+    "action": "logout",
+    "server_cpu": 30.97,
+    "server_memory": 43.02,
+    "timestamp": "2026-08-22T11:04:15.274985"
+  },
+  {
+    "event_id": 917,
+    "user_id": "U011",
+    "action": "login",
+    "server_cpu": 73.0,
+    "server_memory": 48.85,
+    "timestamp": "2026-08-22T11:04:15.274987"
+  },
+  {
+    "event_id": 918,
+    "user_id": "U013",
+    "action": "login",
+    "server_cpu": 81.16,
+    "server_memory": 76.7,
+    "timestamp": "2026-08-22T11:04:15.274989"
+  },
+  {
+    "event_id": 919,
+    "user_id": "U010",
+    "action": "checkout",
+    "server_cpu": 91.63,
+    "server_memory": 89.29,
+    "timestamp": "2026-08-22T11:04:15.274991"
+  },
+  {
+    "event_id": 920,
+    "user_id": "U018",
+    "action": "logout",
+    "server_cpu": 25.95,
+    "server_memory": 82.11,
+    "timestamp": "2026-08-22T11:04:15.274994"
+  },
+  {
+    "event_id": 921,
+    "user_id": "U020",
+    "action": "login",
+    "server_cpu": 78.06,
+    "server_memory": 76.07,
+    "timestamp": "2026-08-22T11:04:15.274996"
+  },
+  {
+    "event_id": 922,
+    "user_id": "U004",
+    "action": "search",
+    "server_cpu": 32.18,
+    "server_memory": 78.41,
+    "timestamp": "2026-08-22T11:04:15.274999"
+  },
+  {
+    "event_id": 923,
+    "user_id": "U018",
+    "action": "page_view",
+    "server_cpu": 38.5,
+    "server_memory": 61.37,
+    "timestamp": "2026-08-22T11:04:15.275001"
+  },
+  {
+    "event_id": 924,
+    "user_id": "U007",
+    "action": "add_to_cart",
+    "server_cpu": 44.67,
+    "server_memory": 40.26,
+    "timestamp": "2026-08-22T11:04:15.275003"
+  },
+  {
+    "event_id": 925,
+    "user_id": "U002",
+    "action": "search",
+    "server_cpu": 31.13,
+    "server_memory": 30.88,
+    "timestamp": "2026-08-22T11:04:15.275006"
+  },
+  {
+    "event_id": 926,
+    "user_id": "U001",
+    "action": "page_view",
+    "server_cpu": 84.54,
+    "server_memory": 37.25,
+    "timestamp": "2026-08-22T11:04:15.275009"
+  },
+  {
+    "event_id": 927,
+    "user_id": "U014",
+    "action": "checkout",
+    "server_cpu": 28.88,
+    "server_memory": 43.08,
+    "timestamp": "2026-08-22T11:04:15.275013"
+  },
+  {
+    "event_id": 928,
+    "user_id": "U006",
+    "action": "login",
+    "server_cpu": 22.1,
+    "server_memory": 33.88,
+    "timestamp": "2026-08-22T11:04:15.275016"
+  },
+  {
+    "event_id": 929,
+    "user_id": "U011",
+    "action": "login",
+    "server_cpu": 83.35,
+    "server_memory": 73.77,
+    "timestamp": "2026-08-22T11:04:15.275019"
+  },
+  {
+    "event_id": 930,
+    "user_id": "U005",
+    "action": "checkout",
+    "server_cpu": 68.28,
+    "server_memory": 57.72,
+    "timestamp": "2026-08-22T11:04:15.275022"
+  },
+  {
+    "event_id": 931,
+    "user_id": "U016",
+    "action": "search",
+    "server_cpu": 55.94,
+    "server_memory": 71.83,
+    "timestamp": "2026-08-22T11:04:15.275025"
+  },
+  {
+    "event_id": 932,
+    "user_id": "U003",
+    "action": "page_view",
+    "server_cpu": 92.42,
+    "server_memory": 40.22,
+    "timestamp": "2026-08-22T11:04:15.275027"
+  },
+  {
+    "event_id": 933,
+    "user_id": "U005",
+    "action": "logout",
+    "server_cpu": 77.3,
+    "server_memory": 88.28,
+    "timestamp": "2026-08-22T11:04:15.275029"
+  },
+  {
+    "event_id": 934,
+    "user_id": "U005",
+    "action": "login",
+    "server_cpu": 85.16,
+    "server_memory": 32.23,
+    "timestamp": "2026-08-22T11:04:15.275031"
+  },
+  {
+    "event_id": 935,
+    "user_id": "U003",
+    "action": "search",
+    "server_cpu": 31.85,
+    "server_memory": 79.34,
+    "timestamp": "2026-08-22T11:04:15.275034"
+  },
+  {
+    "event_id": 936,
+    "user_id": "U010",
+    "action": "login",
+    "server_cpu": 58.67,
+    "server_memory": 57.17,
+    "timestamp": "2026-08-22T11:04:15.275036"
+  },
+  {
+    "event_id": 937,
+    "user_id": "U010",
+    "action": "login",
+    "server_cpu": 49.41,
+    "server_memory": 42.85,
+    "timestamp": "2026-08-22T11:04:15.275039"
+  },
+  {
+    "event_id": 938,
+    "user_id": "U002",
+    "action": "page_view",
+    "server_cpu": 86.62,
+    "server_memory": 83.98,
+    "timestamp": "2026-08-22T11:04:15.275041"
+  },
+  {
+    "event_id": 939,
+    "user_id": "U013",
+    "action": "add_to_cart",
+    "server_cpu": 49.71,
+    "server_memory": 74.66,
+    "timestamp": "2026-08-22T11:04:15.275044"
+  },
+  {
+    "event_id": 940,
+    "user_id": "U019",
+    "action": "login",
+    "server_cpu": 71.81,
+    "server_memory": 61.45,
+    "timestamp": "2026-08-22T11:04:15.275046"
+  },
+  {
+    "event_id": 941,
+    "user_id": "U008",
+    "action": "page_view",
+    "server_cpu": 23.48,
+    "server_memory": 77.78,
+    "timestamp": "2026-08-22T11:04:15.275048"
+  },
+  {
+    "event_id": 942,
+    "user_id": "U010",
+    "action": "search",
+    "server_cpu": 22.25,
+    "server_memory": 51.21,
+    "timestamp": "2026-08-22T11:04:15.275051"
+  },
+  {
+    "event_id": 943,
+    "user_id": "U012",
+    "action": "login",
+    "server_cpu": 21.78,
+    "server_memory": 54.78,
+    "timestamp": "2026-08-22T11:04:15.275053"
+  },
+  {
+    "event_id": 944,
+    "user_id": "U008",
+    "action": "add_to_cart",
+    "server_cpu": 92.68,
+    "server_memory": 53.68,
+    "timestamp": "2026-08-22T11:04:15.275055"
+  },
+  {
+    "event_id": 945,
+    "user_id": "U010",
+    "action": "logout",
+    "server_cpu": 74.55,
+    "server_memory": 77.09,
+    "timestamp": "2026-08-22T11:04:15.275058"
+  },
+  {
+    "event_id": 946,
+    "user_id": "U019",
+    "action": "search",
+    "server_cpu": 93.51,
+    "server_memory": 86.62,
+    "timestamp": "2026-08-22T11:04:15.275062"
+  },
+  {
+    "event_id": 947,
+    "user_id": "U006",
+    "action": "add_to_cart",
+    "server_cpu": 23.2,
+    "server_memory": 50.48,
+    "timestamp": "2026-08-22T11:04:15.275064"
+  },
+  {
+    "event_id": 948,
+    "user_id": "U019",
+    "action": "add_to_cart",
+    "server_cpu": 55.51,
+    "server_memory": 76.36,
+    "timestamp": "2026-08-22T11:04:15.275066"
+  },
+  {
+    "event_id": 949,
+    "user_id": "U013",
+    "action": "add_to_cart",
+    "server_cpu": 22.22,
+    "server_memory": 85.66,
+    "timestamp": "2026-08-22T11:04:15.275069"
+  },
+  {
+    "event_id": 950,
+    "user_id": "U016",
+    "action": "logout",
+    "server_cpu": 24.48,
+    "server_memory": 79.46,
+    "timestamp": "2026-08-22T11:04:15.275071"
+  },
+  {
+    "event_id": 951,
+    "user_id": "U008",
+    "action": "search",
+    "server_cpu": 88.52,
+    "server_memory": 31.98,
+    "timestamp": "2026-08-22T11:04:15.275074"
+  },
+  {
+    "event_id": 952,
+    "user_id": "U015",
+    "action": "add_to_cart",
+    "server_cpu": 33.44,
+    "server_memory": 35.16,
+    "timestamp": "2026-08-22T11:04:15.275076"
+  },
+  {
+    "event_id": 953,
+    "user_id": "U019",
+    "action": "checkout",
+    "server_cpu": 93.43,
+    "server_memory": 66.87,
+    "timestamp": "2026-08-22T11:04:15.275078"
+  },
+  {
+    "event_id": 954,
+    "user_id": "U004",
+    "action": "page_view",
+    "server_cpu": 29.94,
+    "server_memory": 72.28,
+    "timestamp": "2026-08-22T11:04:15.275081"
+  },
+  {
+    "event_id": 955,
+    "user_id": "U017",
+    "action": "checkout",
+    "server_cpu": 47.34,
+    "server_memory": 49.61,
+    "timestamp": "2026-08-22T11:04:15.275083"
+  },
+  {
+    "event_id": 956,
+    "user_id": "U016",
+    "action": "login",
+    "server_cpu": 73.08,
+    "server_memory": 89.57,
+    "timestamp": "2026-08-22T11:04:15.275085"
+  },
+  {
+    "event_id": 957,
+    "user_id": "U006",
+    "action": "login",
+    "server_cpu": 84.1,
+    "server_memory": 71.78,
+    "timestamp": "2026-08-22T11:04:15.275088"
+  },
+  {
+    "event_id": 958,
+    "user_id": "U001",
+    "action": "logout",
+    "server_cpu": 82.64,
+    "server_memory": 64.92,
+    "timestamp": "2026-08-22T11:04:15.275090"
+  },
+  {
+    "event_id": 959,
+    "user_id": "U009",
+    "action": "page_view",
+    "server_cpu": 67.12,
+    "server_memory": 87.73,
+    "timestamp": "2026-08-22T11:04:15.275092"
+  },
+  {
+    "event_id": 960,
+    "user_id": "U019",
+    "action": "login",
+    "server_cpu": 22.89,
+    "server_memory": 66.41,
+    "timestamp": "2026-08-22T11:04:15.275095"
+  },
+  {
+    "event_id": 961,
+    "user_id": "U012",
+    "action": "add_to_cart",
+    "server_cpu": 23.79,
+    "server_memory": 36.85,
+    "timestamp": "2026-08-22T11:04:15.275097"
+  },
+  {
+    "event_id": 962,
+    "user_id": "U007",
+    "action": "login",
+    "server_cpu": 82.81,
+    "server_memory": 77.41,
+    "timestamp": "2026-08-22T11:04:15.275099"
+  },
+  {
+    "event_id": 963,
+    "user_id": "U011",
+    "action": "checkout",
+    "server_cpu": 21.77,
+    "server_memory": 43.6,
+    "timestamp": "2026-08-22T11:04:15.275102"
+  },
+  {
+    "event_id": 964,
+    "user_id": "U015",
+    "action": "login",
+    "server_cpu": 67.25,
+    "server_memory": 66.61,
+    "timestamp": "2026-08-22T11:04:15.275104"
+  },
+  {
+    "event_id": 965,
+    "user_id": "U013",
+    "action": "login",
+    "server_cpu": 53.08,
+    "server_memory": 52.67,
+    "timestamp": "2026-08-22T11:04:15.275108"
+  },
+  {
+    "event_id": 966,
+    "user_id": "U014",
+    "action": "add_to_cart",
+    "server_cpu": 58.29,
+    "server_memory": 71.18,
+    "timestamp": "2026-08-22T11:04:15.275110"
+  },
+  {
+    "event_id": 967,
+    "user_id": "U017",
+    "action": "page_view",
+    "server_cpu": 70.37,
+    "server_memory": 60.18,
+    "timestamp": "2026-08-22T11:04:15.275113"
+  },
+  {
+    "event_id": 968,
+    "user_id": "U009",
+    "action": "login",
+    "server_cpu": 40.41,
+    "server_memory": 78.95,
+    "timestamp": "2026-08-22T11:04:15.275115"
+  },
+  {
+    "event_id": 969,
+    "user_id": "U016",
+    "action": "logout",
+    "server_cpu": 77.69,
+    "server_memory": 40.66,
+    "timestamp": "2026-08-22T11:04:15.275119"
+  },
+  {
+    "event_id": 970,
+    "user_id": "U019",
+    "action": "checkout",
+    "server_cpu": 70.89,
+    "server_memory": 82.61,
+    "timestamp": "2026-08-22T11:04:15.275121"
+  },
+  {
+    "event_id": 971,
+    "user_id": "U009",
+    "action": "checkout",
+    "server_cpu": 32.16,
+    "server_memory": 34.89,
+    "timestamp": "2026-08-22T11:04:15.275124"
+  },
+  {
+    "event_id": 972,
+    "user_id": "U003",
+    "action": "add_to_cart",
+    "server_cpu": 46.03,
+    "server_memory": 56.79,
+    "timestamp": "2026-08-22T11:04:15.275126"
+  },
+  {
+    "event_id": 973,
+    "user_id": "U017",
+    "action": "login",
+    "server_cpu": 71.71,
+    "server_memory": 36.18,
+    "timestamp": "2026-08-22T11:04:15.275129"
+  },
+  {
+    "event_id": 974,
+    "user_id": "U011",
+    "action": "login",
+    "server_cpu": 42.82,
+    "server_memory": 77.97,
+    "timestamp": "2026-08-22T11:04:15.275132"
+  },
+  {
+    "event_id": 975,
+    "user_id": "U003",
+    "action": "search",
+    "server_cpu": 49.23,
+    "server_memory": 38.14,
+    "timestamp": "2026-08-22T11:04:15.275134"
+  },
+  {
+    "event_id": 976,
+    "user_id": "U003",
+    "action": "login",
+    "server_cpu": 63.16,
+    "server_memory": 63.74,
+    "timestamp": "2026-08-22T11:04:15.275137"
+  },
+  {
+    "event_id": 977,
+    "user_id": "U012",
+    "action": "logout",
+    "server_cpu": 32.55,
+    "server_memory": 57.23,
+    "timestamp": "2026-08-22T11:04:15.275139"
+  },
+  {
+    "event_id": 978,
+    "user_id": "U014",
+    "action": "login",
+    "server_cpu": 29.62,
+    "server_memory": 61.19,
+    "timestamp": "2026-08-22T11:04:15.275141"
+  },
+  {
+    "event_id": 979,
+    "user_id": "U007",
+    "action": "search",
+    "server_cpu": 37.42,
+    "server_memory": 76.46,
+    "timestamp": "2026-08-22T11:04:15.275144"
+  },
+  {
+    "event_id": 980,
+    "user_id": "U007",
+    "action": "add_to_cart",
+    "server_cpu": 37.81,
+    "server_memory": 79.62,
+    "timestamp": "2026-08-22T11:04:15.275146"
+  },
+  {
+    "event_id": 981,
+    "user_id": "U008",
+    "action": "page_view",
+    "server_cpu": 88.62,
+    "server_memory": 82.22,
+    "timestamp": "2026-08-22T11:04:15.275150"
+  },
+  {
+    "event_id": 982,
+    "user_id": "U006",
+    "action": "logout",
+    "server_cpu": 66.98,
+    "server_memory": 48.43,
+    "timestamp": "2026-08-22T11:04:15.275152"
+  },
+  {
+    "event_id": 983,
+    "user_id": "U004",
+    "action": "login",
+    "server_cpu": 61.75,
+    "server_memory": 59.78,
+    "timestamp": "2026-08-22T11:04:15.275155"
+  },
+  {
+    "event_id": 984,
+    "user_id": "U014",
+    "action": "page_view",
+    "server_cpu": 50.76,
+    "server_memory": 62.58,
+    "timestamp": "2026-08-22T11:04:15.275157"
+  },
+  {
+    "event_id": 985,
+    "user_id": "U014",
+    "action": "search",
+    "server_cpu": 20.99,
+    "server_memory": 60.08,
+    "timestamp": "2026-08-22T11:04:15.275161"
+  },
+  {
+    "event_id": 986,
+    "user_id": "U013",
+    "action": "add_to_cart",
+    "server_cpu": 86.88,
+    "server_memory": 86.53,
+    "timestamp": "2026-08-22T11:04:15.275163"
+  },
+  {
+    "event_id": 987,
+    "user_id": "U018",
+    "action": "search",
+    "server_cpu": 79.56,
+    "server_memory": 39.36,
+    "timestamp": "2026-08-22T11:04:15.275166"
+  },
+  {
+    "event_id": 988,
+    "user_id": "U019",
+    "action": "page_view",
+    "server_cpu": 72.46,
+    "server_memory": 64.48,
+    "timestamp": "2026-08-22T11:04:15.275168"
+  },
+  {
+    "event_id": 989,
+    "user_id": "U014",
+    "action": "page_view",
+    "server_cpu": 67.06,
+    "server_memory": 73.51,
+    "timestamp": "2026-08-22T11:04:15.275170"
+  },
+  {
+    "event_id": 990,
+    "user_id": "U016",
+    "action": "page_view",
+    "server_cpu": 91.19,
+    "server_memory": 51.14,
+    "timestamp": "2026-08-22T11:04:15.275173"
+  },
+  {
+    "event_id": 991,
+    "user_id": "U019",
+    "action": "login",
+    "server_cpu": 93.56,
+    "server_memory": 74.95,
+    "timestamp": "2026-08-22T11:04:15.275176"
+  },
+  {
+    "event_id": 992,
+    "user_id": "U007",
+    "action": "logout",
+    "server_cpu": 83.4,
+    "server_memory": 58.92,
+    "timestamp": "2026-08-22T11:04:15.275179"
+  },
+  {
+    "event_id": 993,
+    "user_id": "U013",
+    "action": "logout",
+    "server_cpu": 40.83,
+    "server_memory": 86.6,
+    "timestamp": "2026-08-22T11:04:15.275182"
+  },
+  {
+    "event_id": 994,
+    "user_id": "U008",
+    "action": "login",
+    "server_cpu": 41.46,
+    "server_memory": 72.84,
+    "timestamp": "2026-08-22T11:04:15.275184"
+  },
+  {
+    "event_id": 995,
+    "user_id": "U019",
+    "action": "add_to_cart",
+    "server_cpu": 92.2,
+    "server_memory": 42.65,
+    "timestamp": "2026-08-22T11:04:15.275187"
+  },
+  {
+    "event_id": 996,
+    "user_id": "U015",
+    "action": "page_view",
+    "server_cpu": 41.92,
+    "server_memory": 82.52,
+    "timestamp": "2026-08-22T11:04:15.275189"
+  },
+  {
+    "event_id": 997,
+    "user_id": "U007",
+    "action": "add_to_cart",
+    "server_cpu": 79.21,
+    "server_memory": 82.66,
+    "timestamp": "2026-08-22T11:04:15.275192"
+  },
+  {
+    "event_id": 998,
+    "user_id": "U008",
+    "action": "search",
+    "server_cpu": 77.81,
+    "server_memory": 86.74,
+    "timestamp": "2026-08-22T11:04:15.275195"
+  },
+  {
+    "event_id": 999,
+    "user_id": "U008",
+    "action": "logout",
+    "server_cpu": 80.99,
+    "server_memory": 67.31,
+    "timestamp": "2026-08-22T11:04:15.275198"
+  },
+  {
+    "event_id": 1000,
+    "user_id": "U014",
+    "action": "checkout",
+    "server_cpu": 53.41,
+    "server_memory": 80.39,
+    "timestamp": "2026-08-22T11:04:15.275200"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "transaction_id": 101,
+    "customer": {
+      "id": 1,
+      "name": "Raj"
+    },
+    "amount": 5000,
+    "status": "Success"
+  },
+  {
+    "transaction_id": 102,
+    "customer": {
+      "id": 2,
+      "name": "Priya"
+    },
+    "amount": 2500,
+    "status": "Pending"
+  },
+  {
+    "transaction_id": 103,
+    "customer": {
+      "id": 3,
+      "name": "Amit"
+    },
+    "amount": 4200,
+    "status": "Success"
+  }
+]

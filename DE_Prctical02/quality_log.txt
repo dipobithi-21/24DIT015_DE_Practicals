@@ -1,0 +1,12 @@
+========== DATA QUALITY REPORT ==========
+
+Missing Values:
+CustomerID    0
+Name          0
+City          0
+Email         0
+dtype: int64
+
+Duplicate Records: 0
+
+Validation Completed Successfully.
